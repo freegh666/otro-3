@@ -4614,7 +4614,19 @@
     },
     "done": true
   },
+  "mca:grow_child": {
+    "criteria": {
+      "baby": "2025-03-29 22:05:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-03-29 22:08:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_ender_eye": "2025-03-29 22:08:49 +0000"
     },
@@ -4623,18 +4635,6 @@
   "mca:chores": {
     "criteria": {
       "baby": "2025-03-29 22:22:01 +0000"
-    },
-    "done": true
-  },
-  "mca:grow_child": {
-    "criteria": {
-      "baby": "2025-03-29 22:05:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/ender_chest": {
-    "criteria": {
-      "has_ender_eye": "2025-03-29 22:08:49 +0000"
     },
     "done": true
   },
