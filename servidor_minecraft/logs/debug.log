@@ -5225,3 +5225,22 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [29Mar2025 22:32:01.896] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/130, l='ServerLevel[world]', x=-1307.15, y=68.00, z=-3060.37]
 [29Mar2025 22:33:44.487] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
 [29Mar2025 22:33:44.487] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[29Mar2025 22:33:51.391] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Mar2025 22:33:51.422] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Mar2025 22:37:04.737] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[29Mar2025 22:38:51.353] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Mar2025 22:38:51.371] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Mar2025 22:39:34.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PlagaXNZ: Set own game mode to Creative Mode]
+[29Mar2025 22:39:35.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PlagaXNZ: Set own game mode to Spectator Mode]
+[29Mar2025 22:40:24.537] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[29Mar2025 22:40:39.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PlagaXNZ: Set own game mode to Survival Mode]
+[29Mar2025 22:40:43.659] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/130, l='ServerLevel[world]', x=-1176.55, y=69.00, z=-3095.93], dimensionLocationPath overworld
+[29Mar2025 22:40:43.659] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/130, l='ServerLevel[world]', x=-1176.55, y=69.00, z=-3095.93] in list []
+[29Mar2025 22:40:43.719] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/130, l='ServerLevel[world]', x=-1176.55, y=69.00, z=-3095.93]
+[29Mar2025 22:40:44.103] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/130, l='ServerLevel[world]', x=-1176.55, y=69.00, z=-3095.93], dimensionLocationPath overworld
+[29Mar2025 22:40:44.103] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/130, l='ServerLevel[world]', x=-1176.55, y=69.00, z=-3095.93] in list []
+[29Mar2025 22:40:44.154] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/130, l='ServerLevel[world]', x=-1176.55, y=69.00, z=-3095.93]
+[29Mar2025 22:43:44.488] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[29Mar2025 22:43:44.488] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[29Mar2025 22:43:51.360] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Mar2025 22:43:51.388] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
