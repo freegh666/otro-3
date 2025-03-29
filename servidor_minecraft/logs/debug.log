@@ -4777,3 +4777,23 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [29Mar2025 18:05:07.742] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29Mar2025 18:05:07.763] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [29Mar2025 18:06:37.026] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[29Mar2025 18:09:56.926] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[29Mar2025 18:09:56.926] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[29Mar2025 18:10:07.639] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Mar2025 18:10:07.671] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Mar2025 18:12:06.850] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@572694c1 for service interface com.blamejared.clumps.platform.IEventHelper
+[29Mar2025 18:12:06.851] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@39b53ce1 for service interface com.blamejared.clumps.platform.IPlatformHelper
+[29Mar2025 18:13:17.177] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[29Mar2025 18:15:07.598] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Mar2025 18:15:07.621] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Mar2025 18:15:32.293] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/130, l='ServerLevel[world]', x=-1181.68, y=101.00, z=-3104.59], dimensionLocationPath overworld
+[29Mar2025 18:15:32.589] [Worker-Main-8/DEBUG] [mixin/]: Mixing common.accessor.WorldGenRegionAccessor from aether.mixins.json into net.minecraft.server.level.WorldGenRegion
+[29Mar2025 18:15:37.527] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/130, l='ServerLevel[world]', x=-1181.68, y=101.00, z=-3104.59]
+[29Mar2025 18:15:37.579] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5204ms or 104 ticks behind
+[29Mar2025 18:15:37.659] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/130, l='ServerLevel[world]', x=-1185.70, y=94.92, z=-3099.83], dimensionLocationPath overworld
+[29Mar2025 18:15:37.660] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/130, l='ServerLevel[world]', x=-1185.70, y=94.92, z=-3099.83] in list []
+[29Mar2025 18:15:55.753] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/130, l='ServerLevel[world]', x=-1178.77, y=69.56, z=-3093.30]
+[29Mar2025 18:16:37.075] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[29Mar2025 18:18:19.728] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[29Mar2025 18:19:56.976] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[29Mar2025 18:19:56.976] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!

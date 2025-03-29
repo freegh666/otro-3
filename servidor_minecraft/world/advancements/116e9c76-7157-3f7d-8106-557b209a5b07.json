@@ -4605,5 +4605,11 @@
     },
     "done": true
   },
+  "fantasyfurniture:recipes/misc/furniture_station": {
+    "criteria": {
+      "has_crafting_table": "2025-03-29 18:05:24 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
