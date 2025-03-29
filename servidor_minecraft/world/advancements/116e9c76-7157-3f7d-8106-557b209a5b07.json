@@ -4620,6 +4620,12 @@
     },
     "done": true
   },
+  "mca:chores": {
+    "criteria": {
+      "baby": "2025-03-29 22:22:01 +0000"
+    },
+    "done": true
+  },
   "mca:grow_child": {
     "criteria": {
       "baby": "2025-03-29 22:05:51 +0000"

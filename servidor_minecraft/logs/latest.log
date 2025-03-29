@@ -567,3 +567,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
   "[-34, -99, 30, -17, -102, -96, -14, -37, 124, -17, -43, -57, 26, -68, 38, -13]"
 ]
 [29Mar2025 22:22:01.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ has made the advancement [Chores]
+[29Mar2025 22:24:41.997] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Malenia'/143, l='ServerLevel[world]', x=-1183.97, y=76.00, z=-3095.97] died, message: 'Malenia hit the ground too hard'
+[29Mar2025 22:24:41.998] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Malenia'/143, l='ServerLevel[world]', x=-1183.97, y=76.00, z=-3095.97] died: Malenia fell from a high place
