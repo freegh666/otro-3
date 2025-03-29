@@ -4867,3 +4867,25 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [29Mar2025 21:58:51.368] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29Mar2025 21:58:51.393] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [29Mar2025 22:00:24.387] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[29Mar2025 22:03:44.338] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[29Mar2025 22:03:44.339] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[29Mar2025 22:03:51.370] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Mar2025 22:03:51.388] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Mar2025 22:04:29.753] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/130, l='ServerLevel[world]', x=-1203.71, y=68.00, z=-3080.71], dimensionLocationPath overworld
+[29Mar2025 22:04:29.753] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/130, l='ServerLevel[world]', x=-1203.71, y=68.00, z=-3080.71] in list []
+[29Mar2025 22:04:29.860] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/130, l='ServerLevel[world]', x=-1202.87, y=68.00, z=-3078.88]
+[29Mar2025 22:05:51.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ has made the advancement [What a Handful]
+[29Mar2025 22:07:04.588] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[29Mar2025 22:08:51.358] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Mar2025 22:08:51.381] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Mar2025 22:10:24.388] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[29Mar2025 22:11:27.741] [Worker-Main-28/DEBUG] [mixin/]: Mixing common.accessor.WorldGenRegionAccessor from aether.mixins.json into net.minecraft.server.level.WorldGenRegion
+[29Mar2025 22:12:37.356] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/130, l='ServerLevel[world]', x=-1116.11, y=63.00, z=-3277.24], dimensionLocationPath overworld
+[29Mar2025 22:12:37.356] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/130, l='ServerLevel[world]', x=-1116.11, y=63.00, z=-3277.24] in list []
+[29Mar2025 22:12:37.462] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/130, l='ServerLevel[world]', x=-1116.01, y=63.00, z=-3277.60]
+[29Mar2025 22:12:41.498] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/130, l='ServerLevel[world]', x=-1104.40, y=64.00, z=-3283.35], dimensionLocationPath overworld
+[29Mar2025 22:12:41.499] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/130, l='ServerLevel[world]', x=-1104.40, y=64.00, z=-3283.35] in list []
+[29Mar2025 22:12:49.152] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/130, l='ServerLevel[world]', x=-1112.58, y=63.00, z=-3272.73]
+[29Mar2025 22:12:59.702] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/130, l='ServerLevel[world]', x=-1101.34, y=64.00, z=-3280.44], dimensionLocationPath overworld
+[29Mar2025 22:12:59.702] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/130, l='ServerLevel[world]', x=-1101.34, y=64.00, z=-3280.44] in list []
+[29Mar2025 22:12:59.802] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/130, l='ServerLevel[world]', x=-1101.34, y=64.00, z=-3280.42]
