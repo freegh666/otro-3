@@ -635,3 +635,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [
   "G$V+M<~XVH5\\*h=,+'"
 ]
+[29Mar2025 18:43:58.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PlagaXNZ: The difficulty has been set to Hard]
+[29Mar2025 18:47:45.888] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PlagaXNZ lost connection: Disconnected
+[29Mar2025 18:47:45.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ left the game
+[29Mar2025 18:47:45.889] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 116e9c76-7157-3f7d-8106-557b209a5b07
+[29Mar2025 18:47:45.893] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PlagaXNZ
