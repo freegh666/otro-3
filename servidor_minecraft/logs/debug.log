@@ -4946,3 +4946,91 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
   "<partial numeric data>",
   "[-55, -108, 124, -109, 33, -54, 78, 1, 110, -53, 40]"
 ]
+[30Mar2025 01:14:44.692] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[30Mar2025 01:14:44.693] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=5768192, y=985, z=1122352}"
+}
+[30Mar2025 01:14:44.693] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 109 extra bytes: 
+[30Mar2025 01:14:44.693] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "wXYc=M\"rd8$~Urh #H+B4EcufQ#O2+/,0/5#'<"
+]
+[30Mar2025 01:14:44.694] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundChangeDifficultyPacket  id 2 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[30Mar2025 01:14:44.698] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133814_": "NORMAL"
+}
+[30Mar2025 01:14:44.699] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 2 data of 185 extra bytes: 
+[30Mar2025 01:14:44.700] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "d8$~Urh #H+B4EcufQ#O2+/,0/5#'<2.ip.gl.ply.gg"
+]
+[30Mar2025 01:14:44.949] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[30Mar2025 01:14:44.950] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-8125440, y=982, z=905264}"
+}
+[30Mar2025 01:14:44.950] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[30Mar2025 01:14:44.951] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[37, 117, 110, 108, -123, -77, -112, -15, -111, -29, 46]"
+]
+[30Mar2025 01:14:47.293] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[30Mar2025 01:14:47.294] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-11271168, y=975, z=856112}"
+}
+[30Mar2025 01:14:47.294] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 12 extra bytes: 
+[30Mar2025 01:14:47.294] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[1, 5, -62, -88, -77, -103, 62, 43, -89, 111, 98, 63]"
+]
+[30Mar2025 01:14:47.295] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[30Mar2025 01:14:47.295] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 5,
+  "f_133799_": "BlockPos{x=-16080178, y=1903, z=26469050}"
+}
+[30Mar2025 01:14:47.295] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 2 extra bytes: 
+[30Mar2025 01:14:47.295] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[98, 63]"
+]
+[30Mar2025 01:15:57.609] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[30Mar2025 01:15:57.609] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[30Mar2025 01:16:10.773] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Mar2025 01:16:10.800] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Mar2025 01:18:58.969] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/129, l='ServerLevel[world]', x=-1179.19, y=96.00, z=-3101.83], dimensionLocationPath overworld
+[30Mar2025 01:18:58.969] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/129, l='ServerLevel[world]', x=-1179.19, y=96.00, z=-3101.83] in list []
+[30Mar2025 01:19:04.222] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/129, l='ServerLevel[world]', x=-1185.35, y=98.00, z=-3105.45]
+[30Mar2025 01:19:17.908] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[30Mar2025 01:19:57.676] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@31a45a36 for service interface com.blamejared.clumps.platform.IEventHelper
+[30Mar2025 01:19:57.676] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@66e6869c for service interface com.blamejared.clumps.platform.IPlatformHelper
+[30Mar2025 01:20:53.771] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/129, l='ServerLevel[world]', x=-1264.60, y=71.00, z=-3073.31], dimensionLocationPath overworld
+[30Mar2025 01:20:53.771] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/129, l='ServerLevel[world]', x=-1264.60, y=71.00, z=-3073.31] in list []
+[30Mar2025 01:21:10.732] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Mar2025 01:21:10.750] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Mar2025 01:21:27.372] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/129, l='ServerLevel[world]', x=-1180.80, y=103.00, z=-3101.22]
+[30Mar2025 01:21:59.658] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Glowstone'/4195, l='ServerLevel[world]', x=-1180.61, y=108.31, z=-3100.36], dimensionLocationPath overworld
+[30Mar2025 01:21:59.658] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Glowstone'/4195, l='ServerLevel[world]', x=-1180.61, y=108.31, z=-3100.36] in list []
+[30Mar2025 01:22:01.308] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Glowstone'/4195, l='ServerLevel[world]', x=-1179.81, y=103.00, z=-3101.00, removed=DISCARDED]
+[30Mar2025 01:22:02.822] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/129, l='ServerLevel[world]', x=-1180.80, y=103.00, z=-3100.73], dimensionLocationPath overworld
+[30Mar2025 01:22:02.822] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/129, l='ServerLevel[world]', x=-1180.80, y=103.00, z=-3100.73] in list []
+[30Mar2025 01:22:04.871] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/129, l='ServerLevel[world]', x=-1184.56, y=103.00, z=-3103.49]
+[30Mar2025 01:22:13.708] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Glowstone'/4307, l='ServerLevel[world]', x=-1181.30, y=108.40, z=-3100.72], dimensionLocationPath overworld
+[30Mar2025 01:22:13.708] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Glowstone'/4307, l='ServerLevel[world]', x=-1181.30, y=108.40, z=-3100.72] in list []
+[30Mar2025 01:22:14.659] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Glowstone'/4307, l='ServerLevel[world]', x=-1181.56, y=104.83, z=-3100.62, removed=DISCARDED]
+[30Mar2025 01:22:15.573] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/129, l='ServerLevel[world]', x=-1184.31, y=103.00, z=-3101.33], dimensionLocationPath overworld
+[30Mar2025 01:22:15.573] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/129, l='ServerLevel[world]', x=-1184.31, y=103.00, z=-3101.33] in list []
+[30Mar2025 01:22:16.671] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/129, l='ServerLevel[world]', x=-1184.86, y=103.00, z=-3101.72]
+[30Mar2025 01:22:37.757] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[30Mar2025 01:23:02.322] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/129, l='ServerLevel[world]', x=-1259.05, y=71.13, z=-3075.32], dimensionLocationPath overworld
+[30Mar2025 01:23:02.322] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/129, l='ServerLevel[world]', x=-1259.05, y=71.13, z=-3075.32] in list []
+[30Mar2025 01:23:02.524] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/129, l='ServerLevel[world]', x=-1259.05, y=71.13, z=-3075.56]
