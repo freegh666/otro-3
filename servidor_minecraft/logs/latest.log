@@ -855,3 +855,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [30Mar2025 03:29:18.618] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of PlagaXNZ (18)
 [30Mar2025 03:29:18.618] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to PlagaXNZ
 [30Mar2025 03:38:48.787] [Worker-Main-154/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/36680, l='ServerLevel[world]', x=-365.00, y=84.00, z=690.00] as it would cause deadlock
+[30Mar2025 04:02:30.993] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PlagaXNZ moved wrongly!
