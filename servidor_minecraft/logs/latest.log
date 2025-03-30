@@ -2075,3 +2075,5 @@ Caused by: java.io.IOException: Packet 0/1 (ServerboundBlockEntityTagQuery) was 
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
 	... 28 more
+[30Mar2025 04:33:57.327] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[30Mar2025 04:33:57.328] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
