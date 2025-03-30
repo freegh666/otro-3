@@ -2079,3 +2079,6 @@ Caused by: java.io.IOException: Packet 0/1 (ServerboundBlockEntityTagQuery) was 
 [30Mar2025 04:33:57.328] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
 [30Mar2025 05:22:58.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PlagaXNZ: Gave 1 [Soul Sand] to PlagaXNZ]
 [30Mar2025 05:24:53.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PlagaXNZ: Gave 1 [Soul Soil] to PlagaXNZ]
+[30Mar2025 05:41:03.824] [Server thread/INFO] [forge.net.mca.MCA/]: Attempting to spawn reaper at BlockPos{x=-1222, y=68, z=-3165} in minecraft:overworld
+[30Mar2025 05:41:03.824] [Server thread/INFO] [forge.net.mca.MCA/]: Current time is 13744
+[30Mar2025 05:41:03.826] [Server thread/INFO] [forge.net.mca.MCA/]: It is night time, found 3 totems
