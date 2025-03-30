@@ -4650,9 +4650,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2025-03-30 03:13:22 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/borderless_glass_light_blue2": {
     "criteria": {
       "recipe_condition1": "2025-03-30 02:01:57 +0000"
+    },
+    "done": true
+  },
+  "mca:family": {
+    "criteria": {
+      "iron": "2025-03-30 03:01:44 +0000"
     },
     "done": true
   },
@@ -4665,6 +4677,12 @@
   "connectedglass:recipes/misc/borderless_glass_pink2": {
     "criteria": {
       "recipe_condition1": "2025-03-30 02:01:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2025-03-30 03:13:22 +0000"
     },
     "done": true
   },

@@ -501,3 +501,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [30Mar2025 01:29:53.564] [Worker-Main-39/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/6136, l='ServerLevel[world]', x=21.00, y=31.00, z=-243.00] as it would cause deadlock
 [30Mar2025 01:29:53.568] [Worker-Main-39/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/6138, l='ServerLevel[world]', x=21.00, y=31.00, z=-244.00] as it would cause deadlock
 [30Mar2025 01:36:44.777] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[30Mar2025 03:01:44.351] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[30Mar2025 03:01:44.351] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[30Mar2025 03:01:44.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ has made the advancement [Settling In]
+[30Mar2025 03:14:37.927] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
