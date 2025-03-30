@@ -500,3 +500,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [30Mar2025 01:28:46.323] [Worker-Main-39/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/5806, l='ServerLevel[world]', x=40.00, y=31.00, z=-403.00] as it would cause deadlock
 [30Mar2025 01:29:53.564] [Worker-Main-39/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/6136, l='ServerLevel[world]', x=21.00, y=31.00, z=-243.00] as it would cause deadlock
 [30Mar2025 01:29:53.568] [Worker-Main-39/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/6138, l='ServerLevel[world]', x=21.00, y=31.00, z=-244.00] as it would cause deadlock
+[30Mar2025 01:36:44.777] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
