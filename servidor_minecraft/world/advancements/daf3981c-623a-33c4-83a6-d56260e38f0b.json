@@ -261,7 +261,8 @@
       "minecraft:piglin": "2025-03-23 02:01:40 +0000",
       "minecraft:enderman": "2025-03-23 03:54:45 +0000",
       "minecraft:stray": "2025-03-23 06:14:47 +0000",
-      "minecraft:zombie": "2025-03-23 00:37:57 +0000"
+      "minecraft:zombie": "2025-03-23 00:37:57 +0000",
+      "minecraft:drowned": "2025-03-31 00:51:25 +0000"
     },
     "done": false
   },
@@ -2577,27 +2578,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+  "mca:adventure/scythe_kill": {
     "criteria": {
-      "has_potato": "2025-03-29 05:09:39 +0000"
-    },
-    "done": true
-  },
-  "farm_and_charm:recipes/lettuce": {
-    "criteria": {
-      "has_tomato_seeds": "2025-03-29 05:11:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato": {
-    "criteria": {
-      "has_potato": "2025-03-29 05:09:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pumpkin_seeds": {
-    "criteria": {
-      "has_pumpkin": "2025-03-29 05:11:25 +0000"
+      "iron": "2025-03-29 04:32:00 +0000"
     },
     "done": true
   },
@@ -2607,21 +2590,21 @@
     },
     "done": true
   },
-  "farm_and_charm:recipes/tomato_bag": {
+  "minecraft:recipes/misc/wheat": {
     "criteria": {
-      "has_tomato": "2025-03-29 05:11:41 +0000"
+      "has_hay_block": "2025-03-29 05:09:00 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/pumpkin_pie": {
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
-      "has_pumpkin": "2025-03-29 05:11:25 +0000"
+      "has_potato": "2025-03-29 05:09:39 +0000"
     },
     "done": true
   },
-  "mca:adventure/scythe_kill": {
+  "minecraft:recipes/food/baked_potato": {
     "criteria": {
-      "iron": "2025-03-29 04:32:00 +0000"
+      "has_potato": "2025-03-29 05:09:39 +0000"
     },
     "done": true
   },
@@ -2637,15 +2620,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/wheat": {
+  "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
-      "has_hay_block": "2025-03-29 05:09:00 +0000"
+      "has_pumpkin": "2025-03-29 05:11:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-03-29 05:11:25 +0000"
     },
     "done": true
   },
   "aether:recipes/food/moa_egg_pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2025-03-29 05:11:25 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/lettuce": {
+    "criteria": {
+      "has_tomato_seeds": "2025-03-29 05:11:39 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/tomato_bag": {
+    "criteria": {
+      "has_tomato": "2025-03-29 05:11:41 +0000"
     },
     "done": true
   },

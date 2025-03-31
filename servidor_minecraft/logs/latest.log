@@ -782,3 +782,15 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [
   "pL4TAvdgY%HnB+V8,0+/$(k#'g93=<5/p21.ip.gl.pl"
 ]
+[31Mar2025 00:48:51.555] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jukot[/127.113.44.68:50649] logged in with entity id 6221 at (-2199.6632955327545, 65.9375, 4041.5770334023296)
+[31Mar2025 00:48:51.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot joined the game
+[31Mar2025 00:48:51.590] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for daf3981c-623a-33c4-83a6-d56260e38f0b
+[31Mar2025 00:49:46.671] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ignac'/6240, l='ServerLevel[world]', x=-2198.11, y=64.00, z=4033.74] died, message: 'Ignac was slain by Zombie'
+[31Mar2025 00:49:46.678] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Ignac'/6240, l='ServerLevel[world]', x=-2198.11, y=64.00, z=4033.74] died: Ignac was slain by Zombie
+[31Mar2025 00:49:49.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> e gil ya vuelvo
+[31Mar2025 00:49:50.925] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PlagaXNZ lost connection: Disconnected
+[31Mar2025 00:49:50.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ left the game
+[31Mar2025 00:49:50.926] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 116e9c76-7157-3f7d-8106-557b209a5b07
+[31Mar2025 00:49:50.929] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PlagaXNZ
+[31Mar2025 00:51:49.959] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Mladenka'/6505, l='ServerLevel[world]', x=-2281.14, y=66.00, z=3916.55] died, message: 'Mladenka was shot by Skeleton'
+[31Mar2025 00:51:49.961] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Mladenka'/6505, l='ServerLevel[world]', x=-2281.14, y=66.00, z=3916.55] died: Mladenka was shot by Skeleton
