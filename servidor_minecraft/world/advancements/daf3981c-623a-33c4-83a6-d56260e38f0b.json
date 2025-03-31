@@ -2699,6 +2699,12 @@
     },
     "done": true
   },
+  "fantasyfurniture:recipes/misc/furniture_station": {
+    "criteria": {
+      "has_leather": "2025-03-31 02:30:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-03-31 01:09:42 +0000"
