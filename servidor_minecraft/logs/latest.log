@@ -1424,3 +1424,16 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [31Mar2025 01:54:43.814] [Server thread/INFO] [forge.net.mca.MCA/]: Attempting to spawn reaper at BlockPos{x=-1222, y=68, z=-3165} in minecraft:overworld
 [31Mar2025 01:54:43.814] [Server thread/INFO] [forge.net.mca.MCA/]: Current time is 13692
 [31Mar2025 01:54:43.816] [Server thread/INFO] [forge.net.mca.MCA/]: It is night time, found 3 totems
+[31Mar2025 01:58:43.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot has completed the challenge [Beat Death]
+[31Mar2025 01:59:07.062] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Tatyana'/16838, l='ServerLevel[world]', x=-1244.50, y=68.00, z=-3101.19] died, message: 'Tatyana was slain by Zombie'
+[31Mar2025 01:59:52.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> culiao alla atra ahi unos dinosaurios de hielo
+[31Mar2025 01:59:59.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> no me acuerdo el nombre
+[31Mar2025 02:00:12.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> veni gil
+[31Mar2025 02:00:27.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> estoy cerca tuyo
+[31Mar2025 02:00:35.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> me estoy muriendo
+[31Mar2025 02:00:58.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ was killed by Witch using magic
+[31Mar2025 02:01:01.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot has reached the goal [Ice Scream]
+[31Mar2025 02:01:35.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukot> no te vi
+[31Mar2025 02:01:55.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> ya me di cuenta
+[31Mar2025 02:06:03.369] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Feodor'/25663, l='ServerLevel[world]', x=-1316.01, y=80.00, z=-2736.70] died, message: 'Feodor was slain by Jukot'
+[31Mar2025 02:06:03.370] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Feodor'/25663, l='ServerLevel[world]', x=-1316.01, y=80.00, z=-2736.70] died: Feodor was slain by Jukot

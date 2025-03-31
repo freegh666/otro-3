@@ -4746,5 +4746,11 @@
     },
     "done": true
   },
+  "aether:recipes/combat/iron_boots_repairing": {
+    "criteria": {
+      "has_iron_boots": "2025-03-31 01:58:31 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

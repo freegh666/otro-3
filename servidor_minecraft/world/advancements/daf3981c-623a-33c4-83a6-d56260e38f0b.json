@@ -258,6 +258,7 @@
       "minecraft:spider": "2025-03-23 00:59:24 +0000",
       "minecraft:piglin_brute": "2025-03-23 02:04:01 +0000",
       "minecraft:creeper": "2025-03-23 04:37:12 +0000",
+      "minecraft:witch": "2025-03-31 02:00:17 +0000",
       "minecraft:piglin": "2025-03-23 02:01:40 +0000",
       "minecraft:enderman": "2025-03-23 03:54:45 +0000",
       "minecraft:stray": "2025-03-23 06:14:47 +0000",
@@ -2674,6 +2675,12 @@
     },
     "done": true
   },
+  "mca:adventure/kill_grim_reaper": {
+    "criteria": {
+      "killed_reaper": "2025-03-31 01:58:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2025-03-31 01:54:26 +0000"
@@ -2725,6 +2732,12 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2025-03-31 01:54:26 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/froststalker_kill": {
+    "criteria": {
+      "ex": "2025-03-31 02:01:01 +0000"
     },
     "done": true
   },
