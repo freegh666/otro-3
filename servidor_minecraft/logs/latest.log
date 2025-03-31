@@ -1437,3 +1437,4 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [31Mar2025 02:01:55.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> ya me di cuenta
 [31Mar2025 02:06:03.369] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Feodor'/25663, l='ServerLevel[world]', x=-1316.01, y=80.00, z=-2736.70] died, message: 'Feodor was slain by Jukot'
 [31Mar2025 02:06:03.370] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Feodor'/25663, l='ServerLevel[world]', x=-1316.01, y=80.00, z=-2736.70] died: Feodor was slain by Jukot
+[31Mar2025 02:17:49.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukot> e gil tenes huevos??
