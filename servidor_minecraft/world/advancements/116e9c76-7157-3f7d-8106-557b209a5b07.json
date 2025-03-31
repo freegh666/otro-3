@@ -4782,11 +4782,23 @@
     },
     "done": true
   },
+  "mca:monarch": {
+    "criteria": {
+      "baby": "2025-03-31 23:52:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-03-31 23:23:22 +0000"
     },
     "done": true
+  },
+  "mca:baby_dropped": {
+    "criteria": {
+      "baby": "2025-03-31 23:52:57 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

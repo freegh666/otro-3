@@ -6470,3 +6470,21 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [31Mar2025 23:45:53.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> nose si se puede eso
 [31Mar2025 23:46:07.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukot> si vos lo hiciste una vez
 [31Mar2025 23:46:24.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> y o creo que lo mate
+[31Mar2025 23:49:03.796] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[31Mar2025 23:49:03.797] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[31Mar2025 23:49:16.760] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Mar2025 23:49:16.788] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Mar2025 23:51:54.972] [Netty Epoll Server IO #2/DEBUG] [emotecraft/]: [emotes server] Received data from: 116e9c76-7157-3f7d-8106-557b209a5b07 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=b9ad3c68-e1a9-4eb0-a345-0a0215f29631, length=61, extra={valid=true}}, startingAt=0, player=null}
+[31Mar2025 23:52:04.466] [Netty Epoll Server IO #2/DEBUG] [emotecraft/]: [emotes server] Received data from: 116e9c76-7157-3f7d-8106-557b209a5b07 data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=b9ad3c68-e1a9-4eb0-a345-0a0215f29631, emoteData=null, startingAt=0, player=null}
+[31Mar2025 23:52:24.048] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[31Mar2025 23:52:57.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ has completed the challenge [Monarch]
+[31Mar2025 23:53:18.880] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2234ms or 44 ticks behind
+[31Mar2025 23:54:18.972] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Mar2025 23:54:19.013] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Mar2025 23:54:46.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> al fin rey
+[31Mar2025 23:54:57.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukot> q cosa??
+[31Mar2025 23:55:14.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> osea al fin llegue a ser rey
+[31Mar2025 23:55:43.897] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[31Mar2025 23:55:54.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukot> e gil vos tenes la hoz??
+[31Mar2025 23:57:35.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukot> ???
+[31Mar2025 23:58:06.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> no gil si ayer te la di
