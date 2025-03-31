@@ -1454,3 +1454,6 @@ java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 [31Mar2025 02:31:21.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ left the game
 [31Mar2025 02:31:21.620] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 116e9c76-7157-3f7d-8106-557b209a5b07
 [31Mar2025 02:31:21.620] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PlagaXNZ
+[31Mar2025 02:46:02.204] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Mladenka'/37128, l='ServerLevel[world]', x=-2171.22, y=65.00, z=4024.06] died, message: 'Mladenka was slain by Ignac'
+[31Mar2025 02:46:02.204] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Mladenka'/37128, l='ServerLevel[world]', x=-2171.22, y=65.00, z=4024.06] died: Mladenka was slain by Ignac
+[31Mar2025 02:46:02.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot has completed the challenge [Friendly Fire!]

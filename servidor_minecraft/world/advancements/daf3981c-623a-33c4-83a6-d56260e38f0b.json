@@ -2657,15 +2657,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-03-31 02:38:31 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_ferrous_wroughtnaut": {
     "criteria": {
       "ferrous_wroughtnaut": "2025-03-31 01:11:13 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-03-31 02:38:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-03-31 02:38:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-03-31 01:09:42 +0000"
+    },
+    "done": true
+  },
+  "mca:friendly_fire": {
+    "criteria": {
+      "male_fate": "2025-03-31 02:46:02 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_dart": {
+    "criteria": {
+      "has_feather": "2025-03-31 02:38:31 +0000"
     },
     "done": true
   },
@@ -2720,6 +2750,12 @@
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2025-03-31 01:09:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-03-31 02:38:31 +0000"
     },
     "done": true
   },
