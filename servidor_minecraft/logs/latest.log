@@ -629,3 +629,14 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 ]
 [31Mar2025 23:24:41.413] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Katerina'/2640, l='ServerLevel[world]', x=1824.41, y=86.00, z=754.32] died, message: 'Katerina was slain by PlagaXNZ'
 [31Mar2025 23:24:41.415] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Katerina'/2640, l='ServerLevel[world]', x=1824.41, y=86.00, z=754.32] died: Katerina was slain by PlagaXNZ
+[31Mar2025 23:41:41.893] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jukot[/127.113.44.68:55781] logged in with entity id 7172 at (-2190.8178922976, 68.0, 4029.540761548324)
+[31Mar2025 23:41:41.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot joined the game
+[31Mar2025 23:41:41.928] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for daf3981c-623a-33c4-83a6-d56260e38f0b
+[31Mar2025 23:42:17.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot has made the advancement [They Grow Up So Fast]
+[31Mar2025 23:45:27.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukot> e gil como hago para divorciar algunos de los aldeasnos
+[31Mar2025 23:45:42.519] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[31Mar2025 23:45:42.519] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[31Mar2025 23:45:42.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot has made the advancement [Settling In]
+[31Mar2025 23:45:53.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> nose si se puede eso
+[31Mar2025 23:46:07.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukot> si vos lo hiciste una vez
+[31Mar2025 23:46:24.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> y o creo que lo mate
