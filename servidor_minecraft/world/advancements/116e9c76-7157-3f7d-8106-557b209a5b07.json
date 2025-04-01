@@ -4915,5 +4915,11 @@
     },
     "done": true
   },
+  "packedup:obsidian_backpack": {
+    "criteria": {
+      "has_backpack": "2025-04-01 01:40:38 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

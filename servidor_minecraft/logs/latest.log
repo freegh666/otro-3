@@ -1163,3 +1163,9 @@
 [01Apr2025 01:32:38.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot has made the advancement [Packing Up!]
 [01Apr2025 01:35:11.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ has made the advancement [Gotta have that bling]
 [01Apr2025 01:40:38.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ has reached the goal [The largest of them all]
+[01Apr2025 01:45:29.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> e gil
+[01Apr2025 01:45:36.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> yo me retiro
+[01Apr2025 01:45:38.679] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PlagaXNZ lost connection: Disconnected
+[01Apr2025 01:45:38.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ left the game
+[01Apr2025 01:45:38.679] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 116e9c76-7157-3f7d-8106-557b209a5b07
+[01Apr2025 01:45:38.679] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PlagaXNZ
