@@ -6146,3 +6146,14 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [01Apr2025 04:58:35.360] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/46136, l='ServerLevel[world]', x=-2196.13, y=64.00, z=4028.35], dimensionLocationPath overworld
 [01Apr2025 04:58:35.360] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/46136, l='ServerLevel[world]', x=-2196.13, y=64.00, z=4028.35] in list []
 [01Apr2025 04:58:35.407] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/46136, l='ServerLevel[world]', x=-2196.13, y=64.00, z=4028.35]
+[01Apr2025 05:00:07.194] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[01Apr2025 05:01:51.597] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Apr2025 05:01:51.612] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Apr2025 05:03:27.144] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[01Apr2025 05:03:51.611] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/46136, l='ServerLevel[world]', x=-2193.96, y=64.00, z=4029.16], dimensionLocationPath overworld
+[01Apr2025 05:03:51.612] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/46136, l='ServerLevel[world]', x=-2193.96, y=64.00, z=4029.16] in list []
+[01Apr2025 05:03:52.556] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/46136, l='ServerLevel[world]', x=-2193.96, y=64.00, z=4029.16]
+[01Apr2025 05:06:46.944] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[01Apr2025 05:06:46.944] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[01Apr2025 05:06:51.603] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Apr2025 05:06:51.622] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
