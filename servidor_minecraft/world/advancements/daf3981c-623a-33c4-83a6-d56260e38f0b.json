@@ -3069,6 +3069,12 @@
     },
     "done": true
   },
+  "mca:monarch": {
+    "criteria": {
+      "baby": "2025-04-01 04:05:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-04-01 02:36:40 +0000"
@@ -3099,6 +3105,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-04-01 03:54:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-04-01 02:36:40 +0000"
@@ -3110,6 +3122,12 @@
       "iron": "2025-04-01 02:57:57 +0000"
     },
     "done": true
+  },
+  "mca:baby_dropped": {
+    "criteria": {
+      "baby": "2025-04-01 04:05:15 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
