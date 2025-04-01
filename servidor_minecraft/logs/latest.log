@@ -1281,3 +1281,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [01Apr2025 04:34:15.009] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
 [01Apr2025 04:34:15.050] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
 [01Apr2025 04:34:15.051] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:41:14.692] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jukot lost connection: Disconnected
+[01Apr2025 04:41:15.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot left the game
+[01Apr2025 04:41:15.036] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for daf3981c-623a-33c4-83a6-d56260e38f0b
+[01Apr2025 04:41:15.105] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jukot
+[01Apr2025 04:41:23.159] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jukot[/127.113.44.68:36601] logged in with entity id 46136 at (-2205.3019384043155, 62.9375, 4029.60629084344)
+[01Apr2025 04:41:23.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot joined the game
+[01Apr2025 04:41:23.194] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for daf3981c-623a-33c4-83a6-d56260e38f0b

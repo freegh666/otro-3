@@ -3021,21 +3021,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-04-01 02:31:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-04-01 02:31:31 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_foliaath": {
+    "criteria": {
+      "foliaath": "2025-04-01 02:33:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-04-01 02:36:40 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
-    "criteria": {
-      "leafcutter_ant_pupa": "2025-04-01 03:17:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_crystal": {
-    "criteria": {
-      "has_ender_eye": "2025-04-01 02:51:09 +0000"
     },
     "done": true
   },
@@ -3051,33 +3057,9 @@
     },
     "done": true
   },
-  "mca:hunted": {
-    "criteria": {
-      "iron": "2025-04-01 03:19:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2025-04-01 02:36:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_wood": {
-    "criteria": {
-      "has_log": "2025-04-01 02:31:31 +0000"
-    },
-    "done": true
-  },
-  "mca:monarch": {
-    "criteria": {
-      "baby": "2025-04-01 04:05:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
-    "criteria": {
-      "has_log": "2025-04-01 04:25:53 +0000"
     },
     "done": true
   },
@@ -3093,33 +3075,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jack_o_lantern": {
-    "criteria": {
-      "has_carved_pumpkin": "2025-04-01 04:33:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-04-01 02:36:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_logs": "2025-04-01 02:31:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/cure_zombie_villager": {
-    "criteria": {
-      "cured_zombie": "2025-04-01 02:44:25 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/crocodile": {
-    "criteria": {
-      "killed_by": "2025-04-01 03:54:46 +0000"
     },
     "done": true
   },
@@ -3129,33 +3087,45 @@
     },
     "done": true
   },
-  "mca:grandparent": {
-    "criteria": {
-      "iron": "2025-04-01 02:57:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-04-01 04:25:53 +0000"
-    },
-    "done": true
-  },
-  "mca:baby_dropped": {
-    "criteria": {
-      "baby": "2025-04-01 04:05:15 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-01 02:36:40 +0000"
     },
     "done": true
   },
-  "mowziesmobs:kill_foliaath": {
+  "minecraft:story/cure_zombie_villager": {
     "criteria": {
-      "foliaath": "2025-04-01 02:33:49 +0000"
+      "cured_zombie": "2025-04-01 02:44:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-04-01 02:51:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-04-01 02:51:09 +0000"
+    },
+    "done": true
+  },
+  "mca:grandparent": {
+    "criteria": {
+      "iron": "2025-04-01 02:57:57 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
+    "criteria": {
+      "leafcutter_ant_pupa": "2025-04-01 03:17:42 +0000"
+    },
+    "done": true
+  },
+  "mca:hunted": {
+    "criteria": {
+      "iron": "2025-04-01 03:19:54 +0000"
     },
     "done": true
   },
@@ -3165,9 +3135,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/ender_chest": {
+  "alexsmobs:alexsmobs/crocodile": {
     "criteria": {
-      "has_ender_eye": "2025-04-01 02:51:09 +0000"
+      "killed_by": "2025-04-01 03:54:46 +0000"
+    },
+    "done": true
+  },
+  "mca:monarch": {
+    "criteria": {
+      "baby": "2025-04-01 04:05:15 +0000"
+    },
+    "done": true
+  },
+  "mca:baby_dropped": {
+    "criteria": {
+      "baby": "2025-04-01 04:05:15 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-01 04:25:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-04-01 04:25:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-04-01 04:33:51 +0000"
     },
     "done": true
   },
