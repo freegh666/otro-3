@@ -3075,6 +3075,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-01 04:25:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-04-01 02:36:40 +0000"
@@ -3084,6 +3090,12 @@
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2025-04-01 02:36:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-04-01 04:33:51 +0000"
     },
     "done": true
   },
@@ -3120,6 +3132,12 @@
   "mca:grandparent": {
     "criteria": {
       "iron": "2025-04-01 02:57:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-04-01 04:25:53 +0000"
     },
     "done": true
   },

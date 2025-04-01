@@ -5511,3 +5511,412 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [01Apr2025 04:06:46.693] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
 [01Apr2025 04:06:51.613] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Apr2025 04:06:51.627] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Apr2025 04:10:06.844] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[01Apr2025 04:11:51.671] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Apr2025 04:11:51.688] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Apr2025 04:13:26.844] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[01Apr2025 04:16:46.694] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[01Apr2025 04:16:46.694] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[01Apr2025 04:16:51.654] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Apr2025 04:16:51.671] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Apr2025 04:20:06.894] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[01Apr2025 04:20:59.506] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2175.85, y=65.00, z=4036.64], dimensionLocationPath overworld
+[01Apr2025 04:21:51.655] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Apr2025 04:21:51.673] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Apr2025 04:22:01.207] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2178.46, y=65.00, z=4036.03]
+[01Apr2025 04:22:30.856] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2188.70, y=64.56, z=4028.59], dimensionLocationPath overworld
+[01Apr2025 04:22:30.856] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2188.70, y=64.56, z=4028.59] in list []
+[01Apr2025 04:22:30.928] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2188.70, y=64.56, z=4028.59]
+[01Apr2025 04:23:06.704] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2173.86, y=63.94, z=4029.99], dimensionLocationPath overworld
+[01Apr2025 04:23:06.704] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2173.86, y=63.94, z=4029.99] in list []
+[01Apr2025 04:23:06.762] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2173.86, y=63.94, z=4029.99]
+[01Apr2025 04:23:12.309] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2174.17, y=63.94, z=4030.30], dimensionLocationPath overworld
+[01Apr2025 04:23:12.309] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2174.17, y=63.94, z=4030.30] in list []
+[01Apr2025 04:23:12.370] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2174.17, y=63.94, z=4030.30]
+[01Apr2025 04:23:26.893] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[01Apr2025 04:23:31.958] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2210.26, y=64.00, z=4033.31], dimensionLocationPath overworld
+[01Apr2025 04:23:31.958] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2210.26, y=64.00, z=4033.31] in list []
+[01Apr2025 04:23:37.902] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2222.62, y=67.00, z=4035.80]
+[01Apr2025 04:23:40.561] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2207.89, y=64.75, z=4032.13], dimensionLocationPath overworld
+[01Apr2025 04:23:40.561] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2207.89, y=64.75, z=4032.13] in list []
+[01Apr2025 04:23:42.705] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2200.38, y=66.00, z=4029.77]
+[01Apr2025 04:24:05.458] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2188.27, y=69.00, z=4031.10], dimensionLocationPath overworld
+[01Apr2025 04:24:05.458] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2188.27, y=69.00, z=4031.10] in list []
+[01Apr2025 04:24:05.512] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2188.49, y=69.00, z=4031.17]
+[01Apr2025 04:26:18.906] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2234.01, y=68.00, z=4039.32], dimensionLocationPath overworld
+[01Apr2025 04:26:18.906] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2234.01, y=68.00, z=4039.32] in list []
+[01Apr2025 04:26:18.957] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2234.01, y=68.00, z=4039.32]
+[01Apr2025 04:26:46.744] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[01Apr2025 04:26:46.745] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[01Apr2025 04:26:51.599] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Apr2025 04:26:51.613] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Apr2025 04:30:06.943] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[01Apr2025 04:31:37.162] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2177.24, y=64.94, z=4037.57], dimensionLocationPath overworld
+[01Apr2025 04:31:37.163] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2177.24, y=64.94, z=4037.57] in list []
+[01Apr2025 04:31:37.968] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2174.67, y=64.70, z=4034.29]
+[01Apr2025 04:31:51.632] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Apr2025 04:31:51.649] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Apr2025 04:32:39.255] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-1856.92, y=63.18, z=4100.36], dimensionLocationPath overworld
+[01Apr2025 04:32:39.255] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-1856.92, y=63.18, z=4100.36] in list []
+[01Apr2025 04:32:39.308] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-1856.62, y=63.06, z=4100.32]
+[01Apr2025 04:32:50.404] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-1845.54, y=65.00, z=4111.70], dimensionLocationPath overworld
+[01Apr2025 04:32:50.405] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-1845.54, y=65.00, z=4111.70] in list []
+[01Apr2025 04:32:52.651] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-1845.54, y=65.00, z=4111.70]
+[01Apr2025 04:32:58.652] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-1844.55, y=63.41, z=4109.71], dimensionLocationPath overworld
+[01Apr2025 04:32:58.652] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-1844.55, y=63.41, z=4109.71] in list []
+[01Apr2025 04:32:58.758] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-1844.40, y=63.00, z=4109.55]
+[01Apr2025 04:33:06.901] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-1852.00, y=63.18, z=4103.11], dimensionLocationPath overworld
+[01Apr2025 04:33:06.901] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-1852.00, y=63.18, z=4103.11] in list []
+[01Apr2025 04:33:06.955] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-1851.90, y=63.06, z=4102.86]
+[01Apr2025 04:33:26.943] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[01Apr2025 04:34:06.603] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:06.603] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:06.603] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:06.653] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:06.653] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:06.705] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:06.705] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:06.753] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:06.753] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:06.801] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:06.801] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:06.854] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:06.854] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:06.902] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:06.902] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:06.965] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:06.965] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:07.003] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:07.003] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:07.055] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:07.055] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:07.102] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:07.102] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:07.157] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:07.158] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:07.202] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:07.202] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:07.256] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:07.256] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:07.310] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:07.310] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:07.356] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:07.356] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:07.403] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:07.403] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:07.455] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:07.455] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:07.502] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:07.503] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:07.556] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:07.556] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:07.602] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:07.602] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:07.656] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:07.656] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:07.704] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:07.704] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:07.753] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:07.754] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:07.801] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:07.801] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:07.855] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:07.855] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:07.902] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:07.902] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:07.955] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:07.955] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:08.008] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:08.009] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:08.058] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:08.058] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:08.102] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:08.102] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:08.155] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:08.155] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:08.203] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:08.204] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:08.256] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:08.256] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:08.302] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:08.302] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:08.354] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:08.354] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:08.403] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:08.403] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:08.453] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:08.454] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:08.508] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:08.509] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:08.561] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:08.561] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:08.604] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:08.604] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:08.656] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:08.656] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:08.703] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:08.703] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:08.755] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:08.755] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:08.803] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:08.804] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:08.853] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:08.854] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:08.905] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:08.906] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:08.955] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:08.956] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:09.002] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:09.002] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:09.065] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:09.066] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:09.112] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:09.112] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:09.164] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:09.165] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:09.217] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:09.218] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:09.256] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:09.257] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:09.304] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:09.304] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:09.359] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:09.359] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:09.412] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:09.412] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:09.455] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:09.455] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:09.503] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:09.503] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:09.558] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:09.558] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:09.602] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:09.602] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:09.655] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:09.655] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:09.702] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:09.702] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:09.755] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:09.756] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:09.805] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:09.805] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:09.855] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:09.855] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:09.907] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:09.908] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:09.957] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:09.957] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:10.002] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:10.002] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:10.056] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:10.056] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:10.107] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:10.107] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:10.157] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:10.158] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:10.205] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:10.205] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:10.256] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:10.256] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:10.302] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:10.302] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:10.357] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:10.357] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:10.401] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:10.402] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:10.455] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:10.455] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:10.502] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:10.502] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:10.560] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:10.560] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:10.603] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:10.603] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:10.654] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:10.654] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:10.702] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:10.703] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:10.753] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:10.754] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:10.802] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:10.803] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:10.854] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:10.854] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:10.904] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:10.904] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:10.955] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:10.955] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:11.002] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:11.003] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:11.054] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:11.054] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:11.114] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:11.114] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:11.154] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:11.154] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:11.212] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:11.212] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:11.252] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:11.252] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:11.313] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:11.313] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:11.352] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:11.352] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:11.411] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:11.411] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:11.455] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:11.456] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:11.510] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:11.510] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:11.554] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:11.554] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:11.609] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:11.610] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:11.655] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:11.655] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:11.710] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:11.710] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:11.752] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:11.752] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:11.808] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:11.809] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:11.852] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:11.852] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:11.908] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:11.909] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:11.949] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:11.950] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:12.010] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:12.010] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:12.052] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:12.052] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:12.110] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:12.110] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:12.154] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:12.154] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:12.210] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:12.210] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:12.257] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:12.257] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:12.319] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:12.319] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:12.362] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:12.362] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:12.411] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:12.411] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:12.450] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:12.450] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:12.514] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:12.514] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:12.557] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:12.558] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:12.624] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:12.625] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:12.653] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:12.654] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:12.709] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:12.710] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:12.756] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:12.756] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:12.812] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:12.812] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:12.854] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:12.854] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:12.911] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:12.911] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:12.953] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:12.953] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:13.009] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:13.010] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:13.053] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:13.053] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:13.108] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:13.109] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:13.153] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:13.153] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:13.212] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:13.212] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:13.256] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:13.256] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:13.309] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:13.309] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:13.351] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:13.351] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:13.409] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:13.409] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:13.451] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:13.451] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:13.510] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:13.510] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:13.554] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:13.555] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:13.609] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:13.609] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:13.654] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:13.654] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:13.711] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:13.711] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:13.753] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:13.753] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:13.809] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:13.809] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:13.854] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:13.854] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:13.909] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:13.909] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:13.950] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:13.950] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:14.010] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:14.010] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:14.052] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:14.052] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:14.108] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:14.108] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:14.158] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:14.159] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:14.210] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:14.210] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:14.254] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:14.254] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:14.311] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:14.311] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:14.352] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:14.352] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:14.410] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:14.410] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:14.462] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:14.463] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:14.510] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:14.510] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:14.552] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:14.552] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:14.611] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:14.611] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:14.655] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:14.655] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:14.719] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:14.719] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:14.754] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:14.754] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:14.809] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:14.809] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:14.850] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:14.850] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:14.914] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:14.914] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:14.953] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:14.953] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:15.009] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:15.009] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:15.050] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:34:15.051] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: block.minecraft.carved_pumpkin
+[01Apr2025 04:35:07.826] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2118.10, y=67.18, z=4043.79], dimensionLocationPath overworld
+[01Apr2025 04:35:07.827] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2118.10, y=67.18, z=4043.79] in list []
+[01Apr2025 04:35:07.935] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2118.46, y=66.80, z=4043.29]
+[01Apr2025 04:35:45.908] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2166.15, y=64.42, z=4057.33], dimensionLocationPath overworld
+[01Apr2025 04:35:45.909] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2166.15, y=64.42, z=4057.33] in list []
+[01Apr2025 04:35:46.108] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2166.35, y=65.20, z=4056.00]
+[01Apr2025 04:36:46.793] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[01Apr2025 04:36:46.793] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[01Apr2025 04:36:51.652] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Apr2025 04:36:51.698] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
