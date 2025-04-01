@@ -52,8 +52,10 @@
       "minecraft:frozen_river": "2025-03-29 04:30:42 +0000",
       "minecraft:sunflower_plains": "2025-03-23 00:05:15 +0000",
       "minecraft:birch_forest": "2025-03-23 06:59:54 +0000",
+      "minecraft:bamboo_jungle": "2025-04-01 02:12:40 +0000",
       "minecraft:beach": "2025-03-23 07:00:04 +0000",
       "minecraft:dark_forest": "2025-03-23 00:34:16 +0000",
+      "minecraft:sparse_jungle": "2025-04-01 02:31:05 +0000",
       "minecraft:river": "2025-03-23 00:05:55 +0000",
       "minecraft:snowy_plains": "2025-03-23 00:28:39 +0000",
       "minecraft:forest": "2025-03-23 00:03:55 +0000",
@@ -61,6 +63,8 @@
       "minecraft:ice_spikes": "2025-03-29 04:30:44 +0000",
       "minecraft:desert": "2025-03-23 01:25:30 +0000",
       "minecraft:ocean": "2025-03-23 06:54:14 +0000",
+      "minecraft:jungle": "2025-04-01 02:12:45 +0000",
+      "minecraft:old_growth_birch_forest": "2025-04-01 02:31:25 +0000",
       "minecraft:plains": "2025-03-23 00:04:47 +0000"
     },
     "done": false
@@ -1578,6 +1582,7 @@
   },
   "recrafted_creatures:unfamiliar_fauna": {
     "criteria": {
+      "chameleon": "2025-04-01 02:31:06 +0000",
       "owl": "2025-04-01 01:02:09 +0000",
       "mammoth": "2025-03-23 03:22:29 +0000"
     },
@@ -2795,7 +2800,121 @@
     },
     "done": true
   },
+  "mca:grow_adult": {
+    "criteria": {
+      "baby": "2025-03-31 23:42:17 +0000"
+    },
+    "done": true
+  },
+  "mca:family": {
+    "criteria": {
+      "iron": "2025-03-31 23:45:42 +0000"
+    },
+    "done": true
+  },
+  "aether:the_aether": {
+    "criteria": {
+      "the_aether": "2025-04-01 00:22:14 +0000"
+    },
+    "done": true
+  },
+  "aether:enter_aether": {
+    "criteria": {
+      "enter_aether": "2025-04-01 00:22:14 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/swet_sticky_piston": {
+    "criteria": {
+      "has_swet_balls": "2025-04-01 00:23:23 +0000"
+    },
+    "done": true
+  },
+  "aether:obtain_petal": {
+    "criteria": {
+      "aechor_petal": "2025-04-01 00:23:23 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/swet_lead": {
+    "criteria": {
+      "has_swet_balls": "2025-04-01 00:23:23 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/swet_slime_block": {
+    "criteria": {
+      "has_swet_balls": "2025-04-01 00:23:23 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/poison_dart_shooter": {
+    "criteria": {
+      "has_aechor_petal": "2025-04-01 00:23:23 +0000"
+    },
+    "done": true
+  },
+  "aether:read_lore": {
+    "criteria": {
+      "lore_book_entry": "2025-04-01 00:32:02 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/flint_and_steel_repairing": {
+    "criteria": {
+      "has_flint_and_steel": "2025-04-01 00:33:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-04-01 00:38:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-04-01 01:11:48 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-04-01 01:16:08 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/iron_from_basic": {
+    "criteria": {
+      "recipe_condition": "2025-04-01 01:32:38 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/copper_from_basic": {
+    "criteria": {
+      "recipe_condition": "2025-04-01 01:32:38 +0000"
+    },
+    "done": true
+  },
+  "packedup:basic_backpack": {
+    "criteria": {
+      "has_backpack": "2025-04-01 01:32:38 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/misc/aether_gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_gloves": "2025-04-01 01:41:06 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_gloves_repairing": {
+    "criteria": {
+      "has_golden_gloves": "2025-04-01 01:41:06 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_gloves": "2025-04-01 01:41:06 +0000"
     },
@@ -2819,75 +2938,15 @@
     },
     "done": true
   },
-  "packedup:recipes/misc/iron_from_basic": {
-    "criteria": {
-      "recipe_condition": "2025-04-01 01:32:38 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/diamond_leggings_repairing": {
-    "criteria": {
-      "has_diamond_leggings": "2025-04-01 02:03:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-04-01 02:00:41 +0000"
     },
     "done": true
   },
-  "aether:recipes/combat/golden_gloves_repairing": {
-    "criteria": {
-      "has_golden_gloves": "2025-04-01 01:41:06 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/redstone/swet_sticky_piston": {
-    "criteria": {
-      "has_swet_balls": "2025-04-01 00:23:23 +0000"
-    },
-    "done": true
-  },
-  "packedup:recipes/misc/copper_from_basic": {
-    "criteria": {
-      "recipe_condition": "2025-04-01 01:32:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_boots": "2025-04-01 02:03:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/netherite_hoe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-04-01 02:00:41 +0000"
-    },
-    "done": true
-  },
-  "aether:obtain_petal": {
-    "criteria": {
-      "aechor_petal": "2025-04-01 00:23:23 +0000"
-    },
-    "done": true
-  },
-  "packedup:basic_backpack": {
-    "criteria": {
-      "has_backpack": "2025-04-01 01:32:38 +0000"
-    },
-    "done": true
-  },
-  "mca:family": {
-    "criteria": {
-      "iron": "2025-03-31 23:45:42 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/swet_lead": {
-    "criteria": {
-      "has_swet_balls": "2025-04-01 00:23:23 +0000"
     },
     "done": true
   },
@@ -2900,12 +2959,6 @@
   "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-04-01 02:00:41 +0000"
-    },
-    "done": true
-  },
-  "aether:the_aether": {
-    "criteria": {
-      "the_aether": "2025-04-01 00:22:14 +0000"
     },
     "done": true
   },
@@ -2927,63 +2980,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2025-04-01 00:38:41 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/diamond_boots_repairing": {
-    "criteria": {
-      "has_diamond_boots": "2025-04-01 02:03:21 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/redstone/swet_slime_block": {
-    "criteria": {
-      "has_swet_balls": "2025-04-01 00:23:23 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/straddler": {
-    "criteria": {
-      "killed_by": "2025-04-01 01:16:08 +0000"
-    },
-    "done": true
-  },
-  "aether:enter_aether": {
-    "criteria": {
-      "enter_aether": "2025-04-01 00:22:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/netherite_axe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-04-01 02:00:41 +0000"
-    },
-    "done": true
-  },
-  "mca:grow_adult": {
-    "criteria": {
-      "baby": "2025-03-31 23:42:17 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/poison_dart_shooter": {
-    "criteria": {
-      "has_aechor_petal": "2025-04-01 00:23:23 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/misc/aether_gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_gloves": "2025-04-01 01:41:06 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/flint_and_steel_repairing": {
-    "criteria": {
-      "has_flint_and_steel": "2025-04-01 00:33:46 +0000"
     },
     "done": true
   },
@@ -2993,21 +2992,117 @@
     },
     "done": true
   },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "fortress": "2025-04-01 01:11:48 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/combat/netherite_gloves_repairing": {
     "criteria": {
       "has_netherite_gloves": "2025-04-01 02:01:02 +0000"
     },
     "done": true
   },
-  "aether:read_lore": {
+  "minecraft:story/shiny_gear": {
     "criteria": {
-      "lore_book_entry": "2025-04-01 00:32:02 +0000"
+      "diamond_boots": "2025-04-01 02:03:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_boots_repairing": {
+    "criteria": {
+      "has_diamond_boots": "2025-04-01 02:03:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_leggings_repairing": {
+    "criteria": {
+      "has_diamond_leggings": "2025-04-01 02:03:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-04-01 02:36:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-04-01 02:51:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-04-01 02:36:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-04-01 02:36:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-04-01 02:36:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-04-01 02:31:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-01 02:36:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-04-01 02:36:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-01 02:36:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-04-01 02:31:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2025-04-01 02:44:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-01 02:36:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-01 02:36:40 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_foliaath": {
+    "criteria": {
+      "foliaath": "2025-04-01 02:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-04-01 02:51:09 +0000"
     },
     "done": true
   },
