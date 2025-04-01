@@ -1470,3 +1470,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [
   "(k#'g93=<5/p21.ip.gl.ply.gg0."
 ]
+[01Apr2025 05:58:57.613] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[01Apr2025 05:58:57.617] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
