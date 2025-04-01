@@ -57,6 +57,7 @@
       "minecraft:dark_forest": "2025-03-23 00:34:16 +0000",
       "minecraft:sparse_jungle": "2025-04-01 02:31:05 +0000",
       "minecraft:river": "2025-03-23 00:05:55 +0000",
+      "minecraft:lukewarm_ocean": "2025-04-01 03:05:28 +0000",
       "minecraft:snowy_plains": "2025-03-23 00:28:39 +0000",
       "minecraft:forest": "2025-03-23 00:03:55 +0000",
       "minecraft:lush_caves": "2025-03-23 03:49:07 +0000",
@@ -259,8 +260,10 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-04-01 01:11:49 +0000",
+      "minecraft:pillager": "2025-04-01 03:20:05 +0000",
       "minecraft:skeleton": "2025-03-23 01:41:50 +0000",
       "minecraft:hoglin": "2025-03-23 02:02:16 +0000",
+      "minecraft:vindicator": "2025-04-01 03:20:14 +0000",
       "minecraft:magma_cube": "2025-04-01 01:20:36 +0000",
       "minecraft:spider": "2025-03-23 00:59:24 +0000",
       "minecraft:piglin_brute": "2025-03-23 02:04:01 +0000",
@@ -1584,6 +1587,7 @@
     "criteria": {
       "chameleon": "2025-04-01 02:31:06 +0000",
       "owl": "2025-04-01 01:02:09 +0000",
+      "orangutan": "2025-04-01 03:04:56 +0000",
       "mammoth": "2025-03-23 03:22:29 +0000"
     },
     "done": false
@@ -3022,6 +3026,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
+    "criteria": {
+      "leafcutter_ant_pupa": "2025-04-01 03:17:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2025-04-01 02:51:09 +0000"
@@ -3037,6 +3047,12 @@
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2025-04-01 02:36:40 +0000"
+    },
+    "done": true
+  },
+  "mca:hunted": {
+    "criteria": {
+      "iron": "2025-04-01 03:19:54 +0000"
     },
     "done": true
   },
@@ -3103,6 +3119,12 @@
   "mowziesmobs:kill_foliaath": {
     "criteria": {
       "foliaath": "2025-04-01 02:33:49 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/crossbow_repairing": {
+    "criteria": {
+      "has_crossbow": "2025-04-01 03:20:24 +0000"
     },
     "done": true
   },
