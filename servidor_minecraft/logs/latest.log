@@ -382,3 +382,9 @@
 [01Apr2025 00:39:13.133] [Server thread/INFO] [forge.net.mca.MCA/]: Attempting to spawn reaper at BlockPos{x=-1222, y=68, z=-3165} in minecraft:overworld
 [01Apr2025 00:39:13.133] [Server thread/INFO] [forge.net.mca.MCA/]: Current time is 15023
 [01Apr2025 00:39:13.135] [Server thread/INFO] [forge.net.mca.MCA/]: It is night time, found 3 totems
+[01Apr2025 00:59:32.198] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PlagaXNZ[/127.29.88.119:49811] logged in with entity id 28717 at (-1280.4902434813257, 74.0, -3111.349688988077)
+[01Apr2025 00:59:32.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ joined the game
+[01Apr2025 00:59:32.242] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 116e9c76-7157-3f7d-8106-557b209a5b07
+[01Apr2025 00:59:32.621] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of PlagaXNZ (18)
+[01Apr2025 00:59:32.622] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to PlagaXNZ
+[01Apr2025 01:09:16.619] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PlagaXNZ moved wrongly!

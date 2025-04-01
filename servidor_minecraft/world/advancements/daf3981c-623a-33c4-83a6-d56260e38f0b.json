@@ -1574,6 +1574,7 @@
   },
   "recrafted_creatures:unfamiliar_fauna": {
     "criteria": {
+      "owl": "2025-04-01 01:02:09 +0000",
       "mammoth": "2025-03-23 03:22:29 +0000"
     },
     "done": false

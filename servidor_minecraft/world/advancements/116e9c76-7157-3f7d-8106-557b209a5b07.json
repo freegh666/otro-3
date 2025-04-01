@@ -4752,15 +4752,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brown_banner": {
-    "criteria": {
-      "has_brown_wool": "2025-03-31 23:31:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-03-31 23:23:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-03-31 23:23:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-03-31 23:23:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-03-31 23:31:56 +0000"
     },
     "done": true
   },
@@ -4776,21 +4788,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken": {
-    "criteria": {
-      "has_chicken": "2025-03-31 23:23:22 +0000"
-    },
-    "done": true
-  },
   "mca:monarch": {
     "criteria": {
       "baby": "2025-03-31 23:52:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
-    "criteria": {
-      "has_chicken": "2025-03-31 23:23:22 +0000"
     },
     "done": true
   },
