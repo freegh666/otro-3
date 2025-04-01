@@ -2795,15 +2795,33 @@
     },
     "done": true
   },
+  "packedup:recipes/misc/iron_from_basic": {
+    "criteria": {
+      "recipe_condition": "2025-04-01 01:32:38 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/redstone/swet_sticky_piston": {
     "criteria": {
       "has_swet_balls": "2025-04-01 00:23:23 +0000"
     },
     "done": true
   },
+  "packedup:recipes/misc/copper_from_basic": {
+    "criteria": {
+      "recipe_condition": "2025-04-01 01:32:38 +0000"
+    },
+    "done": true
+  },
   "aether:obtain_petal": {
     "criteria": {
       "aechor_petal": "2025-04-01 00:23:23 +0000"
+    },
+    "done": true
+  },
+  "packedup:basic_backpack": {
+    "criteria": {
+      "has_backpack": "2025-04-01 01:32:38 +0000"
     },
     "done": true
   },
