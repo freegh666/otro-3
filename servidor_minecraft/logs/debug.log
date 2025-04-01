@@ -6488,3 +6488,37 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [31Mar2025 23:55:54.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukot> e gil vos tenes la hoz??
 [31Mar2025 23:57:35.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukot> ???
 [31Mar2025 23:58:06.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> no gil si ayer te la di
+[31Mar2025 23:59:03.846] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[31Mar2025 23:59:03.846] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[31Mar2025 23:59:18.990] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Mar2025 23:59:19.007] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Apr2025 00:02:24.098] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[01Apr2025 00:04:18.974] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Apr2025 00:04:18.995] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Apr2025 00:05:43.947] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[01Apr2025 00:06:49.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> e gil mañana podriamos ir al end
+[01Apr2025 00:07:04.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukot> a que hora
+[01Apr2025 00:07:17.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> a la tarde creeria yo
+[01Apr2025 00:07:25.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> como el miercoles no tengo clases
+[01Apr2025 00:07:26.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukot> yo puedo a la noche despues de las 22:30
+[01Apr2025 00:07:46.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukot> tengo un curso de programacion
+[01Apr2025 00:07:50.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> bueno gil
+[01Apr2025 00:07:58.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukot> digo computacion
+[01Apr2025 00:08:13.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukot> no tenes la hoz??
+[01Apr2025 00:08:26.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> si te la di a vos
+[01Apr2025 00:08:39.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> e gil me desconecto me voy a bañar
+[01Apr2025 00:08:47.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> queda prendido el server
+[01Apr2025 00:08:49.137] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PlagaXNZ lost connection: Disconnected
+[01Apr2025 00:08:49.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ left the game
+[01Apr2025 00:08:49.139] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 116e9c76-7157-3f7d-8106-557b209a5b07
+[01Apr2025 00:08:49.141] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of PlagaXNZ
+[01Apr2025 00:08:49.142] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PlagaXNZ
+[01Apr2025 00:08:53.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukot> D1
+[01Apr2025 00:09:03.847] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[01Apr2025 00:09:03.847] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[01Apr2025 00:09:18.917] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Apr2025 00:09:18.933] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Apr2025 00:12:24.148] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[01Apr2025 00:14:18.922] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Apr2025 00:14:18.944] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Apr2025 00:15:43.998] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
