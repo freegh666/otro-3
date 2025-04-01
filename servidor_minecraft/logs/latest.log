@@ -378,3 +378,7 @@
 [01Apr2025 00:24:45.740] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of Jukot) moved too quickly! 0.4509482023458986,8.75614141903867,5.678863267141878
 [01Apr2025 00:24:45.741] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of Jukot) moved too quickly! 0.43366161384938096,8.50614141903867,5.572038360984607
 [01Apr2025 00:24:45.797] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Golden Parachute (vehicle of Jukot) moved too quickly! 0.43049682728769767,8.50614141903867,5.549656739202419
+[01Apr2025 00:32:02.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot has made the advancement [The More You Know!]
+[01Apr2025 00:39:13.133] [Server thread/INFO] [forge.net.mca.MCA/]: Attempting to spawn reaper at BlockPos{x=-1222, y=68, z=-3165} in minecraft:overworld
+[01Apr2025 00:39:13.133] [Server thread/INFO] [forge.net.mca.MCA/]: Current time is 15023
+[01Apr2025 00:39:13.135] [Server thread/INFO] [forge.net.mca.MCA/]: It is night time, found 3 totems
