@@ -3088,6 +3088,12 @@
     },
     "done": true
   },
+  "mca:grandparent": {
+    "criteria": {
+      "iron": "2025-04-01 02:57:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-01 02:36:40 +0000"

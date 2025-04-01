@@ -281,3 +281,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [01Apr2025 02:44:25.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot has reached the goal [Zombie Doctor]
 [01Apr2025 02:46:37.460] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
 [01Apr2025 02:46:37.460] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[01Apr2025 02:57:57.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot has completed the challenge [Back In My day...]
