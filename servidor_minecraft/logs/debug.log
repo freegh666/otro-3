@@ -4821,3 +4821,21 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [01Apr2025 03:21:51.619] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Apr2025 03:21:51.634] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01Apr2025 03:23:26.644] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[01Apr2025 03:26:46.494] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[01Apr2025 03:26:46.495] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[01Apr2025 03:26:51.631] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Apr2025 03:26:51.656] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Apr2025 03:30:06.743] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[01Apr2025 03:31:24.207] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Eduard'/18975, l='ServerLevel[world]', x=-2983.62, y=63.00, z=4070.75] died, message: 'Eduard (Staying) was slain by Jukot'
+[01Apr2025 03:31:24.208] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Eduard'/18975, l='ServerLevel[world]', x=-2983.62, y=63.00, z=4070.75] died: Eduard (Staying) was slain by Jukot
+[01Apr2025 03:31:51.602] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Apr2025 03:31:51.639] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Apr2025 03:33:26.692] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[01Apr2025 03:35:52.561] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Grigol'/25109, l='ServerLevel[world]', x=-2241.72, y=68.00, z=4054.28] died, message: 'Grigol (Staying) was slain by Jukot'
+[01Apr2025 03:35:52.562] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Grigol'/25109, l='ServerLevel[world]', x=-2241.72, y=68.00, z=4054.28] died: Grigol (Staying) was slain by Jukot
+[01Apr2025 03:36:41.657] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Robert'/25621, l='ServerLevel[world]', x=-2173.45, y=64.00, z=4036.72] died, message: 'Robert was slain by Maximiliano'
+[01Apr2025 03:36:41.657] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Robert'/25621, l='ServerLevel[world]', x=-2173.45, y=64.00, z=4036.72] died: Robert was slain by Maximiliano
+[01Apr2025 03:36:46.544] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[01Apr2025 03:36:46.544] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[01Apr2025 03:36:51.650] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Apr2025 03:36:51.683] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
