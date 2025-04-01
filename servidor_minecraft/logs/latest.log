@@ -1697,3 +1697,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
   "<partial numeric data>",
   "[20, 0, 18, 0, 0, 15, 50, 49, 46, 105, 112, 46, 103, 108, 46, 112, 108, 121, 46, 103, 103, 0, 5, 0, 5, 1, 0, 0, 0, 0, 0, 10, 0, 8, 0, 6, 0, 23, 0, 25, 0, 11, 0, 2, 1, 0, 0, 13, 0, 16, 0, 14, 4, 1, 4, 3, 2, 1, 2, 3, 4, 1, 1, 6, 1, -1, 1, 0]"
 ]
+[01Apr2025 06:22:02.311] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jukot lost connection: Disconnected
+[01Apr2025 06:22:02.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot left the game
+[01Apr2025 06:22:02.312] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for daf3981c-623a-33c4-83a6-d56260e38f0b
+[01Apr2025 06:22:02.312] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jukot
