@@ -913,3 +913,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
   "<partial numeric data>",
   "[-76, 64, 114, -11, -43, -120, 55, -51, 48, 89, 96]"
 ]
+[03Apr2025 21:45:07.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot has made the advancement [You Monster!]
