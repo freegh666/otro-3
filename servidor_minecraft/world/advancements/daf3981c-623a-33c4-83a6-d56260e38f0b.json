@@ -269,6 +269,7 @@
       "minecraft:spider": "2025-03-23 00:59:24 +0000",
       "minecraft:piglin_brute": "2025-03-23 02:04:01 +0000",
       "minecraft:creeper": "2025-03-23 04:37:12 +0000",
+      "minecraft:wither": "2025-04-03 21:27:02 +0000",
       "minecraft:zombified_piglin": "2025-04-03 00:39:46 +0000",
       "minecraft:witch": "2025-03-31 02:00:17 +0000",
       "minecraft:wither_skeleton": "2025-04-01 01:13:05 +0000",
@@ -3486,6 +3487,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2025-04-03 21:26:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-03 21:09:22 +0000"
@@ -3513,6 +3520,12 @@
   "friendsandfoes:adventure/summon_copper_golem": {
     "criteria": {
       "summoned_golem": "2025-04-03 20:29:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-04-03 21:27:03 +0000"
     },
     "done": true
   },
@@ -3606,6 +3619,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-04-03 21:25:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-03 21:09:22 +0000"
@@ -3615,6 +3634,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-03 21:09:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-04-03 21:22:17 +0000"
     },
     "done": true
   },
