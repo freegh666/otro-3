@@ -274,3 +274,14 @@
 [03Apr2025 01:31:58.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot has made the advancement [Spooky Scary Skeleton]
 [03Apr2025 01:37:33.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ was slain by Wither Skeleton
 [03Apr2025 01:42:42.078] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PlagaXNZ moved too quickly! 10.408752041641549,-0.2336320060424839,-0.06425766367647157
+[03Apr2025 01:47:09.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> e gil
+[03Apr2025 01:47:11.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> ya me voy
+[03Apr2025 01:47:20.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukot> ten rapido??
+[03Apr2025 01:47:24.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> mañana me tengo que despertar temprano
+[03Apr2025 01:47:34.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukot> ma es verdad
+[03Apr2025 01:47:34.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> ademas me tengo que bañar
+[03Apr2025 01:48:12.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukot> D1
+[03Apr2025 01:48:15.288] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PlagaXNZ lost connection: Disconnected
+[03Apr2025 01:48:15.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ left the game
+[03Apr2025 01:48:15.290] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 116e9c76-7157-3f7d-8106-557b209a5b07
+[03Apr2025 01:48:15.318] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PlagaXNZ
