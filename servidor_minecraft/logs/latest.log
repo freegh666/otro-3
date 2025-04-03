@@ -918,3 +918,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [03Apr2025 22:12:28.804] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
 [03Apr2025 22:23:07.002] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Zinaida'/41168, l='ServerLevel[world]', x=-1171.39, y=68.00, z=-3075.15] died, message: 'Zinaida was slain by Jukot'
 [03Apr2025 22:23:07.002] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Zinaida'/41168, l='ServerLevel[world]', x=-1171.39, y=68.00, z=-3075.15] died: Zinaida was slain by Jukot
+[03Apr2025 22:37:12.660] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jukot lost connection: Disconnected
+[03Apr2025 22:37:12.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot left the game
+[03Apr2025 22:37:12.661] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for daf3981c-623a-33c4-83a6-d56260e38f0b
+[03Apr2025 22:37:12.669] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jukot
