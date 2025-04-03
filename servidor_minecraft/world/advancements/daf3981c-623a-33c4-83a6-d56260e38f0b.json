@@ -3595,6 +3595,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_sword_repairing": {
+    "criteria": {
+      "has_diamond_sword": "2025-04-03 21:32:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-03 21:09:22 +0000"
