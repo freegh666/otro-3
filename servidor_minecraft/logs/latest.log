@@ -635,3 +635,16 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [
   "gPI<t8,0+/$(k#'g93=<5/"
 ]
+[03Apr2025 20:44:37.181] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=-1235, y=70, z=-3117}
+[03Apr2025 20:48:20.097] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Denis'/19448, l='ServerLevel[world]', x=-1271.16, y=71.00, z=-3064.49] died, message: 'Denis was slain by Jukot'
+[03Apr2025 20:48:20.101] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Denis'/19448, l='ServerLevel[world]', x=-1271.16, y=71.00, z=-3064.49] died: Denis was slain by Jukot
+[03Apr2025 20:50:00.903] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Katia'/20145, l='ServerLevel[world]', x=-2166.37, y=64.00, z=4026.36] died, message: 'Katia was slain by Maximiliano'
+[03Apr2025 20:50:00.903] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Katia'/20145, l='ServerLevel[world]', x=-2166.37, y=64.00, z=4026.36] died: Katia was slain by Maximiliano
+[03Apr2025 20:50:39.255] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Dan'/20506, l='ServerLevel[world]', x=-1288.38, y=68.00, z=-3097.32] died, message: 'Dan was slain by Jukot'
+[03Apr2025 20:50:39.255] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Dan'/20506, l='ServerLevel[world]', x=-1288.38, y=68.00, z=-3097.32] died: Dan was slain by Jukot
+[03Apr2025 20:51:42.749] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Serge'/21172, l='ServerLevel[world]', x=-2166.29, y=64.00, z=4030.66] died, message: 'Serge was slain by Kenan'
+[03Apr2025 20:51:42.750] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Serge'/21172, l='ServerLevel[world]', x=-2166.29, y=64.00, z=4030.66] died: Serge was slain by Kenan
+[03Apr2025 20:52:00.241] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Tristan'/20800, l='ServerLevel[world]', x=-2188.04, y=65.56, z=4046.83] died, message: 'Tristan suffocated in a wall'
+[03Apr2025 20:52:00.242] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Tristan'/20800, l='ServerLevel[world]', x=-2188.04, y=65.56, z=4046.83] died: Tristan suffocated in a wall
+[03Apr2025 20:59:30.308] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Natalya'/22214, l='ServerLevel[world]', x=-1282.53, y=71.00, z=-3051.10] died, message: 'Natalya was slain by Jukot'
+[03Apr2025 20:59:30.309] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Natalya'/22214, l='ServerLevel[world]', x=-1282.53, y=71.00, z=-3051.10] died: Natalya was slain by Jukot
