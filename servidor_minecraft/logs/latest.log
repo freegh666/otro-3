@@ -272,3 +272,5 @@
 [03Apr2025 01:31:12.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> 23
 [03Apr2025 01:31:41.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukot> ya vuelvo voy a buscar un arco
 [03Apr2025 01:31:58.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot has made the advancement [Spooky Scary Skeleton]
+[03Apr2025 01:37:33.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ was slain by Wither Skeleton
+[03Apr2025 01:42:42.078] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PlagaXNZ moved too quickly! 10.408752041641549,-0.2336320060424839,-0.06425766367647157
