@@ -4971,3 +4971,313 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [03Apr2025 20:00:32.799] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2257.59, y=46.00, z=4094.62], dimensionLocationPath overworld
 [03Apr2025 20:00:32.800] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2257.59, y=46.00, z=4094.62] in list []
 [03Apr2025 20:00:32.919] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2257.59, y=46.00, z=4094.62]
+[03Apr2025 20:01:31.860] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2224.21, y=-10.00, z=4098.35], dimensionLocationPath overworld
+[03Apr2025 20:01:31.860] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2224.21, y=-10.00, z=4098.35] in list []
+[03Apr2025 20:01:39.236] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[03Apr2025 20:01:39.236] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[03Apr2025 20:01:54.651] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2277.58, y=-4.00, z=4123.93]
+[03Apr2025 20:01:56.541] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Apr2025 20:01:56.563] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Apr2025 20:02:29.377] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2256.80, y=-6.00, z=4178.02], dimensionLocationPath overworld
+[03Apr2025 20:02:29.377] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2256.80, y=-6.00, z=4178.02] in list []
+[03Apr2025 20:02:31.199] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2256.34, y=-6.00, z=4178.44]
+[03Apr2025 20:02:46.448] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2258.30, y=-5.00, z=4180.94], dimensionLocationPath overworld
+[03Apr2025 20:02:46.448] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2258.30, y=-5.00, z=4180.94] in list []
+[03Apr2025 20:02:46.561] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2258.30, y=-5.00, z=4180.94]
+[03Apr2025 20:02:53.170] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2258.41, y=-1.00, z=4181.63], dimensionLocationPath overworld
+[03Apr2025 20:02:53.171] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2258.41, y=-1.00, z=4181.63] in list []
+[03Apr2025 20:02:53.259] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2258.30, y=-1.00, z=4181.70]
+[03Apr2025 20:03:35.245] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2267.05, y=-21.00, z=4215.16], dimensionLocationPath overworld
+[03Apr2025 20:03:35.245] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2267.05, y=-21.00, z=4215.16] in list []
+[03Apr2025 20:03:35.298] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2266.73, y=-21.00, z=4214.71]
+[03Apr2025 20:04:59.635] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[03Apr2025 20:05:48.153] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2299.50, y=-23.00, z=4135.63], dimensionLocationPath overworld
+[03Apr2025 20:05:48.154] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2299.50, y=-23.00, z=4135.63] in list []
+[03Apr2025 20:05:48.199] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2299.50, y=-23.00, z=4135.63]
+[03Apr2025 20:05:52.263] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2299.30, y=-19.00, z=4135.54], dimensionLocationPath overworld
+[03Apr2025 20:05:52.264] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2299.30, y=-19.00, z=4135.54] in list []
+[03Apr2025 20:05:52.355] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2299.30, y=-19.00, z=4135.54]
+[03Apr2025 20:05:53.697] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2299.30, y=-19.00, z=4135.54], dimensionLocationPath overworld
+[03Apr2025 20:05:53.697] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2299.30, y=-19.00, z=4135.54] in list []
+[03Apr2025 20:05:55.599] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2299.30, y=-19.00, z=4135.54]
+[03Apr2025 20:06:40.854] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2306.43, y=-12.00, z=4116.56], dimensionLocationPath overworld
+[03Apr2025 20:06:40.855] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2306.43, y=-12.00, z=4116.56] in list []
+[03Apr2025 20:06:40.900] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2306.47, y=-12.00, z=4116.52]
+[03Apr2025 20:06:56.531] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Apr2025 20:06:56.545] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Apr2025 20:06:56.955] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2325.87, y=-7.58, z=4087.26], dimensionLocationPath overworld
+[03Apr2025 20:06:56.955] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2325.87, y=-7.58, z=4087.26] in list []
+[03Apr2025 20:06:57.054] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2326.51, y=-7.00, z=4087.10]
+[03Apr2025 20:08:15.451] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2355.52, y=-16.00, z=4173.53], dimensionLocationPath overworld
+[03Apr2025 20:08:15.451] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2355.52, y=-16.00, z=4173.53] in list []
+[03Apr2025 20:08:19.435] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[03Apr2025 20:08:31.706] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2332.76, y=-20.00, z=4203.43]
+[03Apr2025 20:08:41.448] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2332.61, y=-21.00, z=4201.30], dimensionLocationPath overworld
+[03Apr2025 20:08:41.448] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2332.61, y=-21.00, z=4201.30] in list []
+[03Apr2025 20:08:41.558] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2332.50, y=-21.00, z=4201.30]
+[03Apr2025 20:08:48.350] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2323.00, y=-18.00, z=4218.67], dimensionLocationPath overworld
+[03Apr2025 20:08:48.350] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2323.00, y=-18.00, z=4218.67] in list []
+[03Apr2025 20:08:48.454] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2322.99, y=-18.00, z=4218.68]
+[03Apr2025 20:09:30.848] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2317.50, y=-25.08, z=4204.89], dimensionLocationPath overworld
+[03Apr2025 20:09:30.848] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2317.50, y=-25.08, z=4204.89] in list []
+[03Apr2025 20:09:31.003] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2317.11, y=-26.00, z=4204.48]
+[03Apr2025 20:09:34.264] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2316.42, y=-24.00, z=4202.55], dimensionLocationPath overworld
+[03Apr2025 20:09:34.264] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2316.42, y=-24.00, z=4202.55] in list []
+[03Apr2025 20:09:36.004] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2316.15, y=-23.00, z=4201.96]
+[03Apr2025 20:10:04.108] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2314.35, y=-21.00, z=4194.70], dimensionLocationPath overworld
+[03Apr2025 20:10:04.109] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2314.35, y=-21.00, z=4194.70] in list []
+[03Apr2025 20:10:06.708] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2314.46, y=-21.00, z=4195.00]
+[03Apr2025 20:11:39.285] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[03Apr2025 20:11:39.285] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[03Apr2025 20:11:40.499] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2350.36, y=-11.00, z=4203.86], dimensionLocationPath overworld
+[03Apr2025 20:11:40.500] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2350.36, y=-11.00, z=4203.86] in list []
+[03Apr2025 20:11:40.554] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2350.40, y=-11.00, z=4203.74]
+[03Apr2025 20:11:40.899] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2350.45, y=-11.00, z=4203.61], dimensionLocationPath overworld
+[03Apr2025 20:11:40.900] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2350.45, y=-11.00, z=4203.61] in list []
+[03Apr2025 20:11:42.755] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2350.70, y=-12.00, z=4201.90]
+[03Apr2025 20:11:56.549] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Apr2025 20:11:56.578] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Apr2025 20:12:10.053] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2351.02, y=-17.00, z=4176.72], dimensionLocationPath overworld
+[03Apr2025 20:12:10.053] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2351.02, y=-17.00, z=4176.72] in list []
+[03Apr2025 20:12:10.173] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2351.20, y=-16.75, z=4176.82]
+[03Apr2025 20:13:30.752] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2291.30, y=8.00, z=4026.56], dimensionLocationPath overworld
+[03Apr2025 20:13:30.752] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2291.30, y=8.00, z=4026.56] in list []
+[03Apr2025 20:13:30.859] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2291.30, y=8.00, z=4026.56]
+[03Apr2025 20:14:02.999] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2242.49, y=14.00, z=4057.70], dimensionLocationPath overworld
+[03Apr2025 20:14:03.000] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2242.49, y=14.00, z=4057.70] in list []
+[03Apr2025 20:14:03.060] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2242.49, y=14.00, z=4057.70]
+[03Apr2025 20:14:11.002] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2242.70, y=21.00, z=4057.90], dimensionLocationPath overworld
+[03Apr2025 20:14:11.003] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2242.70, y=21.00, z=4057.90] in list []
+[03Apr2025 20:14:11.055] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2242.70, y=21.00, z=4057.90]
+[03Apr2025 20:14:25.849] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2219.72, y=16.25, z=4052.12], dimensionLocationPath overworld
+[03Apr2025 20:14:25.849] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2219.72, y=16.25, z=4052.12] in list []
+[03Apr2025 20:14:26.248] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2218.43, y=14.16, z=4052.70]
+[03Apr2025 20:14:59.684] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[03Apr2025 20:16:33.051] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2271.10, y=-4.91, z=4120.23], dimensionLocationPath overworld
+[03Apr2025 20:16:33.052] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2271.10, y=-4.91, z=4120.23] in list []
+[03Apr2025 20:16:33.106] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2271.24, y=-5.00, z=4120.17]
+[03Apr2025 20:16:44.105] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2305.36, y=-9.00, z=4118.89], dimensionLocationPath overworld
+[03Apr2025 20:16:44.105] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2305.36, y=-9.00, z=4118.89] in list []
+[03Apr2025 20:16:44.210] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2305.80, y=-9.00, z=4118.87]
+[03Apr2025 20:16:44.773] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2307.02, y=-9.00, z=4119.76], dimensionLocationPath overworld
+[03Apr2025 20:16:44.773] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2307.02, y=-9.00, z=4119.76] in list []
+[03Apr2025 20:16:45.653] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2307.02, y=-9.00, z=4119.77]
+[03Apr2025 20:16:56.520] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Apr2025 20:16:56.541] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Apr2025 20:18:19.484] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[03Apr2025 20:18:21.357] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2306.70, y=-34.00, z=4111.30], dimensionLocationPath overworld
+[03Apr2025 20:18:21.357] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2306.70, y=-34.00, z=4111.30] in list []
+[03Apr2025 20:18:21.751] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2306.70, y=-34.00, z=4111.30]
+[03Apr2025 20:18:25.102] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2304.15, y=-29.00, z=4108.88], dimensionLocationPath overworld
+[03Apr2025 20:18:25.103] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2304.15, y=-29.00, z=4108.88] in list []
+[03Apr2025 20:18:25.155] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2304.14, y=-29.00, z=4108.69]
+[03Apr2025 20:18:41.205] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2297.46, y=-10.00, z=4082.18], dimensionLocationPath overworld
+[03Apr2025 20:18:41.205] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2297.46, y=-10.00, z=4082.18] in list []
+[03Apr2025 20:18:41.350] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2297.47, y=-10.00, z=4082.21]
+[03Apr2025 20:18:59.857] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2280.65, y=11.00, z=4092.02], dimensionLocationPath overworld
+[03Apr2025 20:18:59.858] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2280.65, y=11.00, z=4092.02] in list []
+[03Apr2025 20:18:59.906] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2280.65, y=11.00, z=4092.02]
+[03Apr2025 20:21:34.848] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2175.53, y=65.00, z=4038.09], dimensionLocationPath overworld
+[03Apr2025 20:21:34.849] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2175.53, y=65.00, z=4038.09] in list []
+[03Apr2025 20:21:34.950] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2175.50, y=65.00, z=4038.15]
+[03Apr2025 20:21:39.334] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[03Apr2025 20:21:39.335] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[03Apr2025 20:21:56.537] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Apr2025 20:21:56.555] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Apr2025 20:22:24.399] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2202.14, y=66.50, z=4033.08], dimensionLocationPath overworld
+[03Apr2025 20:22:24.400] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2202.14, y=66.50, z=4033.08] in list []
+[03Apr2025 20:22:24.847] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/128, l='ServerLevel[world]', x=-2203.60, y=65.25, z=4036.13]
+[03Apr2025 20:24:59.735] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[03Apr2025 20:26:56.513] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Apr2025 20:26:56.536] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Apr2025 20:28:19.485] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[03Apr2025 20:29:20.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot has reached the goal [Off you go]
+[03Apr2025 20:29:20.363] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=-2183, y=67, z=4038}
+[03Apr2025 20:31:39.335] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[03Apr2025 20:31:39.386] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[03Apr2025 20:31:56.526] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Apr2025 20:31:56.545] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Apr2025 20:34:59.784] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[03Apr2025 20:35:24.960] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[03Apr2025 20:35:24.960] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=962, z=1073200}"
+}
+[03Apr2025 20:35:24.962] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[03Apr2025 20:35:24.962] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-15, 100, -104, -36, -24, -80, 121, -49, -6, 90, 85]"
+]
+[03Apr2025 20:35:25.757] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[03Apr2025 20:35:25.758] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=871, z=1073200}"
+}
+[03Apr2025 20:35:25.758] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[03Apr2025 20:35:25.758] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[4, -116, 3, 2, 123, -63, 49, -51, -64, -68, 81]"
+]
+[03Apr2025 20:35:25.889] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[03Apr2025 20:35:25.893] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=787, z=1073200}"
+}
+[03Apr2025 20:35:25.894] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 74 extra bytes: 
+[03Apr2025 20:35:25.896] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "4u|ODB){9 b@T?e19H2g&+/,0"
+]
+[03Apr2025 20:35:25.944] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[03Apr2025 20:35:25.948] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=952, z=1073200}"
+}
+[03Apr2025 20:35:25.948] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 104 extra bytes: 
+[03Apr2025 20:35:25.949] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "SqCKCsv8r0 ?Oqj ;J&+/,0/5"
+]
+[03Apr2025 20:35:25.961] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[03Apr2025 20:35:25.962] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 28
+}
+[03Apr2025 20:35:25.962] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 89 extra bytes: 
+[03Apr2025 20:35:25.963] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "/521.ip.gl.ply.gg"
+]
+[03Apr2025 20:35:25.965] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[03Apr2025 20:35:25.965] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 53
+}
+[03Apr2025 20:35:25.968] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 107 extra bytes: 
+[03Apr2025 20:35:25.969] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "21.ip.gl.ply.gg+3&"
+]
+[03Apr2025 20:35:25.969] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[03Apr2025 20:35:25.967] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[03Apr2025 20:35:25.971] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=997, z=1073200}"
+}
+[03Apr2025 20:35:25.973] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[03Apr2025 20:35:25.975] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-17, 11, -71, 90, 64, -23, 118, -114, -60, 117, -128]"
+]
+[03Apr2025 20:35:25.971] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 10
+}
+[03Apr2025 20:35:25.975] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 139 extra bytes: 
+[03Apr2025 20:35:25.976] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "21.ip.gl.ply.gg+3& pEw({R8ZM-9e("
+]
+[03Apr2025 20:35:44.538] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[03Apr2025 20:35:44.539] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=5768192, y=815, z=1122352}"
+}
+[03Apr2025 20:35:44.539] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 82 extra bytes: 
+[03Apr2025 20:35:44.539] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "AoIf7b25P*] QA ,6r!6+dDb82+/,0"
+]
+[03Apr2025 20:35:44.539] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundPongPacket  id 32 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[03Apr2025 20:35:44.542] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_179721_": 739049014
+}
+[03Apr2025 20:35:44.542] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 32 data of 74 extra bytes: 
+[03Apr2025 20:35:44.542] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "r!6+dDb82+/,0/5#'<"
+]
+[03Apr2025 20:35:44.543] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:Rot  id 22 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[03Apr2025 20:35:44.551] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134118_": 0.0,
+  "f_134119_": 0.0,
+  "f_134120_": 0.0,
+  "f_134121_": 5.887558E-30,
+  "f_134122_": 8.511623E20,
+  "f_134123_": true,
+  "f_134124_": false,
+  "f_134125_": true
+}
+[03Apr2025 20:35:44.551] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 22 data of 86 extra bytes: 
+[03Apr2025 20:35:44.552] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "+/,0/5#'<21.ip.gl.ply.gg"
+]
+[03Apr2025 20:35:44.553] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[03Apr2025 20:35:44.555] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 53
+}
+[03Apr2025 20:35:44.555] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 119 extra bytes: 
+[03Apr2025 20:35:44.555] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "#'<21.ip.gl.ply.gg+3&"
+]
+[03Apr2025 20:35:44.556] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[03Apr2025 20:35:44.558] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 10
+}
+[03Apr2025 20:35:44.558] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 151 extra bytes: 
+[03Apr2025 20:35:44.558] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "#'<21.ip.gl.ply.gg+3& yIa3rdD$]<Q"
+]
+[03Apr2025 20:35:44.796] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[03Apr2025 20:35:44.797] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-8125440, y=873, z=905264}"
+}
+[03Apr2025 20:35:44.797] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[03Apr2025 20:35:44.797] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-41, -81, -67, -17, 13, -102, 0, 13, -77, 115, -121]"
+]
+[03Apr2025 20:35:45.501] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[03Apr2025 20:35:45.501] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-11271168, y=900, z=856112}"
+}
+[03Apr2025 20:35:45.501] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 90 extra bytes: 
+[03Apr2025 20:35:45.502] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "gPI<t8,0+/$(k#'g93=<5/"
+]
+[03Apr2025 20:35:45.502] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundPaddleBoatPacket  id 25 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[03Apr2025 20:35:45.505] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134206_": true,
+  "f_134207_": true
+}
+[03Apr2025 20:35:45.505] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 25 data of 87 extra bytes: 
+[03Apr2025 20:35:45.505] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "gPI<t8,0+/$(k#'g93=<5/"
+]
+[03Apr2025 20:36:56.515] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Apr2025 20:36:56.533] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Apr2025 20:38:19.535] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
