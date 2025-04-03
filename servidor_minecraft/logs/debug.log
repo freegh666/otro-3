@@ -4991,3 +4991,13 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [03Apr2025 00:17:42.202] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
 [03Apr2025 00:21:02.001] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
 [03Apr2025 00:21:02.202] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[03Apr2025 00:21:16.312] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Apr2025 00:21:16.353] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Apr2025 00:24:22.253] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[03Apr2025 00:26:16.425] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Apr2025 00:26:16.523] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Apr2025 00:27:42.203] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[03Apr2025 00:31:02.052] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[03Apr2025 00:31:02.252] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[03Apr2025 00:31:16.347] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Apr2025 00:31:16.367] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
