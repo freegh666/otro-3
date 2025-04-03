@@ -268,6 +268,7 @@
       "minecraft:spider": "2025-03-23 00:59:24 +0000",
       "minecraft:piglin_brute": "2025-03-23 02:04:01 +0000",
       "minecraft:creeper": "2025-03-23 04:37:12 +0000",
+      "minecraft:zombified_piglin": "2025-04-03 00:39:46 +0000",
       "minecraft:witch": "2025-03-31 02:00:17 +0000",
       "minecraft:wither_skeleton": "2025-04-01 01:13:05 +0000",
       "minecraft:piglin": "2025-03-23 02:01:40 +0000",
@@ -3168,6 +3169,12 @@
   "minecraft:recipes/building_blocks/jack_o_lantern": {
     "criteria": {
       "has_carved_pumpkin": "2025-04-01 04:33:51 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/stone_sword_repairing": {
+    "criteria": {
+      "has_stone_sword": "2025-04-03 00:34:11 +0000"
     },
     "done": true
   },
