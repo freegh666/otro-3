@@ -179,6 +179,7 @@
       "minecraft:creeper": "2025-03-18 04:17:26 +0000",
       "minecraft:slime": "2025-03-21 18:23:02 +0000",
       "minecraft:phantom": "2025-03-29 19:22:32 +0000",
+      "minecraft:zombified_piglin": "2025-04-03 01:27:14 +0000",
       "minecraft:witch": "2025-03-22 00:35:18 +0000",
       "minecraft:wither_skeleton": "2025-03-19 03:06:17 +0000",
       "minecraft:piglin": "2025-03-18 22:49:36 +0000",
@@ -4813,18 +4814,6 @@
     },
     "done": true
   },
-  "mca:friendly_fire": {
-    "criteria": {
-      "female_fate": "2025-04-01 01:26:08 +0000"
-    },
-    "done": true
-  },
-  "packedup:recipes/misc/obsidian_from_diamond": {
-    "criteria": {
-      "recipe_condition": "2025-04-01 01:35:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-01 01:18:44 +0000"
@@ -4852,12 +4841,6 @@
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-01 01:18:44 +0000"
-    },
-    "done": true
-  },
-  "packedup:diamond_backpack": {
-    "criteria": {
-      "has_backpack": "2025-04-01 01:35:11 +0000"
     },
     "done": true
   },
@@ -4915,9 +4898,39 @@
     },
     "done": true
   },
+  "mca:friendly_fire": {
+    "criteria": {
+      "female_fate": "2025-04-01 01:26:08 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/obsidian_from_diamond": {
+    "criteria": {
+      "recipe_condition": "2025-04-01 01:35:11 +0000"
+    },
+    "done": true
+  },
+  "packedup:diamond_backpack": {
+    "criteria": {
+      "has_backpack": "2025-04-01 01:35:11 +0000"
+    },
+    "done": true
+  },
   "packedup:obsidian_backpack": {
     "criteria": {
       "has_backpack": "2025-04-01 01:40:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-04-03 01:23:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-04-03 01:23:45 +0000"
     },
     "done": true
   },
