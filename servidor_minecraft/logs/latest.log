@@ -914,3 +914,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
   "[-76, 64, 114, -11, -43, -120, 55, -51, 48, 89, 96]"
 ]
 [03Apr2025 21:45:07.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot has made the advancement [You Monster!]
+[03Apr2025 22:12:28.804] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[03Apr2025 22:12:28.804] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
