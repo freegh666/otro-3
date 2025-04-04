@@ -53,6 +53,7 @@
       "minecraft:sunflower_plains": "2025-03-23 00:05:15 +0000",
       "minecraft:birch_forest": "2025-03-23 06:59:54 +0000",
       "minecraft:bamboo_jungle": "2025-04-01 02:12:40 +0000",
+      "minecraft:savanna_plateau": "2025-04-04 23:01:52 +0000",
       "minecraft:beach": "2025-03-23 07:00:04 +0000",
       "minecraft:dark_forest": "2025-03-23 00:34:16 +0000",
       "minecraft:sparse_jungle": "2025-04-01 02:31:05 +0000",
@@ -227,6 +228,7 @@
       "cooked_beef": "2025-03-29 05:38:40 +0000",
       "baked_potato": "2025-03-23 02:52:33 +0000",
       "porkchop": "2025-03-23 06:26:16 +0000",
+      "cooked_cod": "2025-04-04 22:57:15 +0000",
       "bread": "2025-03-23 06:58:11 +0000",
       "golden_carrot": "2025-03-25 01:50:41 +0000",
       "cooked_chicken": "2025-03-31 23:56:54 +0000",
@@ -1593,6 +1595,7 @@
       "chameleon": "2025-04-01 02:31:06 +0000",
       "owl": "2025-04-01 01:02:09 +0000",
       "orangutan": "2025-04-01 03:04:56 +0000",
+      "giraffe": "2025-04-04 23:03:12 +0000",
       "beaver": "2025-04-01 03:42:11 +0000",
       "mammoth": "2025-03-23 03:22:29 +0000"
     },
@@ -3728,6 +3731,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-04-04 22:56:25 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/soul_vulture": {
     "criteria": {
       "killed": "2025-04-04 22:09:50 +0000"
@@ -3752,6 +3761,12 @@
     },
     "done": true
   },
+  "aether:recipes/food/skyroot_milk_bucket_cake": {
+    "criteria": {
+      "has_egg": "2025-04-04 22:56:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2025-04-04 22:25:43 +0000"
@@ -3767,6 +3782,12 @@
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-04-04 22:25:43 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2025-04-04 22:56:25 +0000"
     },
     "done": true
   },
