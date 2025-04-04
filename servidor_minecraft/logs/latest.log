@@ -1172,3 +1172,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [04Apr2025 22:00:55.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot joined the game
 [04Apr2025 22:00:55.800] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for daf3981c-623a-33c4-83a6-d56260e38f0b
 [04Apr2025 22:09:50.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot has made the advancement [Fetch Me Their Souls!]
+[04Apr2025 22:27:49.416] [Worker-Main-119/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/17365, l='ServerLevel[world]', x=749.00, y=31.00, z=128.90] as it would cause deadlock
+[04Apr2025 22:28:43.412] [Worker-Main-117/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/17563, l='ServerLevel[world]', x=419.00, y=31.00, z=-19.00] as it would cause deadlock
