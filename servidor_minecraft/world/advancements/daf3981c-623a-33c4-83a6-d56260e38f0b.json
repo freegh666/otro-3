@@ -66,6 +66,7 @@
       "minecraft:desert": "2025-03-23 01:25:30 +0000",
       "minecraft:ocean": "2025-03-23 06:54:14 +0000",
       "minecraft:jungle": "2025-04-01 02:12:45 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-04-04 23:11:37 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-01 02:31:25 +0000",
       "minecraft:savanna": "2025-04-03 03:52:39 +0000",
       "minecraft:plains": "2025-03-23 00:04:47 +0000"
@@ -230,6 +231,7 @@
       "porkchop": "2025-03-23 06:26:16 +0000",
       "cooked_cod": "2025-04-04 22:57:15 +0000",
       "bread": "2025-03-23 06:58:11 +0000",
+      "golden_apple": "2025-04-04 23:07:10 +0000",
       "golden_carrot": "2025-03-25 01:50:41 +0000",
       "cooked_chicken": "2025-03-31 23:56:54 +0000",
       "carrot": "2025-03-25 01:49:33 +0000"
@@ -3797,9 +3799,21 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-04-04 23:22:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-04-04 22:25:43 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2025-04-04 23:07:14 +0000"
     },
     "done": true
   },

@@ -1176,3 +1176,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [04Apr2025 22:28:43.412] [Worker-Main-117/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/17563, l='ServerLevel[world]', x=419.00, y=31.00, z=-19.00] as it would cause deadlock
 [04Apr2025 23:00:00.145] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Irakli'/25550, l='ServerLevel[world]', x=-3057.61, y=88.94, z=4085.63] died, message: 'Irakli was slain by Jukot'
 [04Apr2025 23:00:00.147] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Irakli'/25550, l='ServerLevel[world]', x=-3057.61, y=88.94, z=4085.63] died: Irakli was slain by Jukot
+[04Apr2025 23:07:14.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot has completed the challenge [Praise the Sun]
+[04Apr2025 23:22:07.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot has made the advancement [Eye Spy]
