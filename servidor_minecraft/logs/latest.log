@@ -1256,3 +1256,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
   "<partial numeric data>",
   "[111, 2, 74, 68, 38, 4, -4, 83, 9, -109, -34]"
 ]
+[04Apr2025 23:53:23.852] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[04Apr2025 23:53:23.855] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
