@@ -554,3 +554,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 ]
 [04Apr2025 21:00:02.625] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Florin'/3388, l='ServerLevel[world]', x=-2197.97, y=68.00, z=4028.50] died, message: 'Florin was shot by jessica'
 [04Apr2025 21:00:02.640] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Florin'/3388, l='ServerLevel[world]', x=-2197.97, y=68.00, z=4028.50] died: Florin was shot by jessica
+[04Apr2025 21:21:33.092] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jukot lost connection: Disconnected
+[04Apr2025 21:21:33.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot left the game
+[04Apr2025 21:21:33.093] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for daf3981c-623a-33c4-83a6-d56260e38f0b
+[04Apr2025 21:21:33.099] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jukot
