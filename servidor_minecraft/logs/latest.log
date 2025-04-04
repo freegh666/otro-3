@@ -552,3 +552,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [
   "93=<5/p1.ip.gl.ply.gg#0."
 ]
+[04Apr2025 21:00:02.625] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Florin'/3388, l='ServerLevel[world]', x=-2197.97, y=68.00, z=4028.50] died, message: 'Florin was shot by jessica'
+[04Apr2025 21:00:02.640] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Florin'/3388, l='ServerLevel[world]', x=-2197.97, y=68.00, z=4028.50] died: Florin was shot by jessica
