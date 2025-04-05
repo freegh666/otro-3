@@ -71,3 +71,9 @@
 [05Apr2025 01:00:40.686] [Server thread/INFO] [wehavecookies56.bonfires.Bonfires/]: Bonfire'Portal' lit at: X-3850 Y-30 Z3351 by PlagaXNZ
 [05Apr2025 01:16:24.813] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Efim'/210403, l='ServerLevel[world]', x=-1258.85, y=68.00, z=-3107.21] died, message: 'Efim was slain by Cristea'
 [05Apr2025 01:16:24.813] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Efim'/210403, l='ServerLevel[world]', x=-1258.85, y=68.00, z=-3107.21] died: Efim was slain by Cristea
+[05Apr2025 01:21:20.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jukot moved wrongly!
+[05Apr2025 01:25:08.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ has made the advancement [The End?]
+[05Apr2025 01:25:10.907] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Scanning for legacy world dragon fight...
+[05Apr2025 01:25:10.907] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Found that the dragon has not yet been killed in this world.
+[05Apr2025 01:25:11.563] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2931ms or 58 ticks behind
+[05Apr2025 01:25:54.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot has made the advancement [The End?]
