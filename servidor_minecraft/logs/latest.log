@@ -2436,3 +2436,12 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
   "<partial numeric data>",
   "[46, 21, 76, 5, -16, -35, -123, -59, -109, -42, -2]"
 ]
+[05Apr2025 22:49:23.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[05Apr2025 22:49:23.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: n<--[HERE]
+[05Apr2025 22:51:09.593] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jukot[/127.113.44.68:57737] logged in with entity id 47564 at (-2200.906346835823, 65.5, 4027.018383147466)
+[05Apr2025 22:51:09.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot joined the game
+[05Apr2025 22:51:09.616] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for daf3981c-623a-33c4-83a6-d56260e38f0b
+[05Apr2025 22:52:21.228] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jukot lost connection: Disconnected
+[05Apr2025 22:52:21.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot left the game
+[05Apr2025 22:52:21.229] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for daf3981c-623a-33c4-83a6-d56260e38f0b
+[05Apr2025 22:52:21.230] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jukot
