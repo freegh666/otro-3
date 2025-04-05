@@ -2737,3 +2737,20 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [05Apr2025 23:17:10.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot left the game
 [05Apr2025 23:17:10.426] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for daf3981c-623a-33c4-83a6-d56260e38f0b
 [05Apr2025 23:17:10.426] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jukot
+[05Apr2025 23:19:22.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[05Apr2025 23:19:22.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: s<--[HERE]
+[05Apr2025 23:19:58.664] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@77ba406[id=<null>,name=Jukot,properties={},legacy=false] (/127.113.44.68:33541) lost connection: Disconnected
+[05Apr2025 23:20:02.678] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jukot[/127.113.44.68:58657] logged in with entity id 48599 at (-1265.5499258646623, 71.0, -3078.1315006945665)
+[05Apr2025 23:20:02.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot joined the game
+[05Apr2025 23:20:02.691] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for daf3981c-623a-33c4-83a6-d56260e38f0b
+[05Apr2025 23:24:17.977] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jukot lost connection: Disconnected
+[05Apr2025 23:24:17.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot left the game
+[05Apr2025 23:24:17.977] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for daf3981c-623a-33c4-83a6-d56260e38f0b
+[05Apr2025 23:24:17.978] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jukot
+[05Apr2025 23:24:29.192] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jukot[/127.113.44.68:53037] logged in with entity id 49083 at (-1265.5499258646623, 71.0, -3078.1315006945665)
+[05Apr2025 23:24:29.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot joined the game
+[05Apr2025 23:24:29.229] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for daf3981c-623a-33c4-83a6-d56260e38f0b
+[05Apr2025 23:25:38.420] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jukot lost connection: Disconnected
+[05Apr2025 23:25:38.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot left the game
+[05Apr2025 23:25:38.420] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for daf3981c-623a-33c4-83a6-d56260e38f0b
+[05Apr2025 23:25:38.420] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jukot
