@@ -506,3 +506,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [05Apr2025 20:24:12.841] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [05Apr2025 20:28:12.078] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Domnica'/3003, l='ServerLevel[world]', x=-1171.48, y=68.42, z=-3075.83] died, message: 'Domnica was slain by Jukot'
 [05Apr2025 20:28:12.082] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Domnica'/3003, l='ServerLevel[world]', x=-1171.48, y=68.42, z=-3075.83] died: Domnica was slain by Jukot
+[05Apr2025 20:45:13.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot has made the advancement [Voluntary Exile]
+[05Apr2025 20:49:42.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot has completed the challenge [Hero of the Village]
+[05Apr2025 20:57:39.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot has made the advancement [Getting an Upgrade]
+[05Apr2025 21:02:40.723] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Sabrina'/11996, l='ServerLevel[world]', x=-2209.47, y=61.00, z=4052.88] died, message: 'Sabrina drowned'

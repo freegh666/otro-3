@@ -270,6 +270,7 @@
       "minecraft:blaze": "2025-04-01 01:11:49 +0000",
       "minecraft:pillager": "2025-04-01 03:20:05 +0000",
       "minecraft:skeleton": "2025-03-23 01:41:50 +0000",
+      "minecraft:ravager": "2025-04-05 20:49:41 +0000",
       "minecraft:ghast": "2025-04-03 21:58:24 +0000",
       "minecraft:hoglin": "2025-03-23 02:02:16 +0000",
       "minecraft:vindicator": "2025-04-01 03:20:14 +0000",
@@ -4335,6 +4336,60 @@
   "mowziesmobs:kill_umvuthana_raptor": {
     "criteria": {
       "umvuthana_raptor": "2025-04-05 02:52:49 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/stone_hoe_repairing": {
+    "criteria": {
+      "has_stone_hoe": "2025-04-05 20:52:01 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_leggings_repairing": {
+    "criteria": {
+      "has_netherite_leggings": "2025-04-05 20:57:51 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/stone_pickaxe_repairing": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-04-05 20:57:39 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/golden_axe_repairing": {
+    "criteria": {
+      "has_golden_axe": "2025-04-05 20:57:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-04-05 20:45:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-04-05 20:49:42 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_chestplate_repairing": {
+    "criteria": {
+      "has_chainmail_chestplate": "2025-04-05 20:51:39 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_boots_repairing": {
+    "criteria": {
+      "has_netherite_boots": "2025-04-05 20:57:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-04-05 20:57:39 +0000"
     },
     "done": true
   },
