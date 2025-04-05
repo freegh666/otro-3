@@ -2754,3 +2754,17 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [05Apr2025 23:25:38.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot left the game
 [05Apr2025 23:25:38.420] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for daf3981c-623a-33c4-83a6-d56260e38f0b
 [05Apr2025 23:25:38.420] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jukot
+[05Apr2025 23:29:04.950] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Apr2025 23:29:04.950] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 5723
+}
+[05Apr2025 23:29:04.950] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 58 extra bytes: 
+[05Apr2025 23:29:04.951] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  ":7z:`*1qNz|5p352TN0hHlPF"
+]
+[05Apr2025 23:31:18.991] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PlagaXNZ[/127.113.44.68:52711] logged in with entity id 49438 at (-1261.1420548583371, 71.0, -3074.474384332401)
+[05Apr2025 23:31:19.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ joined the game
+[05Apr2025 23:31:19.058] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 116e9c76-7157-3f7d-8106-557b209a5b07
+[05Apr2025 23:34:30.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PlagaXNZ: Set own game mode to Creative Mode]
