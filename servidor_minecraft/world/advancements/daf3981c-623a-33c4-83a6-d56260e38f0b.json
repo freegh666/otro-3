@@ -4339,45 +4339,9 @@
     },
     "done": true
   },
-  "aether:recipes/tools/stone_hoe_repairing": {
-    "criteria": {
-      "has_stone_hoe": "2025-04-05 20:52:01 +0000"
-    },
-    "done": true
-  },
-  "mca:adventure/staff_of_life": {
-    "criteria": {
-      "iron": "2025-04-05 21:13:57 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/netherite_leggings_repairing": {
-    "criteria": {
-      "has_netherite_leggings": "2025-04-05 20:57:51 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/stone_pickaxe_repairing": {
-    "criteria": {
-      "has_stone_pickaxe": "2025-04-05 20:57:39 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/golden_axe_repairing": {
-    "criteria": {
-      "has_golden_axe": "2025-04-05 20:57:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-04-05 20:45:13 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/chainmail_boots_repairing": {
-    "criteria": {
-      "has_chainmail_boots": "2025-04-05 21:11:35 +0000"
     },
     "done": true
   },
@@ -4393,9 +4357,9 @@
     },
     "done": true
   },
-  "aether:recipes/tools/stone_shovel_repairing": {
+  "aether:recipes/tools/stone_hoe_repairing": {
     "criteria": {
-      "has_stone_shovel": "2025-04-05 21:09:40 +0000"
+      "has_stone_hoe": "2025-04-05 20:52:01 +0000"
     },
     "done": true
   },
@@ -4405,15 +4369,9 @@
     },
     "done": true
   },
-  "bonfires:recipes/misc/titanite_chunk": {
+  "aether:recipes/tools/stone_pickaxe_repairing": {
     "criteria": {
-      "has_large_titanite_shard": "2025-04-05 21:34:41 +0000"
-    },
-    "done": true
-  },
-  "bonfires:recipes/misc/large_titanite_shard": {
-    "criteria": {
-      "has_titanite_shard": "2025-04-05 21:34:32 +0000"
+      "has_stone_pickaxe": "2025-04-05 20:57:39 +0000"
     },
     "done": true
   },
@@ -4423,15 +4381,21 @@
     },
     "done": true
   },
-  "aether:recipes/combat/diamond_chestplate_repairing": {
+  "aether:recipes/combat/netherite_leggings_repairing": {
     "criteria": {
-      "has_diamond_chestplate": "2025-04-05 21:12:40 +0000"
+      "has_netherite_leggings": "2025-04-05 20:57:51 +0000"
     },
     "done": true
   },
-  "aether:recipes/combat/netherite_chestplate_repairing": {
+  "aether:recipes/tools/golden_axe_repairing": {
     "criteria": {
-      "has_netherite_chestplate": "2025-04-05 21:25:14 +0000"
+      "has_golden_axe": "2025-04-05 20:57:56 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/stone_shovel_repairing": {
+    "criteria": {
+      "has_stone_shovel": "2025-04-05 21:09:40 +0000"
     },
     "done": true
   },
@@ -4441,9 +4405,51 @@
     },
     "done": true
   },
+  "aether:recipes/combat/chainmail_boots_repairing": {
+    "criteria": {
+      "has_chainmail_boots": "2025-04-05 21:11:35 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_chestplate_repairing": {
+    "criteria": {
+      "has_diamond_chestplate": "2025-04-05 21:12:40 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/chainmail_leggings_repairing": {
     "criteria": {
       "has_chainmail_leggings": "2025-04-05 21:12:40 +0000"
+    },
+    "done": true
+  },
+  "mca:adventure/staff_of_life": {
+    "criteria": {
+      "iron": "2025-04-05 21:13:57 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_chestplate_repairing": {
+    "criteria": {
+      "has_netherite_chestplate": "2025-04-05 21:25:14 +0000"
+    },
+    "done": true
+  },
+  "bonfires:recipes/misc/large_titanite_shard": {
+    "criteria": {
+      "has_titanite_shard": "2025-04-05 21:34:32 +0000"
+    },
+    "done": true
+  },
+  "bonfires:recipes/misc/titanite_chunk": {
+    "criteria": {
+      "has_large_titanite_shard": "2025-04-05 21:34:41 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/enderiophage_rocket": {
+    "criteria": {
+      "enderiophage_rocket": "2025-04-05 22:03:46 +0000"
     },
     "done": true
   },
