@@ -10059,3 +10059,22 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [05Apr2025 00:35:14.701] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Apr2025 00:35:14.727] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [05Apr2025 00:38:25.832] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[05Apr2025 00:39:03.196] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[05Apr2025 00:40:16.622] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Apr2025 00:40:16.636] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Apr2025 00:41:44.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukot> -3820 69 3252
+[05Apr2025 00:41:45.733] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[05Apr2025 00:44:24.165] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3221, y=120, z=3948} BlockPos{x=-3217, y=119, z=3945}
+[05Apr2025 00:45:05.584] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[05Apr2025 00:45:05.584] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[05Apr2025 00:45:16.635] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Apr2025 00:45:16.655] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Apr2025 00:46:16.130] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zebra (vehicle of PlagaXNZ) moved wrongly! 0.2808360365570479
+[05Apr2025 00:46:16.178] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zebra (vehicle of PlagaXNZ) moved wrongly! 0.70807349595907
+[05Apr2025 00:47:21.416] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/125881, l='ServerLevel[world]', x=-3448.30, y=71.46, z=3521.69], dimensionLocationPath overworld
+[05Apr2025 00:47:21.416] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/125881, l='ServerLevel[world]', x=-3448.30, y=71.46, z=3521.69] in list []
+[05Apr2025 00:48:25.833] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[05Apr2025 00:48:29.120] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/125881, l='ServerLevel[world]', x=-3447.96, y=69.94, z=3521.18, removed=UNLOADED_TO_CHUNK]
+[05Apr2025 00:48:29.178] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/126388, l='ServerLevel[world]', x=-3447.96, y=69.94, z=3521.18], dimensionLocationPath overworld
+[05Apr2025 00:48:29.178] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/126388, l='ServerLevel[world]', x=-3447.96, y=69.94, z=3521.18] in list []
+[05Apr2025 00:48:29.279] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/126388, l='ServerLevel[world]', x=-3447.96, y=69.94, z=3521.18, removed=UNLOADED_TO_CHUNK]

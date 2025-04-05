@@ -3879,6 +3879,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_sword_repairing": {
+    "criteria": {
+      "has_golden_sword": "2025-04-05 00:35:25 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/borderless_glass_light_blue2": {
     "criteria": {
       "recipe_condition2": "2025-04-05 00:12:59 +0000"
