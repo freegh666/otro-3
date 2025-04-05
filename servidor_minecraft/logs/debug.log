@@ -7004,3 +7004,434 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [05Apr2025 22:25:07.212] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
 [05Apr2025 22:25:30.987] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Apr2025 22:25:31.007] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Apr2025 22:28:00.911] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[05Apr2025 22:30:31.403] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Apr2025 22:30:31.564] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Apr2025 22:30:57.975] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[05Apr2025 22:31:16.362] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[05Apr2025 22:31:20.828] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[05Apr2025 22:31:33.954] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2592ms or 51 ticks behind
+[05Apr2025 22:35:07.262] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[05Apr2025 22:35:07.419] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[05Apr2025 22:35:38.076] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Apr2025 22:35:38.101] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Apr2025 22:35:59.650] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-216.01, y=68.00, z=636.00], dimensionLocationPath the_nether
+[05Apr2025 22:35:59.653] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-216.01, y=68.00, z=636.00] is dead or in a banned dimension the_nether
+[05Apr2025 22:35:59.678] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.93, y=68.17, z=635.81], dimensionLocationPath the_nether
+[05Apr2025 22:35:59.679] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.93, y=68.17, z=635.81] is dead or in a banned dimension the_nether
+[05Apr2025 22:35:59.729] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.86, y=68.20, z=635.64], dimensionLocationPath the_nether
+[05Apr2025 22:35:59.729] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.86, y=68.20, z=635.64] is dead or in a banned dimension the_nether
+[05Apr2025 22:35:59.775] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.79, y=68.12, z=635.48], dimensionLocationPath the_nether
+[05Apr2025 22:35:59.776] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.79, y=68.12, z=635.48] is dead or in a banned dimension the_nether
+[05Apr2025 22:35:59.824] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.73, y=67.97, z=635.33], dimensionLocationPath the_nether
+[05Apr2025 22:35:59.825] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.73, y=67.97, z=635.33] is dead or in a banned dimension the_nether
+[05Apr2025 22:35:59.878] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.68, y=67.74, z=635.20], dimensionLocationPath the_nether
+[05Apr2025 22:35:59.878] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.68, y=67.74, z=635.20] is dead or in a banned dimension the_nether
+[05Apr2025 22:35:59.930] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.78, y=67.66, z=635.28], dimensionLocationPath the_nether
+[05Apr2025 22:35:59.931] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.78, y=67.66, z=635.28] is dead or in a banned dimension the_nether
+[05Apr2025 22:35:59.983] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.88, y=67.50, z=635.35], dimensionLocationPath the_nether
+[05Apr2025 22:35:59.983] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.88, y=67.50, z=635.35] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:00.031] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.96, y=67.27, z=635.41], dimensionLocationPath the_nether
+[05Apr2025 22:36:00.031] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.96, y=67.27, z=635.41] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:00.080] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-216.04, y=67.00, z=635.47], dimensionLocationPath the_nether
+[05Apr2025 22:36:00.080] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-216.04, y=67.00, z=635.47] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:00.136] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-216.11, y=67.00, z=635.52], dimensionLocationPath the_nether
+[05Apr2025 22:36:00.136] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-216.11, y=67.00, z=635.52] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:00.176] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-216.15, y=67.00, z=635.55], dimensionLocationPath the_nether
+[05Apr2025 22:36:00.177] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-216.15, y=67.00, z=635.55] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:00.751] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-216.17, y=67.00, z=635.57], dimensionLocationPath the_nether
+[05Apr2025 22:36:00.751] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-216.17, y=67.00, z=635.57] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:00.763] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.99, y=67.00, z=634.45], dimensionLocationPath the_nether
+[05Apr2025 22:36:00.763] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.99, y=67.00, z=634.45] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:00.779] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.99, y=67.00, z=634.45], dimensionLocationPath the_nether
+[05Apr2025 22:36:00.779] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.99, y=67.00, z=634.45] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:00.816] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.99, y=67.00, z=634.45], dimensionLocationPath the_nether
+[05Apr2025 22:36:00.817] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.99, y=67.00, z=634.45] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:00.833] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.95, y=67.00, z=634.25], dimensionLocationPath the_nether
+[05Apr2025 22:36:00.834] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.95, y=67.00, z=634.25] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:00.845] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.95, y=67.00, z=634.25], dimensionLocationPath the_nether
+[05Apr2025 22:36:00.845] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.95, y=67.00, z=634.25] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:00.858] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.94, y=67.00, z=634.05], dimensionLocationPath the_nether
+[05Apr2025 22:36:00.858] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.94, y=67.00, z=634.05] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:00.869] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.94, y=67.00, z=634.05], dimensionLocationPath the_nether
+[05Apr2025 22:36:00.869] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.94, y=67.00, z=634.05] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:00.879] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.94, y=67.00, z=634.05], dimensionLocationPath the_nether
+[05Apr2025 22:36:00.879] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.94, y=67.00, z=634.05] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:00.892] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.94, y=67.00, z=634.05], dimensionLocationPath the_nether
+[05Apr2025 22:36:00.894] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.94, y=67.00, z=634.05] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:00.938] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.94, y=67.00, z=633.83], dimensionLocationPath the_nether
+[05Apr2025 22:36:00.938] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.94, y=67.00, z=633.83] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:00.951] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.88, y=67.00, z=633.64], dimensionLocationPath the_nether
+[05Apr2025 22:36:00.951] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.88, y=67.00, z=633.64] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:00.962] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.88, y=67.00, z=633.64], dimensionLocationPath the_nether
+[05Apr2025 22:36:00.963] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.88, y=67.00, z=633.64] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:00.974] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.88, y=67.00, z=633.64], dimensionLocationPath the_nether
+[05Apr2025 22:36:00.974] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.88, y=67.00, z=633.64] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:00.987] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.88, y=67.00, z=633.64], dimensionLocationPath the_nether
+[05Apr2025 22:36:00.988] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.88, y=67.00, z=633.64] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:01.016] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.78, y=67.00, z=633.46], dimensionLocationPath the_nether
+[05Apr2025 22:36:01.019] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.78, y=67.00, z=633.46] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:01.043] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.78, y=67.00, z=633.46], dimensionLocationPath the_nether
+[05Apr2025 22:36:01.043] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.78, y=67.00, z=633.46] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:01.081] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.67, y=67.00, z=633.29], dimensionLocationPath the_nether
+[05Apr2025 22:36:01.082] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.67, y=67.00, z=633.29] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:01.140] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.54, y=67.00, z=633.12], dimensionLocationPath the_nether
+[05Apr2025 22:36:01.140] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.54, y=67.00, z=633.12] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:01.173] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.48, y=67.00, z=633.04], dimensionLocationPath the_nether
+[05Apr2025 22:36:01.174] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.48, y=67.00, z=633.04] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:01.224] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.38, y=67.00, z=632.92], dimensionLocationPath the_nether
+[05Apr2025 22:36:01.224] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.38, y=67.00, z=632.92] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:01.282] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.30, y=67.42, z=632.78], dimensionLocationPath the_nether
+[05Apr2025 22:36:01.282] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.30, y=67.42, z=632.78] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:01.325] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.30, y=67.75, z=632.68], dimensionLocationPath the_nether
+[05Apr2025 22:36:01.325] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.30, y=67.75, z=632.68] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:01.377] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.30, y=68.00, z=632.57], dimensionLocationPath the_nether
+[05Apr2025 22:36:01.377] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.30, y=68.00, z=632.57] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:01.426] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.30, y=68.17, z=632.45], dimensionLocationPath the_nether
+[05Apr2025 22:36:01.426] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.30, y=68.17, z=632.45] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:01.475] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.30, y=68.20, z=632.31], dimensionLocationPath the_nether
+[05Apr2025 22:36:01.476] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.30, y=68.20, z=632.31] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:01.525] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.30, y=68.12, z=632.16], dimensionLocationPath the_nether
+[05Apr2025 22:36:01.525] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.30, y=68.12, z=632.16] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:01.576] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.30, y=68.00, z=631.99], dimensionLocationPath the_nether
+[05Apr2025 22:36:01.576] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.30, y=68.00, z=631.99] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:01.623] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.30, y=68.00, z=631.71], dimensionLocationPath the_nether
+[05Apr2025 22:36:01.624] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.30, y=68.00, z=631.71] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:01.676] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.30, y=68.00, z=631.44], dimensionLocationPath the_nether
+[05Apr2025 22:36:01.676] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.30, y=68.00, z=631.44] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:01.725] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.33, y=68.20, z=630.96], dimensionLocationPath the_nether
+[05Apr2025 22:36:01.725] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.33, y=68.20, z=630.96] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:01.771] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.35, y=68.12, z=630.67], dimensionLocationPath the_nether
+[05Apr2025 22:36:01.771] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.35, y=68.12, z=630.67] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:01.828] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.37, y=67.97, z=630.39], dimensionLocationPath the_nether
+[05Apr2025 22:36:01.829] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.37, y=67.97, z=630.39] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:01.876] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.39, y=67.74, z=630.10], dimensionLocationPath the_nether
+[05Apr2025 22:36:01.877] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.39, y=67.74, z=630.10] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:01.925] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.41, y=67.43, z=629.81], dimensionLocationPath the_nether
+[05Apr2025 22:36:01.925] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.41, y=67.43, z=629.81] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:01.975] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.41, y=67.35, z=629.79], dimensionLocationPath the_nether
+[05Apr2025 22:36:01.975] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.41, y=67.35, z=629.79] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:02.024] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.41, y=67.20, z=629.74], dimensionLocationPath the_nether
+[05Apr2025 22:36:02.025] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.41, y=67.20, z=629.74] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:02.076] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.41, y=67.00, z=629.67], dimensionLocationPath the_nether
+[05Apr2025 22:36:02.076] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.41, y=67.00, z=629.67] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:02.126] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.42, y=67.00, z=629.48], dimensionLocationPath the_nether
+[05Apr2025 22:36:02.127] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.42, y=67.00, z=629.48] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:02.176] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.44, y=67.00, z=629.25], dimensionLocationPath the_nether
+[05Apr2025 22:36:02.176] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.44, y=67.00, z=629.25] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:02.227] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.48, y=67.42, z=628.80], dimensionLocationPath the_nether
+[05Apr2025 22:36:02.228] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.48, y=67.42, z=628.80] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:02.285] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.50, y=67.75, z=628.53], dimensionLocationPath the_nether
+[05Apr2025 22:36:02.285] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.50, y=67.75, z=628.53] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:02.326] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.53, y=68.00, z=628.25], dimensionLocationPath the_nether
+[05Apr2025 22:36:02.326] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.53, y=68.00, z=628.25] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:02.376] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.55, y=68.17, z=627.98], dimensionLocationPath the_nether
+[05Apr2025 22:36:02.376] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.55, y=68.17, z=627.98] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:02.435] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.58, y=68.25, z=627.70], dimensionLocationPath the_nether
+[05Apr2025 22:36:02.435] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.58, y=68.25, z=627.70] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:02.476] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.60, y=68.25, z=627.43], dimensionLocationPath the_nether
+[05Apr2025 22:36:02.477] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.60, y=68.25, z=627.43] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:02.526] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.63, y=68.18, z=627.15], dimensionLocationPath the_nether
+[05Apr2025 22:36:02.527] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.63, y=68.18, z=627.15] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:02.576] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.65, y=68.02, z=626.88], dimensionLocationPath the_nether
+[05Apr2025 22:36:02.576] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.65, y=68.02, z=626.88] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:02.625] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.69, y=67.80, z=626.61], dimensionLocationPath the_nether
+[05Apr2025 22:36:02.626] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.69, y=67.80, z=626.61] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:02.686] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.75, y=67.50, z=626.35], dimensionLocationPath the_nether
+[05Apr2025 22:36:02.686] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.75, y=67.50, z=626.35] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:02.746] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.83, y=67.12, z=626.09], dimensionLocationPath the_nether
+[05Apr2025 22:36:02.746] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.83, y=67.12, z=626.09] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:02.775] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.91, y=67.00, z=625.85], dimensionLocationPath the_nether
+[05Apr2025 22:36:02.775] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-214.91, y=67.00, z=625.85] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:02.824] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.02, y=67.42, z=625.30], dimensionLocationPath the_nether
+[05Apr2025 22:36:02.824] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.02, y=67.42, z=625.30] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:02.878] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.09, y=67.75, z=624.97], dimensionLocationPath the_nether
+[05Apr2025 22:36:02.878] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.09, y=67.75, z=624.97] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:02.930] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.15, y=68.00, z=624.65], dimensionLocationPath the_nether
+[05Apr2025 22:36:02.930] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.15, y=68.00, z=624.65] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:02.974] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.15, y=67.70, z=624.54], dimensionLocationPath the_nether
+[05Apr2025 22:36:02.975] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.15, y=67.70, z=624.54] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:03.027] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.17, y=67.33, z=624.41], dimensionLocationPath the_nether
+[05Apr2025 22:36:03.027] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.17, y=67.33, z=624.41] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:03.074] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.18, y=67.00, z=624.27], dimensionLocationPath the_nether
+[05Apr2025 22:36:03.074] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.18, y=67.00, z=624.27] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:03.135] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.20, y=67.00, z=624.02], dimensionLocationPath the_nether
+[05Apr2025 22:36:03.135] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.20, y=67.00, z=624.02] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:03.184] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.22, y=67.00, z=623.75], dimensionLocationPath the_nether
+[05Apr2025 22:36:03.185] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.22, y=67.00, z=623.75] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:03.227] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.25, y=67.00, z=623.48], dimensionLocationPath the_nether
+[05Apr2025 22:36:03.228] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.25, y=67.00, z=623.48] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:03.274] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.28, y=67.00, z=623.20], dimensionLocationPath the_nether
+[05Apr2025 22:36:03.274] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.28, y=67.00, z=623.20] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:03.327] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.32, y=67.42, z=622.73], dimensionLocationPath the_nether
+[05Apr2025 22:36:03.327] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.32, y=67.42, z=622.73] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:03.376] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.35, y=67.75, z=622.44], dimensionLocationPath the_nether
+[05Apr2025 22:36:03.376] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.35, y=67.75, z=622.44] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:03.426] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.37, y=68.00, z=622.16], dimensionLocationPath the_nether
+[05Apr2025 22:36:03.426] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.37, y=68.00, z=622.16] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:03.474] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.40, y=68.17, z=621.87], dimensionLocationPath the_nether
+[05Apr2025 22:36:03.474] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.40, y=68.17, z=621.87] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:03.526] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.43, y=68.25, z=621.59], dimensionLocationPath the_nether
+[05Apr2025 22:36:03.526] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.43, y=68.25, z=621.59] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:03.574] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.45, y=68.25, z=621.30], dimensionLocationPath the_nether
+[05Apr2025 22:36:03.574] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.45, y=68.25, z=621.30] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:03.627] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.48, y=68.18, z=621.02], dimensionLocationPath the_nether
+[05Apr2025 22:36:03.627] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.48, y=68.18, z=621.02] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:03.674] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.51, y=68.02, z=620.74], dimensionLocationPath the_nether
+[05Apr2025 22:36:03.675] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.51, y=68.02, z=620.74] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:03.730] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.53, y=67.80, z=620.45], dimensionLocationPath the_nether
+[05Apr2025 22:36:03.731] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.53, y=67.80, z=620.45] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:03.779] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.56, y=67.50, z=620.17], dimensionLocationPath the_nether
+[05Apr2025 22:36:03.779] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.56, y=67.50, z=620.17] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:03.825] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.59, y=67.12, z=619.88], dimensionLocationPath the_nether
+[05Apr2025 22:36:03.825] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.59, y=67.12, z=619.88] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:03.877] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.61, y=67.00, z=619.60], dimensionLocationPath the_nether
+[05Apr2025 22:36:03.877] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.61, y=67.00, z=619.60] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:03.925] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.65, y=67.42, z=619.17], dimensionLocationPath the_nether
+[05Apr2025 22:36:03.926] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.65, y=67.42, z=619.17] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:03.975] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.68, y=67.75, z=618.91], dimensionLocationPath the_nether
+[05Apr2025 22:36:03.976] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.68, y=67.75, z=618.91] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:04.026] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.70, y=68.00, z=618.64], dimensionLocationPath the_nether
+[05Apr2025 22:36:04.026] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.70, y=68.00, z=618.64] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:04.078] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.73, y=68.17, z=618.38], dimensionLocationPath the_nether
+[05Apr2025 22:36:04.078] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.73, y=68.17, z=618.38] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:04.126] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.75, y=68.25, z=618.11], dimensionLocationPath the_nether
+[05Apr2025 22:36:04.127] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.75, y=68.25, z=618.11] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:04.174] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.78, y=68.25, z=617.84], dimensionLocationPath the_nether
+[05Apr2025 22:36:04.174] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.78, y=68.25, z=617.84] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:04.225] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.80, y=68.18, z=617.58], dimensionLocationPath the_nether
+[05Apr2025 22:36:04.225] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.80, y=68.18, z=617.58] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:04.275] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.83, y=68.02, z=617.31], dimensionLocationPath the_nether
+[05Apr2025 22:36:04.276] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.83, y=68.02, z=617.31] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:04.324] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.85, y=67.80, z=617.03], dimensionLocationPath the_nether
+[05Apr2025 22:36:04.324] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.85, y=67.80, z=617.03] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:04.376] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.88, y=67.50, z=616.76], dimensionLocationPath the_nether
+[05Apr2025 22:36:04.376] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.88, y=67.50, z=616.76] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:04.428] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.90, y=67.12, z=616.49], dimensionLocationPath the_nether
+[05Apr2025 22:36:04.428] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.90, y=67.12, z=616.49] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:04.475] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.93, y=67.00, z=616.21], dimensionLocationPath the_nether
+[05Apr2025 22:36:04.475] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.93, y=67.00, z=616.21] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:04.531] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.96, y=67.00, z=615.84], dimensionLocationPath the_nether
+[05Apr2025 22:36:04.531] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-215.96, y=67.00, z=615.84] is dead or in a banned dimension the_nether
+[05Apr2025 22:36:04.575] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-216.00, y=67.00, z=615.51], dimensionLocationPath the_nether
+[05Apr2025 22:36:04.575] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Cannot add Dynamic Light: Attachment Entity ServerPlayer['Jukot'/39384, l='ServerLevel[world]', x=-216.00, y=67.00, z=615.51] is dead or in a banned dimension the_nether
+[05Apr2025 22:38:00.963] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[05Apr2025 22:40:37.555] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Apr2025 22:40:37.570] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Apr2025 22:40:44.742] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jukot lost connection: Disconnected
+[05Apr2025 22:40:44.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot left the game
+[05Apr2025 22:40:44.743] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for daf3981c-623a-33c4-83a6-d56260e38f0b
+[05Apr2025 22:40:44.744] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Jukot
+[05Apr2025 22:40:44.744] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jukot
+[05Apr2025 22:40:57.467] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Apr2025 22:40:57.475] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=958, z=1073200}"
+}
+[05Apr2025 22:40:57.479] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 28 extra bytes: 
+[05Apr2025 22:40:57.479] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "hu|<)_PaP"
+]
+[05Apr2025 22:40:58.642] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Apr2025 22:40:58.643] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=901, z=1073200}"
+}
+[05Apr2025 22:40:58.643] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 58 extra bytes: 
+[05Apr2025 22:40:58.644] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "jh$2*ezi[MV: x(}Mavgf/"
+]
+[05Apr2025 22:40:59.652] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Apr2025 22:40:59.652] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=803, z=1073200}"
+}
+[05Apr2025 22:40:59.653] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[05Apr2025 22:40:59.653] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[38, -11, -56, -45, 65, 24, 19, -4, 91, -73, 48]"
+]
+[05Apr2025 22:40:59.793] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Apr2025 22:40:59.794] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=973, z=1073200}"
+}
+[05Apr2025 22:40:59.794] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[05Apr2025 22:40:59.794] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-30, 75, -105, 101, -99, -75, 113, 57, -14, 117, 89]"
+]
+[05Apr2025 22:41:00.052] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Apr2025 22:41:00.053] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=823, z=1073200}"
+}
+[05Apr2025 22:41:00.053] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 110 extra bytes: 
+[05Apr2025 22:41:00.053] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "`B 8o{\\R) Ww<T-&GAHJ&+/,0/5"
+]
+[05Apr2025 22:41:00.054] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundPongPacket  id 32 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Apr2025 22:41:00.054] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_179721_": 346596880
+}
+[05Apr2025 22:41:00.054] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 32 data of 128 extra bytes: 
+[05Apr2025 22:41:00.054] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "8o{\\R) Ww<T-&GAHJ&+/,0/521.ip.gl.ply.gg"
+]
+[05Apr2025 22:41:00.406] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Apr2025 22:41:00.407] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=877, z=1073200}"
+}
+[05Apr2025 22:41:00.407] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[05Apr2025 22:41:00.407] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[82, -97, -70, 48, -77, -109, 71, 15, -18, -14, -110]"
+]
+[05Apr2025 22:41:00.835] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Apr2025 22:41:00.836] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=870, z=1073200}"
+}
+[05Apr2025 22:41:00.836] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[05Apr2025 22:41:00.836] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[47, -49, 101, 62, 69, -114, 115, -64, -78, 35, -17]"
+]
+[05Apr2025 22:41:00.977] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Apr2025 22:41:00.978] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=993, z=1073200}"
+}
+[05Apr2025 22:41:00.978] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 113 extra bytes: 
+[05Apr2025 22:41:00.978] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "`@k% He<jPkFE? W8H1AkC.e&+/,0/5"
+]
+[05Apr2025 22:41:00.978] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundPongPacket  id 32 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Apr2025 22:41:00.979] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_179721_": 1218512997
+}
+[05Apr2025 22:41:00.979] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 32 data of 117 extra bytes: 
+[05Apr2025 22:41:00.979] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<jPkFE? W8H1AkC.e&+/,0/521.ip.gl.ply.gg"
+]
+[05Apr2025 22:41:00.980] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundPongPacket  id 32 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Apr2025 22:41:00.980] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_179721_": -255174856
+}
+[05Apr2025 22:41:00.980] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 32 data of 135 extra bytes: 
+[05Apr2025 22:41:00.981] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "H1AkC.e&+/,0/521.ip.gl.ply.gg"
+]
+[05Apr2025 22:41:01.228] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Apr2025 22:41:01.229] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=1021, z=1073200}"
+}
+[05Apr2025 22:41:01.229] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[05Apr2025 22:41:01.229] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[98, 47, -104, 99, 8, -128, 95, 88, -23, -80, 67]"
+]
+[05Apr2025 22:41:02.897] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Apr2025 22:41:02.898] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=832, z=1073200}"
+}
+[05Apr2025 22:41:02.898] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 81 extra bytes: 
+[05Apr2025 22:41:02.898] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "vRaJOoh0/yzf xtm9\"aq-r*I&+/,0"
+]
+[05Apr2025 22:41:20.861] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[05Apr2025 22:41:23.162] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Apr2025 22:41:23.163] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=5768192, y=840, z=1122352}"
+}
+[05Apr2025 22:41:23.163] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 98 extra bytes: 
+[05Apr2025 22:41:23.163] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "eY'b\"GFaOn7Y5+ Ihv)~nG\\nkLp-o{2+/,0/5#'"
+]
+[05Apr2025 22:41:23.164] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundSetBeaconPacket  id 39 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Apr2025 22:41:23.178] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134472_": [
+    {
+      "f_19446_": {},
+      "f_19447_": "BENEFICIAL",
+      "f_19448_": 13500280,
+      "f_216878_": {}
+    }
+  ],
+  "f_134473_": [
+    {
+      "id": "xaerominimap:no_cave_maps",
+      "f_19446_": {},
+      "f_19447_": "NEUTRAL",
+      "f_19448_": -16777216,
+      "f_216878_": {}
+    }
+  ]
+}
+[05Apr2025 22:41:23.179] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 39 data of 177 extra bytes: 
+[05Apr2025 22:41:23.179] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "FaOn7Y5+ Ihv)~nG\\nkLp-o{2+/,0/5#'21.ip.gl.ply.gg"
+]
+[05Apr2025 22:41:23.416] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Apr2025 22:41:23.416] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-8125440, y=893, z=905264}"
+}
+[05Apr2025 22:41:23.417] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[05Apr2025 22:41:23.417] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-59, -7, -71, -22, -8, 16, -29, 86, -79, 74, 86]"
+]
+[05Apr2025 22:41:24.109] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Apr2025 22:41:24.110] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-11271168, y=777, z=856112}"
+}
+[05Apr2025 22:41:24.111] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[05Apr2025 22:41:24.112] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[46, 21, 76, 5, -16, -35, -123, -59, -109, -42, -2]"
+]
+[05Apr2025 22:45:07.461] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[05Apr2025 22:45:07.487] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[05Apr2025 22:45:37.563] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Apr2025 22:45:37.580] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Apr2025 22:48:01.012] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
