@@ -4922,15 +4922,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/magma_block": {
+  "minecraft:nether/get_wither_skull": {
     "criteria": {
-      "has_magma_cream": "2025-04-03 01:38:26 +0000"
+      "wither_skull": "2025-04-03 01:23:45 +0000"
     },
     "done": true
   },
-  "aether:recipes/redstone/swet_sticky_piston": {
+  "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
-      "has_swet_balls": "2025-04-03 01:43:05 +0000"
+      "has_wither_skeleton_skull": "2025-04-03 01:23:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-04-03 01:38:26 +0000"
     },
     "done": true
   },
@@ -4940,33 +4946,27 @@
     },
     "done": true
   },
-  "aether:recipes/tools/swet_lead": {
-    "criteria": {
-      "has_swet_balls": "2025-04-03 01:43:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/get_wither_skull": {
-    "criteria": {
-      "wither_skull": "2025-04-03 01:23:45 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/redstone/swet_slime_block": {
-    "criteria": {
-      "has_swet_balls": "2025-04-03 01:43:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
     "criteria": {
       "has_rib_armor_trim_smithing_template": "2025-04-03 01:43:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/skull_banner_pattern": {
+  "aether:recipes/redstone/swet_sticky_piston": {
     "criteria": {
-      "has_wither_skeleton_skull": "2025-04-03 01:23:45 +0000"
+      "has_swet_balls": "2025-04-03 01:43:05 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/swet_lead": {
+    "criteria": {
+      "has_swet_balls": "2025-04-03 01:43:05 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/swet_slime_block": {
+    "criteria": {
+      "has_swet_balls": "2025-04-03 01:43:05 +0000"
     },
     "done": true
   },
