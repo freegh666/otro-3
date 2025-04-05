@@ -2768,3 +2768,15 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [05Apr2025 23:31:19.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ joined the game
 [05Apr2025 23:31:19.058] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 116e9c76-7157-3f7d-8106-557b209a5b07
 [05Apr2025 23:34:30.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PlagaXNZ: Set own game mode to Creative Mode]
+[05Apr2025 23:42:40.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PlagaXNZ: Set own game mode to Survival Mode]
+[05Apr2025 23:43:19.230] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PlagaXNZ lost connection: Disconnected
+[05Apr2025 23:43:19.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ left the game
+[05Apr2025 23:43:19.231] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 116e9c76-7157-3f7d-8106-557b209a5b07
+[05Apr2025 23:43:19.231] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PlagaXNZ
+[05Apr2025 23:46:32.084] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jukot[/127.113.44.68:35715] logged in with entity id 51827 at (-1180.8030128794878, 69.5625, -3094.9300628723627)
+[05Apr2025 23:46:32.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot joined the game
+[05Apr2025 23:46:32.107] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for daf3981c-623a-33c4-83a6-d56260e38f0b
+[05Apr2025 23:57:54.773] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jukot lost connection: Disconnected
+[05Apr2025 23:57:54.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot left the game
+[05Apr2025 23:57:54.774] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for daf3981c-623a-33c4-83a6-d56260e38f0b
+[05Apr2025 23:57:54.774] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jukot
