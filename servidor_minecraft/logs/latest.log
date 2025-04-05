@@ -2445,3 +2445,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [05Apr2025 22:52:21.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot left the game
 [05Apr2025 22:52:21.229] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for daf3981c-623a-33c4-83a6-d56260e38f0b
 [05Apr2025 22:52:21.230] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jukot
+[05Apr2025 22:59:14.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[05Apr2025 22:59:14.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1<--[HERE]
