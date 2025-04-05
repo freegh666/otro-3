@@ -53,3 +53,18 @@
 [05Apr2025 00:44:24.165] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3221, y=120, z=3948} BlockPos{x=-3217, y=119, z=3945}
 [05Apr2025 00:46:16.130] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zebra (vehicle of PlagaXNZ) moved wrongly! 0.2808360365570479
 [05Apr2025 00:46:16.178] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zebra (vehicle of PlagaXNZ) moved wrongly! 0.70807349595907
+[05Apr2025 00:49:42.763] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[05Apr2025 00:50:05.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ has completed the challenge [Praise the Sun]
+[05Apr2025 00:53:46.314] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Apr2025 00:53:46.315] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 8590
+}
+[05Apr2025 00:53:46.315] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 101 extra bytes: 
+[05Apr2025 00:53:46.315] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "IB5m},g[)n3<)352)!Yc'*R4S|#Y<J]_VFopu-9_"
+]
+[05Apr2025 00:57:20.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PlagaXNZ: Teleported Jukot to PlagaXNZ]
+[05Apr2025 00:58:27.723] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PlagaXNZ moved too quickly! 0.24106091894600468,0.0,10.149770436267318
+[05Apr2025 01:00:04.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ has made the advancement [Eye Spy]
