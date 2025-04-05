@@ -3831,6 +3831,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-04-05 00:15:38 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/soul_vulture": {
     "criteria": {
       "killed": "2025-04-04 22:09:50 +0000"
@@ -4122,6 +4128,12 @@
   "connectedglass:recipes/misc/clear_glass_light_blue2": {
     "criteria": {
       "recipe_condition2": "2025-04-05 00:12:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-04-05 00:15:38 +0000"
     },
     "done": true
   },

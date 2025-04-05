@@ -30,3 +30,21 @@
 [05Apr2025 00:17:21.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukot> -3820 69 3252
 [05Apr2025 00:17:32.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukot> explora el alrededor
 [05Apr2025 00:17:46.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukot> vas a ver troncos carmesi
+[05Apr2025 00:19:04.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> e gil de paso dejame arreglar la armadura buena
+[05Apr2025 00:19:09.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> esta en las ultimas
+[05Apr2025 00:19:17.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukot> D1 pa
+[05Apr2025 00:19:32.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> de esas casualidades no tenes caida de pluma 3 o 4?
+[05Apr2025 00:19:46.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukot> no pa
+[05Apr2025 00:27:14.614] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PlagaXNZ lost connection: Disconnected
+[05Apr2025 00:27:14.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ left the game
+[05Apr2025 00:27:14.614] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 116e9c76-7157-3f7d-8106-557b209a5b07
+[05Apr2025 00:27:14.614] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PlagaXNZ
+[05Apr2025 00:27:31.467] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PlagaXNZ[/127.146.203.93:43177] logged in with entity id 114890 at (-1146.699999988079, 70.41999998688698, -3210.300000011921)
+[05Apr2025 00:27:31.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ joined the game
+[05Apr2025 00:27:31.497] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 116e9c76-7157-3f7d-8106-557b209a5b07
+[05Apr2025 00:27:31.779] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of PlagaXNZ (18)
+[05Apr2025 00:27:31.779] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to PlagaXNZ
+[05Apr2025 00:27:42.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukot> al final llamada?? o no??
+[05Apr2025 00:31:03.761] [Worker-Main-228/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/116704, l='ServerLevel[world]', x=-401.00, y=31.00, z=145.00] as it would cause deadlock
+[05Apr2025 00:32:33.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PlagaXNZ: Gave 1 [Villager Editor] to PlagaXNZ]
+[05Apr2025 00:32:43.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukot> e gil
