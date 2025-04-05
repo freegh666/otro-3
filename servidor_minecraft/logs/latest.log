@@ -531,3 +531,15 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [
   "vZdza<T /;%QVM53522oGSefQ7t+S|#"
 ]
+[05Apr2025 21:38:53.680] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Silvia'/21059, l='ServerLevel[world]', x=-1274.76, y=72.00, z=-3052.85] died, message: 'Silvia was slain by Jukot'
+[05Apr2025 21:47:02.727] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jukot moved too quickly! 3946.323250003611,76.39260454995134,-3346.945601303028
+[05Apr2025 21:49:03.098] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[05Apr2025 21:49:03.098] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 15
+}
+[05Apr2025 21:49:03.099] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 169 extra bytes: 
+[05Apr2025 21:49:03.099] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "FC<r^U_Kcgt352;5uuP=\\cS|#Y<J]_VFopu-9_OrI0g,lQL)\\l|)~Pnx^']etgr,hs"
+]
