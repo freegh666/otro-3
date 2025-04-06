@@ -809,3 +809,15 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [06Apr2025 20:03:58.364] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2272, y=69, z=4154} BlockPos{x=-2272, y=70, z=4153}
 [06Apr2025 20:03:58.445] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2272, y=69, z=4154} BlockPos{x=-2272, y=70, z=4153}
 [06Apr2025 20:03:58.488] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2272, y=69, z=4154} BlockPos{x=-2272, y=70, z=4153}
+[06Apr2025 20:09:08.004] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Apr2025 20:09:08.004] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 1868640138
+}
+[06Apr2025 20:09:08.004] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 44 extra bytes: 
+[06Apr2025 20:09:08.004] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "3{@F%keT352@D#b"
+]
+[06Apr2025 20:13:36.403] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2357, y=77, z=4120} BlockPos{x=-2356, y=76, z=4121}
+[06Apr2025 20:13:42.406] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2358, y=76, z=4116} BlockPos{x=-2357, y=75, z=4116}

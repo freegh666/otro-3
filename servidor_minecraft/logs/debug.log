@@ -5327,3 +5327,34 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [06Apr2025 20:03:58.445] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2272, y=69, z=4154} BlockPos{x=-2272, y=70, z=4153}
 [06Apr2025 20:03:58.488] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2272, y=69, z=4154} BlockPos{x=-2272, y=70, z=4153}
 [06Apr2025 20:04:49.877] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[06Apr2025 20:08:09.726] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[06Apr2025 20:08:09.776] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[06Apr2025 20:08:27.187] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Apr2025 20:08:27.205] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Apr2025 20:09:08.004] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Apr2025 20:09:08.004] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 1868640138
+}
+[06Apr2025 20:09:08.004] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 44 extra bytes: 
+[06Apr2025 20:09:08.004] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "3{@F%keT352@D#b"
+]
+[06Apr2025 20:11:30.076] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[06Apr2025 20:13:27.190] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Apr2025 20:13:27.245] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Apr2025 20:13:36.403] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2357, y=77, z=4120} BlockPos{x=-2356, y=76, z=4121}
+[06Apr2025 20:13:42.406] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2358, y=76, z=4116} BlockPos{x=-2357, y=75, z=4116}
+[06Apr2025 20:14:49.926] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[06Apr2025 20:15:14.076] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/10986, l='ServerLevel[world]', x=-2163.38, y=64.34, z=4057.61], dimensionLocationPath overworld
+[06Apr2025 20:15:16.928] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/10986, l='ServerLevel[world]', x=-2162.66, y=64.00, z=4057.44, removed=DISCARDED]
+[06Apr2025 20:15:44.428] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/11083, l='ServerLevel[world]', x=-2163.30, y=64.47, z=4042.52], dimensionLocationPath overworld
+[06Apr2025 20:15:44.428] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/11083, l='ServerLevel[world]', x=-2163.30, y=64.47, z=4042.52] in list []
+[06Apr2025 20:15:44.927] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/11083, l='ServerLevel[world]', x=-2163.73, y=64.23, z=4041.90, removed=DISCARDED]
+[06Apr2025 20:15:47.145] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2165.24, y=64.00, z=4041.61], dimensionLocationPath overworld
+[06Apr2025 20:15:47.146] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2165.24, y=64.00, z=4041.61] in list []
+[06Apr2025 20:15:48.891] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2165.24, y=64.00, z=4041.61]
+[06Apr2025 20:17:22.690] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2185.15, y=64.50, z=4020.12], dimensionLocationPath overworld
+[06Apr2025 20:17:22.691] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2185.15, y=64.50, z=4020.12] in list []
+[06Apr2025 20:17:22.756] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2185.40, y=64.12, z=4019.98]
