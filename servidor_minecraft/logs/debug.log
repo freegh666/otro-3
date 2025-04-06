@@ -7004,3 +7004,18 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [06Apr2025 03:37:26.612] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
 [06Apr2025 03:37:41.879] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Apr2025 03:37:41.896] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Apr2025 03:38:51.381] [Server thread/INFO] [forge.net.mca.MCA/]: Attempting to spawn reaper at BlockPos{x=94, y=64, z=801} in minecraft:overworld
+[06Apr2025 03:38:51.402] [Server thread/INFO] [forge.net.mca.MCA/]: Current time is 17634
+[06Apr2025 03:38:51.404] [Server thread/INFO] [forge.net.mca.MCA/]: It is night time, found 3 totems
+[06Apr2025 03:40:46.961] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[06Apr2025 03:42:41.865] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Apr2025 03:42:41.880] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Apr2025 03:44:06.812] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[06Apr2025 03:45:56.673] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Oxana'/21706, l='ServerLevel[world]', x=-1214.20, y=68.00, z=-3079.73] died, message: 'Oxana was slain by Jukot'
+[06Apr2025 03:45:56.674] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Oxana'/21706, l='ServerLevel[world]', x=-1214.20, y=68.00, z=-3079.73] died: Oxana was slain by Jukot
+[06Apr2025 03:47:26.662] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[06Apr2025 03:47:26.662] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[06Apr2025 03:47:37.369] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Natela'/22405, l='ServerLevel[world]', x=-2180.65, y=64.00, z=4033.03] died, message: 'Natela was slain by Maximiliano'
+[06Apr2025 03:47:37.370] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Natela'/22405, l='ServerLevel[world]', x=-2180.65, y=64.00, z=4033.03] died: Natela was slain by Maximiliano
+[06Apr2025 03:47:41.879] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Apr2025 03:47:41.892] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

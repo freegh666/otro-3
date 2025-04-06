@@ -593,3 +593,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
   "<partial numeric data>",
   "[-114, -59, 32, -114, -19, -40, -83, -23, -81, -125, 120]"
 ]
+[06Apr2025 03:38:51.381] [Server thread/INFO] [forge.net.mca.MCA/]: Attempting to spawn reaper at BlockPos{x=94, y=64, z=801} in minecraft:overworld
+[06Apr2025 03:38:51.402] [Server thread/INFO] [forge.net.mca.MCA/]: Current time is 17634
+[06Apr2025 03:38:51.404] [Server thread/INFO] [forge.net.mca.MCA/]: It is night time, found 3 totems
+[06Apr2025 03:45:56.673] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Oxana'/21706, l='ServerLevel[world]', x=-1214.20, y=68.00, z=-3079.73] died, message: 'Oxana was slain by Jukot'
+[06Apr2025 03:45:56.674] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Oxana'/21706, l='ServerLevel[world]', x=-1214.20, y=68.00, z=-3079.73] died: Oxana was slain by Jukot
+[06Apr2025 03:47:37.369] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Natela'/22405, l='ServerLevel[world]', x=-2180.65, y=64.00, z=4033.03] died, message: 'Natela was slain by Maximiliano'
+[06Apr2025 03:47:37.370] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Natela'/22405, l='ServerLevel[world]', x=-2180.65, y=64.00, z=4033.03] died: Natela was slain by Maximiliano

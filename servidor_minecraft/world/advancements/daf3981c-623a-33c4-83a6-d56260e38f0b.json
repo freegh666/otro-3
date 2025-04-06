@@ -4548,5 +4548,11 @@
     },
     "done": true
   },
+  "farm_and_charm:recipes/onion_bag": {
+    "criteria": {
+      "has_onion": "2025-04-06 03:38:10 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
