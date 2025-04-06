@@ -5358,3 +5358,56 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [06Apr2025 20:17:22.690] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2185.15, y=64.50, z=4020.12], dimensionLocationPath overworld
 [06Apr2025 20:17:22.691] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2185.15, y=64.50, z=4020.12] in list []
 [06Apr2025 20:17:22.756] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2185.40, y=64.12, z=4019.98]
+[06Apr2025 20:17:45.095] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2214.27, y=67.25, z=4040.00], dimensionLocationPath overworld
+[06Apr2025 20:17:45.095] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2214.27, y=67.25, z=4040.00] in list []
+[06Apr2025 20:17:45.372] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2215.78, y=67.42, z=4041.35]
+[06Apr2025 20:17:49.219] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2227.84, y=69.02, z=4044.96], dimensionLocationPath overworld
+[06Apr2025 20:17:49.219] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2227.84, y=69.02, z=4044.96] in list []
+[06Apr2025 20:17:49.239] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2228.15, y=69.00, z=4045.05]
+[06Apr2025 20:17:52.241] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2239.72, y=68.00, z=4045.93], dimensionLocationPath overworld
+[06Apr2025 20:17:52.241] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2239.72, y=68.00, z=4045.93] in list []
+[06Apr2025 20:17:52.392] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2239.18, y=68.00, z=4045.78]
+[06Apr2025 20:17:58.591] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2211.56, y=67.00, z=4037.20], dimensionLocationPath overworld
+[06Apr2025 20:17:58.591] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2211.56, y=67.00, z=4037.20] in list []
+[06Apr2025 20:17:58.689] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2211.24, y=67.25, z=4036.69]
+[06Apr2025 20:18:06.641] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2217.11, y=69.00, z=4048.31], dimensionLocationPath overworld
+[06Apr2025 20:18:06.642] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2217.11, y=69.00, z=4048.31] in list []
+[06Apr2025 20:18:07.639] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2218.74, y=70.02, z=4045.45]
+[06Apr2025 20:18:09.727] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[06Apr2025 20:18:09.777] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[06Apr2025 20:18:12.292] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2228.60, y=69.25, z=4044.73], dimensionLocationPath overworld
+[06Apr2025 20:18:12.292] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2228.60, y=69.25, z=4044.73] in list []
+[06Apr2025 20:18:12.394] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2228.92, y=69.18, z=4044.77]
+[06Apr2025 20:18:18.693] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2256.09, y=69.02, z=4055.77], dimensionLocationPath overworld
+[06Apr2025 20:18:18.694] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2256.09, y=69.02, z=4055.77] in list []
+[06Apr2025 20:18:18.892] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2257.16, y=68.00, z=4055.80]
+[06Apr2025 20:18:27.168] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Apr2025 20:18:27.202] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Apr2025 20:20:15.292] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2358.49, y=70.02, z=4090.16], dimensionLocationPath overworld
+[06Apr2025 20:20:15.292] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2358.49, y=70.02, z=4090.16] in list []
+[06Apr2025 20:20:15.348] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/129, l='ServerLevel[world]', x=-2358.23, y=69.80, z=4090.00]
+[06Apr2025 20:21:30.128] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[06Apr2025 20:23:27.154] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Apr2025 20:23:27.173] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Apr2025 20:24:49.977] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[06Apr2025 20:28:09.777] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[06Apr2025 20:28:09.827] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[06Apr2025 20:28:27.174] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Apr2025 20:28:27.203] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Apr2025 20:31:30.177] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[06Apr2025 20:33:27.164] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Apr2025 20:33:27.212] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Apr2025 20:34:50.027] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[06Apr2025 20:38:09.826] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[06Apr2025 20:38:09.877] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[06Apr2025 20:38:16.643] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jukot lost connection: Disconnected
+[06Apr2025 20:38:16.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot left the game
+[06Apr2025 20:38:16.646] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for daf3981c-623a-33c4-83a6-d56260e38f0b
+[06Apr2025 20:38:16.647] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Jukot
+[06Apr2025 20:38:16.652] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jukot
+[06Apr2025 20:38:27.122] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Apr2025 20:38:27.141] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Apr2025 20:41:30.227] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[06Apr2025 20:43:27.086] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Apr2025 20:43:27.103] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Apr2025 20:44:50.077] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
