@@ -5122,5 +5122,11 @@
     },
     "done": true
   },
+  "bonfires:recipes/misc/titanite_slab": {
+    "criteria": {
+      "has_titanite_chunk": "2025-04-06 00:05:48 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
