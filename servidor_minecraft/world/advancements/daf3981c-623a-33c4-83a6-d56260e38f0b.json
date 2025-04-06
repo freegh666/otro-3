@@ -228,6 +228,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-03-23 00:36:15 +0000",
+      "cooked_mutton": "2025-04-06 00:29:40 +0000",
       "cooked_beef": "2025-03-29 05:38:40 +0000",
       "baked_potato": "2025-03-23 02:52:33 +0000",
       "porkchop": "2025-03-23 06:26:16 +0000",
@@ -4450,6 +4451,36 @@
   "alexsmobs:alexsmobs/enderiophage_rocket": {
     "criteria": {
       "enderiophage_rocket": "2025-04-05 22:03:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-04-06 00:26:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-04-06 00:26:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-04-06 00:29:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:chicken": "2025-04-06 00:29:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-04-06 00:26:21 +0000"
     },
     "done": true
   },
