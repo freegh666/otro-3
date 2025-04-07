@@ -517,3 +517,12 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [07Apr2025 20:17:49.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ left the game
 [07Apr2025 20:17:49.588] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 116e9c76-7157-3f7d-8106-557b209a5b07
 [07Apr2025 20:17:49.591] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PlagaXNZ
+[07Apr2025 20:20:25.728] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jukot[/127.113.44.68:50651] logged in with entity id 1340 at (-2186.350959706304, 69.5625, 4029.5981959755845)
+[07Apr2025 20:20:25.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot joined the game
+[07Apr2025 20:20:25.766] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for daf3981c-623a-33c4-83a6-d56260e38f0b
+[07Apr2025 20:31:07.328] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Cindy'/3406, l='ServerLevel[world]', x=-2201.66, y=65.00, z=4029.47] died: Cindy was slain by Baki
+[07Apr2025 20:33:11.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot has made the advancement [Drop it like it's hot]
+[07Apr2025 20:34:24.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot has made the advancement [To Infinity and Beyond!]
+[07Apr2025 20:38:07.025] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Célestine'/1362, l='ServerLevel[world]', x=-2171.88, y=65.00, z=4017.29] died, message: 'Célestine was slain by Kenan'
+[07Apr2025 20:38:07.028] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Célestine'/1362, l='ServerLevel[world]', x=-2171.88, y=65.00, z=4017.29] died: Célestine was slain by Kenan
+[07Apr2025 20:43:14.531] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Abigaëlle'/5695, l='ServerLevel[world]', x=-2188.35, y=64.56, z=4031.56] died, message: 'Abigaëlle was slain by jessica'

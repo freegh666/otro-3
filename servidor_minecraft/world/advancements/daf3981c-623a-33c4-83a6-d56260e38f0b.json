@@ -4554,5 +4554,17 @@
     },
     "done": true
   },
+  "friendsandfoes:nether/kill_wildfire": {
+    "criteria": {
+      "killed_wildfire": "2025-04-07 20:33:11 +0000"
+    },
+    "done": true
+  },
+  "aether:blue_aercloud": {
+    "criteria": {
+      "blue_aercloud": "2025-04-07 20:34:24 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
