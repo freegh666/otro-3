@@ -4554,9 +4554,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-04-07 21:05:56 +0000"
+    },
+    "done": true
+  },
   "friendsandfoes:nether/kill_wildfire": {
     "criteria": {
       "killed_wildfire": "2025-04-07 20:33:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-04-07 21:05:56 +0000"
     },
     "done": true
   },
