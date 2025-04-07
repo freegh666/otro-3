@@ -4566,6 +4566,12 @@
     },
     "done": true
   },
+  "friendsandfoes:adventure/it_bites": {
+    "criteria": {
+      "killed_mauler": "2025-04-07 21:35:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_nether_wart": "2025-04-07 21:05:56 +0000"

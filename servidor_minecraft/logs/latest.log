@@ -998,3 +998,4 @@ java.lang.IllegalStateException: Nesting problem.
 ]
 [07Apr2025 21:29:27.616] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
 [07Apr2025 21:29:27.616] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[07Apr2025 21:35:20.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot has made the advancement [It Bites]

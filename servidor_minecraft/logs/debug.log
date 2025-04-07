@@ -5744,3 +5744,15 @@ java.lang.IllegalStateException: Nesting problem.
 [07Apr2025 21:29:27.616] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
 [07Apr2025 21:29:51.987] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/1340, l='ServerLevel[world]', x=-2213.14, y=72.00, z=4006.58], dimensionLocationPath overworld
 [07Apr2025 21:29:53.991] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/1340, l='ServerLevel[world]', x=-2216.63, y=72.00, z=4005.55]
+[07Apr2025 21:30:24.820] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[07Apr2025 21:30:24.820] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[07Apr2025 21:30:33.952] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Apr2025 21:30:33.969] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Apr2025 21:33:45.169] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[07Apr2025 21:34:58.738] [Worker-Main-59/DEBUG] [mixin/]: Mixing common.accessor.WorldGenRegionAccessor from aether.mixins.json into net.minecraft.server.level.WorldGenRegion
+[07Apr2025 21:35:20.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot has made the advancement [It Bites]
+[07Apr2025 21:35:33.940] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Apr2025 21:35:33.958] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Apr2025 21:37:04.969] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[07Apr2025 21:40:24.870] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[07Apr2025 21:40:24.870] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
