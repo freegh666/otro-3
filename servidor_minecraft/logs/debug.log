@@ -5756,3 +5756,18 @@ java.lang.IllegalStateException: Nesting problem.
 [07Apr2025 21:37:04.969] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
 [07Apr2025 21:40:24.870] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
 [07Apr2025 21:40:24.870] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[07Apr2025 21:40:34.024] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Apr2025 21:40:34.063] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Apr2025 21:43:45.170] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[07Apr2025 21:45:33.925] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Apr2025 21:45:33.941] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Apr2025 21:47:05.019] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[07Apr2025 21:48:59.881] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jukot lost connection: Disconnected
+[07Apr2025 21:48:59.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot left the game
+[07Apr2025 21:48:59.881] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for daf3981c-623a-33c4-83a6-d56260e38f0b
+[07Apr2025 21:48:59.881] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Jukot
+[07Apr2025 21:48:59.882] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jukot
+[07Apr2025 21:50:24.920] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[07Apr2025 21:50:24.920] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[07Apr2025 21:50:33.878] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Apr2025 21:50:33.892] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
