@@ -961,3 +961,116 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [
   "LaLy]5)q<~320&>YN{cv"
 ]
+[12Apr2025 03:53:22.294] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[12Apr2025 03:53:22.294] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 487415
+}
+[12Apr2025 03:53:22.294] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 62 extra bytes: 
+[12Apr2025 03:53:22.294] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "$a{X(I(+gw320xtm>!Ej8C@"
+]
+[12Apr2025 03:58:14.591] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[12Apr2025 03:58:14.592] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 117
+}
+[12Apr2025 03:58:14.592] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[12Apr2025 03:58:14.592] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "OA{QG1}^}o%3204!g`"
+]
+[12Apr2025 04:01:45.726] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[12Apr2025 04:01:45.726] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 5428
+}
+[12Apr2025 04:01:45.726] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[12Apr2025 04:01:45.726] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "vaS?A1K\"&1320- ;%^g"
+]
+[12Apr2025 04:02:58.464] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[12Apr2025 04:02:58.464] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 945010299
+}
+[12Apr2025 04:02:58.464] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 44 extra bytes: 
+[12Apr2025 04:02:58.464] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "#5.jusF#Cn'320Jj:Rd0"
+]
+[12Apr2025 04:04:41.707] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Frédérick'/21807, l='ServerLevel[world]', x=-2175.33, y=64.00, z=4025.50] died, message: 'Frédérick was slain by Squanchy'
+[12Apr2025 04:05:28.275] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[12Apr2025 04:05:28.276] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 257053536
+}
+[12Apr2025 04:05:28.276] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 45 extra bytes: 
+[12Apr2025 04:05:28.276] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "hfcN3201h.F,Tg"
+]
+[12Apr2025 04:05:57.569] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Constantin'/23562, l='ServerLevel[world]', x=-1276.33, y=71.00, z=-3069.35] died, message: 'Constantin was slain by Jukot'
+[12Apr2025 04:05:57.570] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Constantin'/23562, l='ServerLevel[world]', x=-1276.33, y=71.00, z=-3069.35] died: Constantin was slain by Jukot
+[12Apr2025 04:06:09.300] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[12Apr2025 04:06:09.301] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 15384
+}
+[12Apr2025 04:06:09.301] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 113 extra bytes: 
+[12Apr2025 04:06:09.301] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "8r%D.rg}bt320HSfKXntGPS|#Y<J]_VFopu-9_OrI0"
+]
+[12Apr2025 04:06:17.306] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Cristea'/23571, l='ServerLevel[world]', x=-1272.49, y=71.00, z=-3083.53] died, message: 'Cristea was burnt to a crisp whilst fighting Jukot'
+[12Apr2025 04:06:17.306] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Cristea'/23571, l='ServerLevel[world]', x=-1272.49, y=71.00, z=-3083.53] died: Cristea was burnt to a crisp whilst fighting Jukot
+[12Apr2025 04:06:19.060] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Zinaida'/23609, l='ServerLevel[world]', x=-1272.98, y=71.00, z=-3077.45] died, message: 'Zinaida was slain by Jukot'
+[12Apr2025 04:06:19.061] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Zinaida'/23609, l='ServerLevel[world]', x=-1272.98, y=71.00, z=-3077.45] died: Zinaida was slain by Jukot
+[12Apr2025 04:06:21.760] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Vasilisa'/23599, l='ServerLevel[world]', x=-1287.28, y=71.00, z=-3067.48] died, message: 'Vasilisa burned to death'
+[12Apr2025 04:06:21.761] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Vasilisa'/23599, l='ServerLevel[world]', x=-1287.28, y=71.00, z=-3067.48] died: Vasilisa burned to death
+[12Apr2025 04:06:25.164] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Petru'/23601, l='ServerLevel[world]', x=-1274.52, y=68.00, z=-3088.96] died, message: 'Petru was slain by Jukot'
+[12Apr2025 04:06:25.165] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Petru'/23601, l='ServerLevel[world]', x=-1274.52, y=68.00, z=-3088.96] died: Petru was slain by Jukot
+[12Apr2025 04:06:26.918] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Vladislav'/23558, l='ServerLevel[world]', x=-1275.89, y=68.00, z=-3086.99] died, message: 'Vladislav was slain by Jukot'
+[12Apr2025 04:06:26.918] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Vladislav'/23558, l='ServerLevel[world]', x=-1275.89, y=68.00, z=-3086.99] died: Vladislav was slain by Jukot
+[12Apr2025 04:06:34.380] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Adrian'/23581, l='ServerLevel[world]', x=-1281.75, y=68.00, z=-3099.83] died, message: 'Adrian was slain by Jukot'
+[12Apr2025 04:06:34.381] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Adrian'/23581, l='ServerLevel[world]', x=-1281.75, y=68.00, z=-3099.83] died: Adrian was slain by Jukot
+[12Apr2025 04:06:40.164] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Domnica'/23605, l='ServerLevel[world]', x=-1287.14, y=68.00, z=-3097.86] died, message: 'Domnica was slain by Jukot'
+[12Apr2025 04:06:40.165] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Domnica'/23605, l='ServerLevel[world]', x=-1287.14, y=68.00, z=-3097.86] died: Domnica was slain by Jukot
+[12Apr2025 04:06:51.206] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Caterina'/23578, l='ServerLevel[world]', x=-1279.49, y=68.00, z=-3102.53] died, message: 'Caterina was slain by Jukot'
+[12Apr2025 04:06:51.208] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Caterina'/23578, l='ServerLevel[world]', x=-1279.49, y=68.00, z=-3102.53] died: Caterina was slain by Jukot
+[12Apr2025 04:07:40.495] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Valya'/23566, l='ServerLevel[world]', x=-1305.33, y=70.00, z=-3060.88] died, message: 'Valya was slain by Jukot'
+[12Apr2025 04:07:40.496] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Valya'/23566, l='ServerLevel[world]', x=-1305.33, y=70.00, z=-3060.88] died: Valya was slain by Jukot
+[12Apr2025 04:07:44.315] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Iurii'/23568, l='ServerLevel[world]', x=-1307.53, y=68.00, z=-3063.05] died, message: 'Iurii was slain by Jukot'
+[12Apr2025 04:07:44.316] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Iurii'/23568, l='ServerLevel[world]', x=-1307.53, y=68.00, z=-3063.05] died: Iurii was slain by Jukot
+[12Apr2025 04:07:45.314] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Tatyana'/23567, l='ServerLevel[world]', x=-1308.50, y=68.00, z=-3063.34] died, message: 'Tatyana was slain by Jukot'
+[12Apr2025 04:07:45.315] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Tatyana'/23567, l='ServerLevel[world]', x=-1308.50, y=68.00, z=-3063.34] died: Tatyana was slain by Jukot
+[12Apr2025 04:07:57.920] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Stela'/23564, l='ServerLevel[world]', x=-1308.46, y=68.44, z=-3057.72] died, message: 'Stela was slain by Jukot'
+[12Apr2025 04:07:57.921] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Stela'/23564, l='ServerLevel[world]', x=-1308.46, y=68.44, z=-3057.72] died: Stela was slain by Jukot
+[12Apr2025 04:08:06.376] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Taisia'/23565, l='ServerLevel[world]', x=-1308.48, y=68.05, z=-3059.15] died, message: 'Taisia was slain by Jukot'
+[12Apr2025 04:08:06.377] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Taisia'/23565, l='ServerLevel[world]', x=-1308.48, y=68.05, z=-3059.15] died: Taisia was slain by Jukot
+[12Apr2025 04:08:17.261] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Roza'/23569, l='ServerLevel[world]', x=-1309.30, y=68.00, z=-3064.21] died, message: 'Roza was slain by Jukot'
+[12Apr2025 04:08:17.261] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Roza'/23569, l='ServerLevel[world]', x=-1309.30, y=68.00, z=-3064.21] died: Roza was slain by Jukot
+[12Apr2025 04:11:04.682] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[12Apr2025 04:11:04.683] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 33
+}
+[12Apr2025 04:11:04.683] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 65 extra bytes: 
+[12Apr2025 04:11:04.683] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "dA.l0{nM?yvt^(l%320Yi^b??&_p*ep"
+]
+[12Apr2025 04:11:13.760] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ilarion'/24227, l='ServerLevel[world]', x=-1308.86, y=68.44, z=-3057.14] died, message: 'Ilarion was slain by Cristea'
+[12Apr2025 04:11:13.761] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Ilarion'/24227, l='ServerLevel[world]', x=-1308.86, y=68.44, z=-3057.14] died: Ilarion was slain by Cristea
+[12Apr2025 04:12:37.992] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[12Apr2025 04:12:37.993] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 1179037
+}
+[12Apr2025 04:12:37.993] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 166 extra bytes: 
+[12Apr2025 04:12:37.993] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "`B(2Oq!PU 83320<oK0p/2<S|#Y<J]_VFopu-9_OrI0g,lQL)kK{7r$V1onLPFWL"
+]

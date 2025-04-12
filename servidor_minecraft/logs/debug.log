@@ -6447,3 +6447,234 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [12Apr2025 03:51:56.949] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
 [12Apr2025 03:52:04.133] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [12Apr2025 03:52:04.153] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Apr2025 03:53:22.294] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[12Apr2025 03:53:22.294] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 487415
+}
+[12Apr2025 03:53:22.294] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 62 extra bytes: 
+[12Apr2025 03:53:22.294] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "$a{X(I(+gw320xtm>!Ej8C@"
+]
+[12Apr2025 03:55:17.198] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[12Apr2025 03:57:04.071] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 03:57:04.085] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Apr2025 03:58:14.591] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[12Apr2025 03:58:14.592] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 117
+}
+[12Apr2025 03:58:14.592] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[12Apr2025 03:58:14.592] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "OA{QG1}^}o%3204!g`"
+]
+[12Apr2025 03:58:37.098] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[12Apr2025 03:59:19.365] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.38, y=63.94, z=4027.22], dimensionLocationPath overworld
+[12Apr2025 03:59:19.365] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.38, y=63.94, z=4027.22] in list []
+[12Apr2025 03:59:19.365] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.63, y=64.26, z=4026.95]
+[12Apr2025 03:59:19.437] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.42, y=63.94, z=4027.36], dimensionLocationPath overworld
+[12Apr2025 03:59:19.437] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.42, y=63.94, z=4027.36] in list []
+[12Apr2025 03:59:19.438] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.58, y=64.18, z=4027.17]
+[12Apr2025 03:59:19.463] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.46, y=63.94, z=4027.51], dimensionLocationPath overworld
+[12Apr2025 03:59:19.463] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.46, y=63.94, z=4027.51] in list []
+[12Apr2025 03:59:19.464] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.57, y=64.09, z=4027.38]
+[12Apr2025 03:59:19.523] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.50, y=63.94, z=4027.70], dimensionLocationPath overworld
+[12Apr2025 03:59:19.523] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.50, y=63.94, z=4027.70] in list []
+[12Apr2025 03:59:19.523] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.63, y=64.01, z=4027.58]
+[12Apr2025 03:59:19.572] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.50, y=63.94, z=4027.70], dimensionLocationPath overworld
+[12Apr2025 03:59:19.573] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.50, y=63.94, z=4027.70] in list []
+[12Apr2025 03:59:19.573] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.60, y=63.94, z=4027.63]
+[12Apr2025 03:59:19.651] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.43, y=63.94, z=4028.04], dimensionLocationPath overworld
+[12Apr2025 03:59:19.651] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.43, y=63.94, z=4028.04] in list []
+[12Apr2025 03:59:19.652] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.56, y=63.94, z=4027.98]
+[12Apr2025 03:59:19.715] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.44, y=64.04, z=4027.99], dimensionLocationPath overworld
+[12Apr2025 03:59:19.715] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.44, y=64.04, z=4027.99] in list []
+[12Apr2025 03:59:19.716] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.60, y=64.46, z=4027.91]
+[12Apr2025 03:59:19.749] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.46, y=64.05, z=4028.01], dimensionLocationPath overworld
+[12Apr2025 03:59:19.749] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.46, y=64.05, z=4028.01] in list []
+[12Apr2025 03:59:19.749] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.67, y=64.39, z=4027.93]
+[12Apr2025 03:59:19.770] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.50, y=63.99, z=4028.05], dimensionLocationPath overworld
+[12Apr2025 03:59:19.770] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.50, y=63.99, z=4028.05] in list []
+[12Apr2025 03:59:19.770] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.69, y=64.24, z=4027.97]
+[12Apr2025 03:59:19.835] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.50, y=63.99, z=4028.05], dimensionLocationPath overworld
+[12Apr2025 03:59:19.836] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.50, y=63.99, z=4028.05] in list []
+[12Apr2025 03:59:19.836] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.65, y=64.16, z=4028.21]
+[12Apr2025 03:59:19.865] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.57, y=63.94, z=4028.42], dimensionLocationPath overworld
+[12Apr2025 03:59:19.865] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.57, y=63.94, z=4028.42] in list []
+[12Apr2025 03:59:19.866] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.77, y=64.02, z=4028.51]
+[12Apr2025 03:59:19.921] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.57, y=63.94, z=4028.42], dimensionLocationPath overworld
+[12Apr2025 03:59:19.921] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.57, y=63.94, z=4028.42] in list []
+[12Apr2025 03:59:19.921] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.70, y=63.94, z=4028.47]
+[12Apr2025 03:59:19.965] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.51, y=63.94, z=4028.94], dimensionLocationPath overworld
+[12Apr2025 03:59:19.965] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.51, y=63.94, z=4028.94] in list []
+[12Apr2025 03:59:19.965] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.55, y=63.94, z=4029.00]
+[12Apr2025 03:59:20.021] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.51, y=63.94, z=4028.94], dimensionLocationPath overworld
+[12Apr2025 03:59:20.021] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.51, y=63.94, z=4028.94] in list []
+[12Apr2025 03:59:20.021] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.53, y=63.94, z=4028.98]
+[12Apr2025 03:59:20.074] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.35, y=63.94, z=4029.51], dimensionLocationPath overworld
+[12Apr2025 03:59:20.074] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.35, y=63.94, z=4029.51] in list []
+[12Apr2025 03:59:20.074] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.36, y=63.94, z=4029.53]
+[12Apr2025 03:59:20.129] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.35, y=63.94, z=4029.51], dimensionLocationPath overworld
+[12Apr2025 03:59:20.129] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.35, y=63.94, z=4029.51] in list []
+[12Apr2025 03:59:20.130] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.36, y=63.94, z=4029.52]
+[12Apr2025 03:59:20.173] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.52, y=64.02, z=4029.88], dimensionLocationPath overworld
+[12Apr2025 03:59:20.173] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.52, y=64.02, z=4029.88] in list []
+[12Apr2025 03:59:20.174] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.42, y=64.44, z=4030.06]
+[12Apr2025 03:59:20.231] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.56, y=63.94, z=4030.04], dimensionLocationPath overworld
+[12Apr2025 03:59:20.231] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.56, y=63.94, z=4030.04] in list []
+[12Apr2025 03:59:20.231] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.47, y=64.28, z=4030.20]
+[12Apr2025 03:59:20.279] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.59, y=63.94, z=4030.21], dimensionLocationPath overworld
+[12Apr2025 03:59:20.280] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.59, y=63.94, z=4030.21] in list []
+[12Apr2025 03:59:20.280] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.51, y=64.19, z=4030.35]
+[12Apr2025 03:59:20.335] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.59, y=63.94, z=4030.48], dimensionLocationPath overworld
+[12Apr2025 03:59:20.335] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.59, y=63.94, z=4030.48] in list []
+[12Apr2025 03:59:20.335] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.55, y=64.10, z=4030.56]
+[12Apr2025 03:59:20.373] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.56, y=63.94, z=4030.76], dimensionLocationPath overworld
+[12Apr2025 03:59:20.373] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.56, y=63.94, z=4030.76] in list []
+[12Apr2025 03:59:20.374] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.54, y=64.02, z=4030.80]
+[12Apr2025 03:59:20.450] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.56, y=63.94, z=4030.76], dimensionLocationPath overworld
+[12Apr2025 03:59:20.450] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.56, y=63.94, z=4030.76] in list []
+[12Apr2025 03:59:20.451] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.55, y=64.16, z=4030.78]
+[12Apr2025 03:59:20.474] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.47, y=63.94, z=4031.31], dimensionLocationPath overworld
+[12Apr2025 03:59:20.474] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.47, y=63.94, z=4031.31] in list []
+[12Apr2025 03:59:20.475] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.46, y=64.08, z=4031.33]
+[12Apr2025 03:59:20.536] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.42, y=63.94, z=4031.58], dimensionLocationPath overworld
+[12Apr2025 03:59:20.536] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.42, y=63.94, z=4031.58] in list []
+[12Apr2025 03:59:20.537] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.41, y=64.00, z=4031.59]
+[12Apr2025 03:59:20.562] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.36, y=63.94, z=4031.86], dimensionLocationPath overworld
+[12Apr2025 03:59:20.562] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.36, y=63.94, z=4031.86] in list []
+[12Apr2025 03:59:20.563] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.36, y=63.94, z=4031.86]
+[12Apr2025 03:59:20.623] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.31, y=63.94, z=4032.13], dimensionLocationPath overworld
+[12Apr2025 03:59:20.623] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.31, y=63.94, z=4032.13] in list []
+[12Apr2025 03:59:20.623] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.31, y=63.94, z=4032.14]
+[12Apr2025 03:59:20.665] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.31, y=63.94, z=4032.13], dimensionLocationPath overworld
+[12Apr2025 03:59:20.665] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.31, y=63.94, z=4032.13] in list []
+[12Apr2025 03:59:20.665] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.31, y=63.94, z=4032.13]
+[12Apr2025 03:59:20.738] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.25, y=63.94, z=4032.39], dimensionLocationPath overworld
+[12Apr2025 03:59:20.739] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.25, y=63.94, z=4032.39] in list []
+[12Apr2025 03:59:20.739] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.21, y=64.36, z=4032.58]
+[12Apr2025 03:59:20.764] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.25, y=63.94, z=4032.39], dimensionLocationPath overworld
+[12Apr2025 03:59:20.764] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.25, y=63.94, z=4032.39] in list []
+[12Apr2025 03:59:20.765] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.23, y=64.27, z=4032.49]
+[12Apr2025 03:59:20.816] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.16, y=63.94, z=4032.86], dimensionLocationPath overworld
+[12Apr2025 03:59:20.816] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.16, y=63.94, z=4032.86] in list []
+[12Apr2025 03:59:20.816] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.14, y=64.19, z=4032.95]
+[12Apr2025 03:59:20.877] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.16, y=63.94, z=4032.86], dimensionLocationPath overworld
+[12Apr2025 03:59:20.877] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.16, y=63.94, z=4032.86] in list []
+[12Apr2025 03:59:20.878] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.04, y=64.10, z=4032.69]
+[12Apr2025 03:59:20.921] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.14, y=63.94, z=4033.12], dimensionLocationPath overworld
+[12Apr2025 03:59:20.921] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.14, y=63.94, z=4033.12] in list []
+[12Apr2025 03:59:20.921] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.07, y=64.02, z=4032.94]
+[12Apr2025 03:59:20.963] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.15, y=64.69, z=4033.87], dimensionLocationPath overworld
+[12Apr2025 03:59:20.963] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.15, y=64.69, z=4033.87] in list []
+[12Apr2025 03:59:20.963] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.11, y=64.69, z=4033.78]
+[12Apr2025 03:59:21.018] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.15, y=64.69, z=4033.87], dimensionLocationPath overworld
+[12Apr2025 03:59:21.018] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.15, y=64.69, z=4033.87] in list []
+[12Apr2025 03:59:21.018] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/2483, l='ServerLevel[world]', x=-2177.12, y=64.62, z=4033.78]
+[12Apr2025 04:01:45.726] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[12Apr2025 04:01:45.726] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 5428
+}
+[12Apr2025 04:01:45.726] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[12Apr2025 04:01:45.726] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "vaS?A1K\"&1320- ;%^g"
+]
+[12Apr2025 04:01:56.998] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[12Apr2025 04:01:56.998] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[12Apr2025 04:02:04.077] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 04:02:04.093] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Apr2025 04:02:58.464] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[12Apr2025 04:02:58.464] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 945010299
+}
+[12Apr2025 04:02:58.464] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 44 extra bytes: 
+[12Apr2025 04:02:58.464] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "#5.jusF#Cn'320Jj:Rd0"
+]
+[12Apr2025 04:04:41.707] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Frédérick'/21807, l='ServerLevel[world]', x=-2175.33, y=64.00, z=4025.50] died, message: 'Frédérick was slain by Squanchy'
+[12Apr2025 04:05:17.248] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[12Apr2025 04:05:28.275] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[12Apr2025 04:05:28.276] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 257053536
+}
+[12Apr2025 04:05:28.276] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 45 extra bytes: 
+[12Apr2025 04:05:28.276] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "hfcN3201h.F,Tg"
+]
+[12Apr2025 04:05:57.569] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Constantin'/23562, l='ServerLevel[world]', x=-1276.33, y=71.00, z=-3069.35] died, message: 'Constantin was slain by Jukot'
+[12Apr2025 04:05:57.570] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Constantin'/23562, l='ServerLevel[world]', x=-1276.33, y=71.00, z=-3069.35] died: Constantin was slain by Jukot
+[12Apr2025 04:06:09.300] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[12Apr2025 04:06:09.301] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 15384
+}
+[12Apr2025 04:06:09.301] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 113 extra bytes: 
+[12Apr2025 04:06:09.301] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "8r%D.rg}bt320HSfKXntGPS|#Y<J]_VFopu-9_OrI0"
+]
+[12Apr2025 04:06:17.306] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Cristea'/23571, l='ServerLevel[world]', x=-1272.49, y=71.00, z=-3083.53] died, message: 'Cristea was burnt to a crisp whilst fighting Jukot'
+[12Apr2025 04:06:17.306] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Cristea'/23571, l='ServerLevel[world]', x=-1272.49, y=71.00, z=-3083.53] died: Cristea was burnt to a crisp whilst fighting Jukot
+[12Apr2025 04:06:19.060] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Zinaida'/23609, l='ServerLevel[world]', x=-1272.98, y=71.00, z=-3077.45] died, message: 'Zinaida was slain by Jukot'
+[12Apr2025 04:06:19.061] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Zinaida'/23609, l='ServerLevel[world]', x=-1272.98, y=71.00, z=-3077.45] died: Zinaida was slain by Jukot
+[12Apr2025 04:06:21.760] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Vasilisa'/23599, l='ServerLevel[world]', x=-1287.28, y=71.00, z=-3067.48] died, message: 'Vasilisa burned to death'
+[12Apr2025 04:06:21.761] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Vasilisa'/23599, l='ServerLevel[world]', x=-1287.28, y=71.00, z=-3067.48] died: Vasilisa burned to death
+[12Apr2025 04:06:25.164] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Petru'/23601, l='ServerLevel[world]', x=-1274.52, y=68.00, z=-3088.96] died, message: 'Petru was slain by Jukot'
+[12Apr2025 04:06:25.165] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Petru'/23601, l='ServerLevel[world]', x=-1274.52, y=68.00, z=-3088.96] died: Petru was slain by Jukot
+[12Apr2025 04:06:26.918] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Vladislav'/23558, l='ServerLevel[world]', x=-1275.89, y=68.00, z=-3086.99] died, message: 'Vladislav was slain by Jukot'
+[12Apr2025 04:06:26.918] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Vladislav'/23558, l='ServerLevel[world]', x=-1275.89, y=68.00, z=-3086.99] died: Vladislav was slain by Jukot
+[12Apr2025 04:06:34.380] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Adrian'/23581, l='ServerLevel[world]', x=-1281.75, y=68.00, z=-3099.83] died, message: 'Adrian was slain by Jukot'
+[12Apr2025 04:06:34.381] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Adrian'/23581, l='ServerLevel[world]', x=-1281.75, y=68.00, z=-3099.83] died: Adrian was slain by Jukot
+[12Apr2025 04:06:40.164] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Domnica'/23605, l='ServerLevel[world]', x=-1287.14, y=68.00, z=-3097.86] died, message: 'Domnica was slain by Jukot'
+[12Apr2025 04:06:40.165] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Domnica'/23605, l='ServerLevel[world]', x=-1287.14, y=68.00, z=-3097.86] died: Domnica was slain by Jukot
+[12Apr2025 04:06:51.206] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Caterina'/23578, l='ServerLevel[world]', x=-1279.49, y=68.00, z=-3102.53] died, message: 'Caterina was slain by Jukot'
+[12Apr2025 04:06:51.208] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Caterina'/23578, l='ServerLevel[world]', x=-1279.49, y=68.00, z=-3102.53] died: Caterina was slain by Jukot
+[12Apr2025 04:07:04.066] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 04:07:04.086] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Apr2025 04:07:40.495] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Valya'/23566, l='ServerLevel[world]', x=-1305.33, y=70.00, z=-3060.88] died, message: 'Valya was slain by Jukot'
+[12Apr2025 04:07:40.496] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Valya'/23566, l='ServerLevel[world]', x=-1305.33, y=70.00, z=-3060.88] died: Valya was slain by Jukot
+[12Apr2025 04:07:44.315] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Iurii'/23568, l='ServerLevel[world]', x=-1307.53, y=68.00, z=-3063.05] died, message: 'Iurii was slain by Jukot'
+[12Apr2025 04:07:44.316] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Iurii'/23568, l='ServerLevel[world]', x=-1307.53, y=68.00, z=-3063.05] died: Iurii was slain by Jukot
+[12Apr2025 04:07:45.314] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Tatyana'/23567, l='ServerLevel[world]', x=-1308.50, y=68.00, z=-3063.34] died, message: 'Tatyana was slain by Jukot'
+[12Apr2025 04:07:45.315] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Tatyana'/23567, l='ServerLevel[world]', x=-1308.50, y=68.00, z=-3063.34] died: Tatyana was slain by Jukot
+[12Apr2025 04:07:57.920] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Stela'/23564, l='ServerLevel[world]', x=-1308.46, y=68.44, z=-3057.72] died, message: 'Stela was slain by Jukot'
+[12Apr2025 04:07:57.921] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Stela'/23564, l='ServerLevel[world]', x=-1308.46, y=68.44, z=-3057.72] died: Stela was slain by Jukot
+[12Apr2025 04:08:06.376] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Taisia'/23565, l='ServerLevel[world]', x=-1308.48, y=68.05, z=-3059.15] died, message: 'Taisia was slain by Jukot'
+[12Apr2025 04:08:06.377] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Taisia'/23565, l='ServerLevel[world]', x=-1308.48, y=68.05, z=-3059.15] died: Taisia was slain by Jukot
+[12Apr2025 04:08:17.261] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Roza'/23569, l='ServerLevel[world]', x=-1309.30, y=68.00, z=-3064.21] died, message: 'Roza was slain by Jukot'
+[12Apr2025 04:08:17.261] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Roza'/23569, l='ServerLevel[world]', x=-1309.30, y=68.00, z=-3064.21] died: Roza was slain by Jukot
+[12Apr2025 04:08:37.147] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[12Apr2025 04:11:04.682] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[12Apr2025 04:11:04.683] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 33
+}
+[12Apr2025 04:11:04.683] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 65 extra bytes: 
+[12Apr2025 04:11:04.683] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "dA.l0{nM?yvt^(l%320Yi^b??&_p*ep"
+]
+[12Apr2025 04:11:13.760] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ilarion'/24227, l='ServerLevel[world]', x=-1308.86, y=68.44, z=-3057.14] died, message: 'Ilarion was slain by Cristea'
+[12Apr2025 04:11:13.761] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Ilarion'/24227, l='ServerLevel[world]', x=-1308.86, y=68.44, z=-3057.14] died: Ilarion was slain by Cristea
+[12Apr2025 04:11:57.048] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[12Apr2025 04:11:57.048] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[12Apr2025 04:12:04.068] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 04:12:04.083] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Apr2025 04:12:37.992] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[12Apr2025 04:12:37.993] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 1179037
+}
+[12Apr2025 04:12:37.993] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 166 extra bytes: 
+[12Apr2025 04:12:37.993] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "`B(2Oq!PU 83320<oK0p/2<S|#Y<J]_VFopu-9_OrI0g,lQL)kK{7r$V1onLPFWL"
+]
