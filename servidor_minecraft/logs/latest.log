@@ -611,3 +611,51 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [12Apr2025 02:58:45.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ has completed the challenge [Staff of Life]
 [12Apr2025 02:59:32.378] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Sabrina'/1757, l='ServerLevel[world]', x=-2171.50, y=65.00, z=4019.08] died, message: 'Sabrina was shot by Jakov'
 [12Apr2025 02:59:32.380] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Sabrina'/1757, l='ServerLevel[world]', x=-2171.50, y=65.00, z=4019.08] died: Sabrina was shot by Jakov
+[12Apr2025 03:02:39.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PlagaXNZ: Set own game mode to Survival Mode]
+[12Apr2025 03:02:50.762] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PlagaXNZ lost connection: Disconnected
+[12Apr2025 03:02:50.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ left the game
+[12Apr2025 03:02:50.763] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 116e9c76-7157-3f7d-8106-557b209a5b07
+[12Apr2025 03:02:50.766] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PlagaXNZ
+[12Apr2025 03:05:37.705] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[12Apr2025 03:05:37.705] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 3070
+}
+[12Apr2025 03:05:37.705] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[12Apr2025 03:05:37.706] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "n(vg3ZXEgD320;y"
+]
+[12Apr2025 03:07:03.047] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jukot[/127.113.44.68:59435] logged in with entity id 2483 at (-3989.699999988079, 70.0, 3733.6980792579575)
+[12Apr2025 03:07:03.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot joined the game
+[12Apr2025 03:07:03.079] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for daf3981c-623a-33c4-83a6-d56260e38f0b
+[12Apr2025 03:10:44.229] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[12Apr2025 03:10:44.229] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 688237816
+}
+[12Apr2025 03:10:44.229] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 167 extra bytes: 
+[12Apr2025 03:10:44.230] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "qKN\\]r|320p}4vWo:T*S|#Y<J]_VFopu-9_OrI0g,lQL)kK{7r$V1onLPFWLrB"
+]
+[12Apr2025 03:11:04.236] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[12Apr2025 03:11:04.237] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 105
+}
+[12Apr2025 03:11:04.237] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[12Apr2025 03:11:04.237] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "M$5qGq~%'4j320cZ"
+]
+[12Apr2025 03:11:27.305] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[12Apr2025 03:11:27.306] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 15121
+}
+[12Apr2025 03:11:27.306] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[12Apr2025 03:11:27.306] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "bcgX_&bw4,rG320v"
+]

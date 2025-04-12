@@ -5128,5 +5128,11 @@
     },
     "done": true
   },
+  "mca:adventure/staff_of_life": {
+    "criteria": {
+      "iron": "2025-04-12 02:58:45 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

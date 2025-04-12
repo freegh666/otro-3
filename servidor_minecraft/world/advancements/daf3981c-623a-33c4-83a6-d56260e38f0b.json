@@ -4554,15 +4554,27 @@
     },
     "done": true
   },
+  "friendsandfoes:nether/kill_wildfire": {
+    "criteria": {
+      "killed_wildfire": "2025-04-07 20:33:11 +0000"
+    },
+    "done": true
+  },
+  "aether:blue_aercloud": {
+    "criteria": {
+      "blue_aercloud": "2025-04-07 20:34:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
       "has_nether_wart": "2025-04-07 21:05:56 +0000"
     },
     "done": true
   },
-  "friendsandfoes:nether/kill_wildfire": {
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
-      "killed_wildfire": "2025-04-07 20:33:11 +0000"
+      "has_nether_wart": "2025-04-07 21:05:56 +0000"
     },
     "done": true
   },
@@ -4578,21 +4590,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_nether_bricks": {
-    "criteria": {
-      "has_nether_wart": "2025-04-07 21:05:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
     "criteria": {
       "has_coast_armor_trim_smithing_template": "2025-04-07 21:48:11 +0000"
-    },
-    "done": true
-  },
-  "aether:blue_aercloud": {
-    "criteria": {
-      "blue_aercloud": "2025-04-07 20:34:24 +0000"
     },
     "done": true
   },
