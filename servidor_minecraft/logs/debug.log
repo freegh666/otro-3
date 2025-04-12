@@ -6678,3 +6678,47 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [
   "`B(2Oq!PU 83320<oK0p/2<S|#Y<J]_VFopu-9_OrI0g,lQL)kK{7r$V1onLPFWL"
 ]
+[12Apr2025 04:14:16.357] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[12Apr2025 04:14:16.357] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 2900
+}
+[12Apr2025 04:14:16.357] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[12Apr2025 04:14:16.357] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "Ejo9f<320Qt"
+]
+[12Apr2025 04:15:17.299] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[12Apr2025 04:16:23.574] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Mihai'/24812, l='ServerLevel[world]', x=-1343.87, y=73.00, z=-3035.22] died, message: 'Mihai was shot by Jukot'
+[12Apr2025 04:16:31.118] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Cezara'/25066, l='ServerLevel[world]', x=-1342.55, y=73.00, z=-3034.18] died, message: 'Cezara was slain by Jukot'
+[12Apr2025 04:16:33.674] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Victoria'/25096, l='ServerLevel[world]', x=-1342.91, y=73.00, z=-3033.05] died, message: 'Victoria was slain by Jukot'
+[12Apr2025 04:16:38.063] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Nina'/25033, l='ServerLevel[world]', x=-1344.53, y=73.00, z=-3032.12] died, message: 'Nina was slain by Jukot'
+[12Apr2025 04:16:39.967] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Emilia'/25101, l='ServerLevel[world]', x=-1343.64, y=73.00, z=-3033.36] died, message: 'Emilia was slain by Jukot'
+[12Apr2025 04:16:41.310] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Dinu'/24825, l='ServerLevel[world]', x=-1344.88, y=73.00, z=-3032.27] died, message: 'Dinu was slain by Jukot'
+[12Apr2025 04:16:44.667] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Marin'/25026, l='ServerLevel[world]', x=-1345.86, y=73.00, z=-3033.89] died, message: 'Marin was slain by Jukot'
+[12Apr2025 04:16:44.668] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Marin'/25026, l='ServerLevel[world]', x=-1345.86, y=73.00, z=-3033.89] died: Marin was slain by Jukot
+[12Apr2025 04:16:46.113] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Georgeta'/25049, l='ServerLevel[world]', x=-1345.87, y=73.00, z=-3033.13] died, message: 'Georgeta was slain by Jukot'
+[12Apr2025 04:16:47.613] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Gheorghe'/24824, l='ServerLevel[world]', x=-1348.11, y=73.00, z=-3036.17] died, message: 'Gheorghe was slain by Jukot'
+[12Apr2025 04:17:04.126] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 04:17:04.146] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Apr2025 04:17:15.530] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Costin'/24826, l='ServerLevel[world]', x=-1349.14, y=72.00, z=-3035.14] died, message: 'Costin was slain by Jukot'
+[12Apr2025 04:18:37.180] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[12Apr2025 04:19:47.322] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jukot lost connection: Disconnected
+[12Apr2025 04:19:47.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot left the game
+[12Apr2025 04:19:47.323] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for daf3981c-623a-33c4-83a6-d56260e38f0b
+[12Apr2025 04:19:47.323] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Jukot
+[12Apr2025 04:19:47.323] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jukot
+[12Apr2025 04:21:15.417] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[12Apr2025 04:21:15.417] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 35
+}
+[12Apr2025 04:21:15.417] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 140 extra bytes: 
+[12Apr2025 04:21:15.418] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<D|QrZt)+7320&b`>CA5*Rgad4~S|#Y<J]_VFopu-9_OrI0g,lQL)kK{7r$"
+]
+[12Apr2025 04:21:57.097] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[12Apr2025 04:21:57.097] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[12Apr2025 04:22:04.033] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Apr2025 04:22:04.047] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
