@@ -4608,5 +4608,23 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/dimensional_carver": {
+    "criteria": {
+      "dimensional_carver": "2025-04-15 23:25:52 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/hemolymph_blaster": {
+    "criteria": {
+      "hemolymph_blaster": "2025-04-15 23:25:50 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:nether/obtain_wildfire_crown": {
+    "criteria": {
+      "wildfire_crown": "2025-04-15 23:38:05 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
