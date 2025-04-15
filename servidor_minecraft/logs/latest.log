@@ -1,131 +1,131 @@
-[12Apr2025 02:41:16.700] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[12Apr2025 02:41:16.706] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
-[12Apr2025 02:41:18.454] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[12Apr2025 02:41:18.539] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/otro-3/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[12Apr2025 02:41:19.055] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/otro-3/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[12Apr2025 02:41:19.057] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/otro-3/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[12Apr2025 02:41:19.060] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/otro-3/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[12Apr2025 02:41:19.064] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/otro-3/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[12Apr2025 02:41:19.486] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[12Apr2025 02:41:19.487] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: playeranimator. Using Mod File: /workspaces/otro-3/servidor_minecraft/mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar
-[12Apr2025 02:41:19.488] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 10 dependencies adding them to mods collection
-[12Apr2025 02:41:24.665] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[12Apr2025 02:41:24.710] [main/ERROR] [mixin/]: Mixin config mixins.recrafted_creatures.json does not specify "minVersion" property
-[12Apr2025 02:41:24.713] [main/ERROR] [mixin/]: Mixin config mixins.duclib.json does not specify "minVersion" property
-[12Apr2025 02:41:25.055] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
-[12Apr2025 02:41:25.060] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[12Apr2025 02:41:25.317] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.20.2+mc1.20.1: 87 options available, 0 override(s) found
-[12Apr2025 02:41:25.318] [main/INFO] [ModernFix/]: Applying Nashorn fix
-[12Apr2025 02:41:25.356] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
-[12Apr2025 02:41:25.708] [main/WARN] [mixin/]: Reference map 'apexcore.refmap.json' for apexcore.mixins.json could not be read. If this is a development environment you can ignore this message
-[12Apr2025 02:41:25.720] [main/WARN] [mixin/]: Reference map 'nitrogen_internals.refmap.json' for nitrogen_internals.mixins.json could not be read. If this is a development environment you can ignore this message
-[12Apr2025 02:41:30.143] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[12Apr2025 02:41:31.195] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (18.25 s after launch)
-[12Apr2025 02:41:31.482] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[12Apr2025 02:41:31.483] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[12Apr2025 02:41:34.560] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 3359 milliseconds
-[12Apr2025 02:41:40.235] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
-[12Apr2025 02:41:40.236] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
-[12Apr2025 02:41:40.237] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
-[12Apr2025 02:41:40.237] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
-[12Apr2025 02:41:40.237] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
-[12Apr2025 02:41:40.238] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
-[12Apr2025 02:41:40.238] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
-[12Apr2025 02:41:40.310] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
-[12Apr2025 02:41:40.312] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
-[12Apr2025 02:41:40.340] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[12Apr2025 02:41:40.342] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[12Apr2025 02:41:40.503] [modloading-worker-0/INFO] [xyz.apex.forge.commonality.Mods.CommonalityMod/]: Running Minecraft '1.20.1', & Forge '47.3.7' on Java '17.0.14, Ubuntu'
-[12Apr2025 02:41:40.510] [modloading-worker-0/INFO] [TrustedSourceList/]: Loading BlackListed sources from remote... (https://api.stopmodreposts.org/minecraft/sites.txt)
-[12Apr2025 02:41:41.196] [modloading-worker-0/INFO] [com.aetherteam.cumulus.Cumulus/]: Disabling Cumulus as it is on server.
-[12Apr2025 02:41:41.283] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[12Apr2025 02:41:41.608] [modloading-worker-0/INFO] [TrustedSourceList/]: Loaded 564 BlackListed sources from remote
-[12Apr2025 02:41:41.611] [modloading-worker-0/INFO] [TrustManager/]: Loading mod 'commonality' TrustWorthiness...
-[12Apr2025 02:41:41.612] [modloading-worker-0/FATAL] [TrustManager/]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
-[12Apr2025 02:41:41.612] [modloading-worker-0/INFO] [TrustManager/]: Loaded mod 'commonality' TrustWorthiness: UNKNOWN
-[12Apr2025 02:41:41.749] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_long_reach_attack
-[12Apr2025 02:41:41.750] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_lance_collision
-[12Apr2025 02:41:41.987] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
-[12Apr2025 02:41:42.000] [modloading-worker-0/INFO] [TrustManager/]: Loading mod 'apexcore' TrustWorthiness...
-[12Apr2025 02:41:42.002] [modloading-worker-0/FATAL] [TrustManager/]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
-[12Apr2025 02:41:42.004] [modloading-worker-0/INFO] [TrustManager/]: Loaded mod 'apexcore' TrustWorthiness: UNKNOWN
-[12Apr2025 02:41:42.093] [modloading-worker-0/INFO] [TrustManager/]: Loading mod 'fantasyfurniture' TrustWorthiness...
-[12Apr2025 02:41:42.094] [modloading-worker-0/FATAL] [TrustManager/]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
-[12Apr2025 02:41:42.094] [modloading-worker-0/INFO] [TrustManager/]: Loaded mod 'fantasyfurniture' TrustWorthiness: UNKNOWN
-[12Apr2025 02:41:42.206] [modloading-worker-0/WARN] [de.keksuccino.justzoom.JustZoom/]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
-[12Apr2025 02:41:45.463] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
-[12Apr2025 02:41:45.464] [main/INFO] [ModernFix/]: Instantiating Mojang DFU
-[12Apr2025 02:41:46.643] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.modderg.tameablebeasts.server.entity.TBAnimal from interface com.modderg.tameablebeasts.server.entity.TBRideable
-[12Apr2025 02:41:46.644] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.modderg.tameablebeasts.server.entity.TBAnimal from class com.modderg.tameablebeasts.server.entity.custom.GroundBeetleEntity
-[12Apr2025 02:41:46.716] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.GrimReaperEntity from class forge.net.mca.util.network.datasync.CEnumParameter
-[12Apr2025 02:41:46.879] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:41:46.881] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:41:46.882] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:41:46.882] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:41:46.883] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:41:46.883] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:41:46.883] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:41:46.885] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[12Apr2025 02:41:46.887] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:41:46.889] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:41:46.890] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:41:46.890] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:41:46.890] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:41:46.892] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:41:46.893] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:41:46.893] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:41:46.893] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:41:46.893] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:41:46.894] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:41:46.894] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[12Apr2025 02:41:46.895] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:41:46.903] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:41:46.905] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[12Apr2025 02:41:46.906] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:41:46.906] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[12Apr2025 02:41:46.906] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[12Apr2025 02:41:46.908] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:41:46.909] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:41:46.909] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:41:46.909] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:41:46.909] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:41:46.915] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:41:46.923] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:41:46.924] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:41:46.927] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:41:46.928] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:41:46.928] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:41:47.548] [modloading-worker-0/INFO] [xaero.pac.OpenPartiesAndClaims/]: Loading Open Parties and Claims!
-[12Apr2025 02:41:47.716] [modloading-worker-0/INFO] [com.connectivity.Connectivity/]: Connectivity initialized
-[12Apr2025 02:41:47.854] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Starting version check at https://github.com/The-Aether-Team/The-Aether/raw/1.20.1-develop/update.json
-[12Apr2025 02:41:47.870] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[12Apr2025 02:41:48.026] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[12Apr2025 02:41:48.039] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 1 plugin(s)
-[12Apr2025 02:41:48.044] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[12Apr2025 02:41:48.066] [modloading-worker-0/INFO] [Sound Physics - General/]: Initializing Simple Voice Chat integration
-[12Apr2025 02:41:48.069] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 1 plugin(s)
-[12Apr2025 02:41:48.076] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Registering events for 'sound_physics_remastered'
-[12Apr2025 02:41:48.195] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
-[12Apr2025 02:41:48.339] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Found status: OUTDATED Current: 1.20.1-1.5.1-neoforge Target: 1.20.1-1.5.2-neoforge
-[12Apr2025 02:41:48.339] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.20.1
-[12Apr2025 02:41:48.528] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[12Apr2025 02:41:48.529] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[12Apr2025 02:41:48.553] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[12Apr2025 02:41:48.553] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[12Apr2025 02:41:48.712] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 12.0.0.4 Target: 12.0.0.4
-[12Apr2025 02:41:48.713] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
-[12Apr2025 02:41:48.816] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 20.2.13 Target: 20.2.13
-[12Apr2025 02:41:48.816] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[12Apr2025 02:41:48.944] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[12Apr2025 02:41:48.945] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[12Apr2025 02:41:49.455] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.20.1-2.5.26 Target: 1.20.1-2.5.29
-[12Apr2025 02:41:49.456] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
-[12Apr2025 02:41:49.538] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[12Apr2025 02:41:49.561] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: OUTDATED Current: 1.20.1-1.4.8 Target: 1.20.1-1.4.13
-[12Apr2025 02:41:49.561] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [commonality] Starting version check at https://api.modrinth.com/updates/apexcore/forge_updates.json
-[12Apr2025 02:41:49.718] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [commonality] Found status: OUTDATED Current: 7.0.0 Target: 10.0.0
-[12Apr2025 02:41:49.719] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [days_in_the_middle_ages] Starting version check at https://raw.githubusercontent.com/PlayTics/playtics.github.io/main/update.json
-[12Apr2025 02:41:49.774] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[15Apr2025 23:05:06.451] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[15Apr2025 23:05:06.468] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
+[15Apr2025 23:05:12.365] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[15Apr2025 23:05:12.577] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/otro-3/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[15Apr2025 23:05:13.667] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/otro-3/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[15Apr2025 23:05:13.673] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/otro-3/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[15Apr2025 23:05:13.678] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/otro-3/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[15Apr2025 23:05:13.684] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/otro-3/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[15Apr2025 23:05:14.833] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[15Apr2025 23:05:14.837] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: playeranimator. Using Mod File: /workspaces/otro-3/servidor_minecraft/mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar
+[15Apr2025 23:05:14.838] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 10 dependencies adding them to mods collection
+[15Apr2025 23:05:23.182] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[15Apr2025 23:05:23.263] [main/ERROR] [mixin/]: Mixin config mixins.recrafted_creatures.json does not specify "minVersion" property
+[15Apr2025 23:05:23.281] [main/ERROR] [mixin/]: Mixin config mixins.duclib.json does not specify "minVersion" property
+[15Apr2025 23:05:24.277] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[15Apr2025 23:05:24.284] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[15Apr2025 23:05:24.813] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.20.2+mc1.20.1: 87 options available, 0 override(s) found
+[15Apr2025 23:05:24.816] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[15Apr2025 23:05:24.868] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[15Apr2025 23:05:25.477] [main/WARN] [mixin/]: Reference map 'apexcore.refmap.json' for apexcore.mixins.json could not be read. If this is a development environment you can ignore this message
+[15Apr2025 23:05:25.505] [main/WARN] [mixin/]: Reference map 'nitrogen_internals.refmap.json' for nitrogen_internals.mixins.json could not be read. If this is a development environment you can ignore this message
+[15Apr2025 23:05:32.139] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[15Apr2025 23:05:34.301] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (38.07 s after launch)
+[15Apr2025 23:05:35.022] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[15Apr2025 23:05:35.024] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[15Apr2025 23:05:41.735] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 7424 milliseconds
+[15Apr2025 23:05:52.053] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[15Apr2025 23:05:52.054] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[15Apr2025 23:05:52.054] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[15Apr2025 23:05:52.055] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[15Apr2025 23:05:52.056] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[15Apr2025 23:05:52.057] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[15Apr2025 23:05:52.058] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[15Apr2025 23:05:52.135] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[15Apr2025 23:05:52.135] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[15Apr2025 23:05:52.171] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
+[15Apr2025 23:05:52.173] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
+[15Apr2025 23:05:52.489] [modloading-worker-0/INFO] [xyz.apex.forge.commonality.Mods.CommonalityMod/]: Running Minecraft '1.20.1', & Forge '47.3.7' on Java '17.0.14, Ubuntu'
+[15Apr2025 23:05:52.506] [modloading-worker-0/INFO] [TrustedSourceList/]: Loading BlackListed sources from remote... (https://api.stopmodreposts.org/minecraft/sites.txt)
+[15Apr2025 23:05:54.369] [modloading-worker-0/INFO] [com.aetherteam.cumulus.Cumulus/]: Disabling Cumulus as it is on server.
+[15Apr2025 23:05:54.641] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[15Apr2025 23:05:55.353] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_long_reach_attack
+[15Apr2025 23:05:55.358] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_lance_collision
+[15Apr2025 23:05:55.645] [modloading-worker-0/INFO] [TrustedSourceList/]: Loaded 564 BlackListed sources from remote
+[15Apr2025 23:05:55.647] [modloading-worker-0/INFO] [TrustManager/]: Loading mod 'commonality' TrustWorthiness...
+[15Apr2025 23:05:55.650] [modloading-worker-0/FATAL] [TrustManager/]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
+[15Apr2025 23:05:55.653] [modloading-worker-0/INFO] [TrustManager/]: Loaded mod 'commonality' TrustWorthiness: UNKNOWN
+[15Apr2025 23:05:56.355] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[15Apr2025 23:05:56.383] [modloading-worker-0/INFO] [TrustManager/]: Loading mod 'apexcore' TrustWorthiness...
+[15Apr2025 23:05:56.385] [modloading-worker-0/FATAL] [TrustManager/]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
+[15Apr2025 23:05:56.389] [modloading-worker-0/INFO] [TrustManager/]: Loaded mod 'apexcore' TrustWorthiness: UNKNOWN
+[15Apr2025 23:05:56.578] [modloading-worker-0/INFO] [TrustManager/]: Loading mod 'fantasyfurniture' TrustWorthiness...
+[15Apr2025 23:05:56.579] [modloading-worker-0/FATAL] [TrustManager/]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
+[15Apr2025 23:05:56.579] [modloading-worker-0/INFO] [TrustManager/]: Loaded mod 'fantasyfurniture' TrustWorthiness: UNKNOWN
+[15Apr2025 23:05:56.783] [modloading-worker-0/WARN] [de.keksuccino.justzoom.JustZoom/]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
+[15Apr2025 23:06:01.790] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
+[15Apr2025 23:06:01.792] [main/INFO] [ModernFix/]: Instantiating Mojang DFU
+[15Apr2025 23:06:03.820] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.modderg.tameablebeasts.server.entity.TBAnimal from interface com.modderg.tameablebeasts.server.entity.TBRideable
+[15Apr2025 23:06:03.822] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.modderg.tameablebeasts.server.entity.TBAnimal from class com.modderg.tameablebeasts.server.entity.custom.GroundBeetleEntity
+[15Apr2025 23:06:03.937] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:06:03.938] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:06:03.939] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:06:03.941] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:06:03.941] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:06:03.942] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:06:03.942] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:06:03.943] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[15Apr2025 23:06:03.949] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:06:03.950] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:06:03.951] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:06:03.952] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:06:03.953] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:06:03.953] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:06:03.955] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:06:03.955] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:06:03.956] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:06:03.957] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:06:03.958] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:06:03.960] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[15Apr2025 23:06:03.962] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:06:03.969] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:06:03.970] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[15Apr2025 23:06:03.970] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:06:03.972] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[15Apr2025 23:06:03.972] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[15Apr2025 23:06:03.973] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:06:03.973] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:06:03.974] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:06:03.974] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:06:03.975] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:06:03.980] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:06:03.986] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:06:03.986] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:06:03.988] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:06:03.988] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:06:03.988] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.VillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:06:03.989] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.GrimReaperEntity from class forge.net.mca.util.network.datasync.CEnumParameter
+[15Apr2025 23:06:04.689] [modloading-worker-0/INFO] [xaero.pac.OpenPartiesAndClaims/]: Loading Open Parties and Claims!
+[15Apr2025 23:06:04.852] [modloading-worker-0/INFO] [com.connectivity.Connectivity/]: Connectivity initialized
+[15Apr2025 23:06:05.016] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[15Apr2025 23:06:05.172] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[15Apr2025 23:06:05.212] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[15Apr2025 23:06:05.214] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Starting version check at https://github.com/The-Aether-Team/The-Aether/raw/1.20.1-develop/update.json
+[15Apr2025 23:06:05.239] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 1 plugin(s)
+[15Apr2025 23:06:05.239] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[15Apr2025 23:06:05.268] [modloading-worker-0/INFO] [Sound Physics - General/]: Initializing Simple Voice Chat integration
+[15Apr2025 23:06:05.268] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 1 plugin(s)
+[15Apr2025 23:06:05.270] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Registering events for 'sound_physics_remastered'
+[15Apr2025 23:06:05.711] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Found status: OUTDATED Current: 1.20.1-1.5.1-neoforge Target: 1.20.1-1.5.2-neoforge
+[15Apr2025 23:06:05.712] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.20.1
+[15Apr2025 23:06:05.868] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[15Apr2025 23:06:05.868] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[15Apr2025 23:06:05.893] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[15Apr2025 23:06:05.894] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[15Apr2025 23:06:06.106] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 12.0.0.4 Target: 12.0.0.4
+[15Apr2025 23:06:06.107] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
+[15Apr2025 23:06:06.226] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 20.2.13 Target: 20.2.13
+[15Apr2025 23:06:06.227] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[15Apr2025 23:06:06.379] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[15Apr2025 23:06:06.379] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[15Apr2025 23:06:06.934] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.20.1-2.5.26 Target: 1.20.1-2.5.29
+[15Apr2025 23:06:06.941] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
+[15Apr2025 23:06:07.052] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: OUTDATED Current: 1.20.1-1.4.8 Target: 1.20.1-1.4.13
+[15Apr2025 23:06:07.053] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [commonality] Starting version check at https://api.modrinth.com/updates/apexcore/forge_updates.json
+[15Apr2025 23:06:07.172] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15Apr2025 23:06:07.262] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [commonality] Found status: OUTDATED Current: 7.0.0 Target: 10.0.0
+[15Apr2025 23:06:07.262] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [days_in_the_middle_ages] Starting version check at https://raw.githubusercontent.com/PlayTics/playtics.github.io/main/update.json
+[15Apr2025 23:06:07.313] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -140,1022 +140,508 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[12Apr2025 02:41:49.777] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bonfires] Starting version check at https://raw.githubusercontent.com/Wehavecookies56/Bonfires/master/update.json
-[12Apr2025 02:41:49.791] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bonfires] Found status: BETA Current: 1.2.18 Target: 1.2.17
-[12Apr2025 02:41:49.792] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Starting version check at https://github.com/The-Aether-Team/Cumulus/raw/1.20.1-develop/update.json
-[12Apr2025 02:41:49.816] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Found status: UP_TO_DATE Current: 1.20.1-1.0.1-neoforge Target: null
-[12Apr2025 02:41:49.816] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [apexcore] Starting version check at https://api.modrinth.com/updates/apexcore/forge_updates.json
-[12Apr2025 02:41:49.914] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [apexcore] Found status: UP_TO_DATE Current: 10.0.0 Target: null
-[12Apr2025 02:41:49.914] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fantasyfurniture] Starting version check at https://api.modrinth.com/updates/fantasy-furniture/forge_updates.json
-[12Apr2025 02:41:49.968] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fantasyfurniture] Found status: UP_TO_DATE Current: 9.0.0 Target: null
-[12Apr2025 02:41:50.114] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/otro-3/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23221!/assets/.mcassetsroot' uses unexpected schema
-[12Apr2025 02:41:50.115] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/otro-3/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23221!/data/.mcassetsroot' uses unexpected schema
-[12Apr2025 02:41:53.253] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[12Apr2025 02:41:53.520] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag days_in_the_middle_ages:arrow_slit_top as it is missing following references: mma:arrow_slit_top (from Forge 1.20.1 Minecraft Middle Ages 0.0.5.jar), 
+[15Apr2025 23:06:07.314] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bonfires] Starting version check at https://raw.githubusercontent.com/Wehavecookies56/Bonfires/master/update.json
+[15Apr2025 23:06:07.339] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bonfires] Found status: BETA Current: 1.2.18 Target: 1.2.17
+[15Apr2025 23:06:07.343] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Starting version check at https://github.com/The-Aether-Team/Cumulus/raw/1.20.1-develop/update.json
+[15Apr2025 23:06:07.372] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Found status: UP_TO_DATE Current: 1.20.1-1.0.1-neoforge Target: null
+[15Apr2025 23:06:07.375] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [apexcore] Starting version check at https://api.modrinth.com/updates/apexcore/forge_updates.json
+[15Apr2025 23:06:07.443] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [apexcore] Found status: UP_TO_DATE Current: 10.0.0 Target: null
+[15Apr2025 23:06:07.446] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fantasyfurniture] Starting version check at https://api.modrinth.com/updates/fantasy-furniture/forge_updates.json
+[15Apr2025 23:06:07.833] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fantasyfurniture] Found status: UP_TO_DATE Current: 9.0.0 Target: null
+[15Apr2025 23:06:08.410] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/otro-3/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23221!/assets/.mcassetsroot' uses unexpected schema
+[15Apr2025 23:06:08.410] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/otro-3/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23221!/data/.mcassetsroot' uses unexpected schema
+[15Apr2025 23:06:13.584] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[15Apr2025 23:06:14.231] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag days_in_the_middle_ages:arrow_slit_top as it is missing following references: mma:arrow_slit_top (from Forge 1.20.1 Minecraft Middle Ages 0.0.5.jar), 
 	mma:arrowslittopmossy (from Forge 1.20.1 Minecraft Middle Ages 0.0.5.jar)
-[12Apr2025 02:41:53.521] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag days_in_the_middle_ages:arrow_slit_bottom as it is missing following references: mma:arrowslitbottommossy (from Forge 1.20.1 Minecraft Middle Ages 0.0.5.jar), 
+[15Apr2025 23:06:14.233] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag days_in_the_middle_ages:arrow_slit_bottom as it is missing following references: mma:arrowslitbottommossy (from Forge 1.20.1 Minecraft Middle Ages 0.0.5.jar), 
 	mma:arrow_slit_bottom (from Forge 1.20.1 Minecraft Middle Ages 0.0.5.jar)
-[12Apr2025 02:41:53.522] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag days_in_the_middle_ages:arrow_slit as it is missing following references: mma:arrow_slit_mossy (from Forge 1.20.1 Minecraft Middle Ages 0.0.5.jar), 
+[15Apr2025 23:06:14.235] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag days_in_the_middle_ages:arrow_slit as it is missing following references: mma:arrow_slit_mossy (from Forge 1.20.1 Minecraft Middle Ages 0.0.5.jar), 
 	mma:arrow_slit (from Forge 1.20.1 Minecraft Middle Ages 0.0.5.jar)
-[12Apr2025 02:41:53.539] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag days_in_the_middle_ages:arrow_slit_middle as it is missing following references: mma:arrow_slit_middle (from Forge 1.20.1 Minecraft Middle Ages 0.0.5.jar), 
+[15Apr2025 23:06:14.248] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag days_in_the_middle_ages:arrow_slit_middle as it is missing following references: mma:arrow_slit_middle (from Forge 1.20.1 Minecraft Middle Ages 0.0.5.jar), 
 	mma:arrowslitmiddlemossy (from Forge 1.20.1 Minecraft Middle Ages 0.0.5.jar)
-[12Apr2025 02:41:53.725] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag magistuarmory:darkening_templates as it is missing following references: magistuarmoryaddon:darkening_template (from [1.20.x-forge]-Epic-Knights-Addon-1.22.jar)
-[12Apr2025 02:41:53.729] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag magistuarmory:gilding_templates as it is missing following references: magistuarmoryaddon:gilding_template (from [1.20.x-forge]-Epic-Knights-Addon-1.22.jar)
-[12Apr2025 02:41:55.305] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mimic:entities/mimic}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[12Apr2025 02:41:55.305] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mimic:entities/mimic}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[12Apr2025 02:41:55.306] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mimic:entities/mimic}.pools[0].entries[9].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[12Apr2025 02:41:55.306] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mimic:entities/mimic}.pools[0].entries[8].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[12Apr2025 02:41:55.306] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mimic:entities/mimic}.pools[0].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[12Apr2025 02:41:55.307] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mimic:entities/mimic}.pools[0].entries[7].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[12Apr2025 02:41:55.307] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mimic:entities/mimic}.pools[0].entries[3].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[12Apr2025 02:41:55.307] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mimic:entities/mimic}.pools[0].entries[4].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[12Apr2025 02:41:55.343] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe antiquelegacy:mars_of_todi_thorax: com.google.gson.JsonSyntaxException: Unknown item 'antiquelegacy:mars_of_todi_thorax'
-[12Apr2025 02:41:55.360] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe antiquelegacy:furnace/gold_nugget_blasting: com.google.gson.JsonSyntaxException: Unknown item 'antiquelegacy:golden_laurel_wreath'
-[12Apr2025 02:41:55.396] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe magistuarmoryaddon:darkblued_sallet_from_dark_gothic_helmet_darkening: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
-[12Apr2025 02:41:55.399] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe recrafted_creatures:creature_catalogue as it's serializer returned null
-[12Apr2025 02:41:55.407] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe antiquelegacy:furnace/bronze_nugget_blasting: com.google.gson.JsonSyntaxException: Unknown item 'antiquelegacy:left_gladiator_shoulder_pad'
-[12Apr2025 02:41:55.409] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe magistuarmoryaddon:darkblued_armet_from_dark_knight_helmet_darkening: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
-[12Apr2025 02:41:55.418] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe epicknights_open_helms:glided_dark_clos: com.google.gson.JsonSyntaxException: Unknown item 'epicknights_open_helms:glided_dark_close_helmet'
-[12Apr2025 02:41:55.428] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe antiquelegacy:furnace/iron_nugget_blasting: com.google.gson.JsonSyntaxException: Unknown item 'antiquelegacy:iron_left_hand_manika'
-[12Apr2025 02:41:55.505] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 23 recipes
-[12Apr2025 02:41:55.749] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2188 advancements
-[12Apr2025 02:41:55.756] [main/INFO] [rechiseled/]: Loaded 79 chiseling recipes
-[12Apr2025 02:41:55.759] [main/INFO] [atomicstryker.dynamiclights.server.ItemLightLevels/]: Clearing item tag to light level mapping cache
-[12Apr2025 02:41:55.785] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 16 curio slots
-[12Apr2025 02:41:55.790] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 9 curio entities
-[12Apr2025 02:41:56.194] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[12Apr2025 02:41:56.195] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[12Apr2025 02:41:56.196] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[12Apr2025 02:41:56.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[12Apr2025 02:41:56.387] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[12Apr2025 02:41:56.414] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[12Apr2025 02:41:56.536] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[12Apr2025 02:41:56.536] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[12Apr2025 02:41:56.537] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[12Apr2025 02:41:56.537] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[12Apr2025 02:41:56.701] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Initializing Open Parties and Claims for the server...
-[12Apr2025 02:41:56.716] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Loading server info!
-[12Apr2025 02:41:56.796] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Loading player configs...
-[12Apr2025 02:41:56.848] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Loaded player configs!
-[12Apr2025 02:41:56.848] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Loading parties...
-[12Apr2025 02:41:56.850] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Loaded parties!
-[12Apr2025 02:41:56.851] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Fixing party inconsistencies...
-[12Apr2025 02:41:56.928] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Registered party system for OPAC: default
-[12Apr2025 02:41:56.931] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Registered permission system for OPAC: permission_api
-[12Apr2025 02:41:56.945] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
-[12Apr2025 02:41:56.947] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 glowstone
-[12Apr2025 02:41:56.948] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 2
-[12Apr2025 02:41:56.948] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
-[12Apr2025 02:41:56.951] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 1
-[12Apr2025 02:41:56.954] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
-[12Apr2025 02:41:56.955] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 glowstone
-[12Apr2025 02:41:56.955] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 2
-[12Apr2025 02:41:56.956] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
-[12Apr2025 02:41:56.957] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 1
-[12Apr2025 02:41:56.973] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[12Apr2025 02:41:57.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[12Apr2025 02:42:00.778] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Apr2025 02:42:00.782] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Apr2025 02:42:00.782] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Apr2025 02:42:00.783] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Apr2025 02:42:00.783] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Apr2025 02:42:00.783] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Apr2025 02:42:00.784] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Apr2025 02:42:01.206] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[12Apr2025 02:42:01.939] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 4234 ms
-[12Apr2025 02:42:01.940] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (5.388s)! For help, type "help"
-[12Apr2025 02:42:01.942] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting GS4 status listener
-[12Apr2025 02:42:01.952] [Server thread/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread Query Listener started
-[12Apr2025 02:42:01.952] [Query Listener #1/INFO] [net.minecraft.server.rcon.thread.QueryThreadGs4/]: Query running on 0.0.0.0:25565
-[12Apr2025 02:42:01.952] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting remote control listener
-[12Apr2025 02:42:01.955] [Server thread/WARN] [net.minecraft.server.rcon.thread.RconThread/]: No rcon password set in server.properties, rcon disabled!
-[12Apr2025 02:42:01.961] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JMX monitoring enabled
-[12Apr2025 02:42:02.010] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[12Apr2025 02:42:02.013] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Loading claims...
-[12Apr2025 02:42:02.018] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Loaded claims in 5ms
-[12Apr2025 02:42:02.019] [Server thread/WARN] [xaero.pac.OpenPartiesAndClaims/]: The configured permission system "prometheus" isn't registered!
-[12Apr2025 02:42:02.020] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Configured OPAC to use the following permission system: permission_api
-[12Apr2025 02:42:02.021] [Server thread/WARN] [xaero.pac.OpenPartiesAndClaims/]: The configured primary party system "argonauts_guilds" isn't registered!
-[12Apr2025 02:42:02.022] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Configured OPAC to use the following party system as primary: default
-[12Apr2025 02:42:02.030] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: connectivity.json
-[12Apr2025 02:42:02.031] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[12Apr2025 02:42:02.044] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'feed-see.gl.at.ply.gg:1081'
-[12Apr2025 02:42:02.044] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 1081
-[12Apr2025 02:42:02.046] [Server thread/WARN] [ModernFix/]: Dedicated server took 49.101 seconds to load
-[12Apr2025 02:47:29.733] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 02:47:29.740] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[15Apr2025 23:06:14.807] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag magistuarmory:darkening_templates as it is missing following references: magistuarmoryaddon:darkening_template (from [1.20.x-forge]-Epic-Knights-Addon-1.22.jar)
+[15Apr2025 23:06:14.811] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag magistuarmory:gilding_templates as it is missing following references: magistuarmoryaddon:gilding_template (from [1.20.x-forge]-Epic-Knights-Addon-1.22.jar)
+[15Apr2025 23:06:16.731] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mimic:entities/mimic}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[15Apr2025 23:06:16.738] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mimic:entities/mimic}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[15Apr2025 23:06:16.738] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mimic:entities/mimic}.pools[0].entries[9].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[15Apr2025 23:06:16.740] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mimic:entities/mimic}.pools[0].entries[8].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[15Apr2025 23:06:16.740] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mimic:entities/mimic}.pools[0].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[15Apr2025 23:06:16.740] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mimic:entities/mimic}.pools[0].entries[7].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[15Apr2025 23:06:16.741] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mimic:entities/mimic}.pools[0].entries[3].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[15Apr2025 23:06:16.744] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mimic:entities/mimic}.pools[0].entries[4].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[15Apr2025 23:06:16.819] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe antiquelegacy:mars_of_todi_thorax: com.google.gson.JsonSyntaxException: Unknown item 'antiquelegacy:mars_of_todi_thorax'
+[15Apr2025 23:06:16.834] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe antiquelegacy:furnace/gold_nugget_blasting: com.google.gson.JsonSyntaxException: Unknown item 'antiquelegacy:golden_laurel_wreath'
+[15Apr2025 23:06:16.887] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe magistuarmoryaddon:darkblued_sallet_from_dark_gothic_helmet_darkening: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
+[15Apr2025 23:06:16.890] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe recrafted_creatures:creature_catalogue as it's serializer returned null
+[15Apr2025 23:06:16.902] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe antiquelegacy:furnace/bronze_nugget_blasting: com.google.gson.JsonSyntaxException: Unknown item 'antiquelegacy:left_gladiator_shoulder_pad'
+[15Apr2025 23:06:16.906] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe magistuarmoryaddon:darkblued_armet_from_dark_knight_helmet_darkening: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:smithing'
+[15Apr2025 23:06:16.923] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe epicknights_open_helms:glided_dark_clos: com.google.gson.JsonSyntaxException: Unknown item 'epicknights_open_helms:glided_dark_close_helmet'
+[15Apr2025 23:06:16.939] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe antiquelegacy:furnace/iron_nugget_blasting: com.google.gson.JsonSyntaxException: Unknown item 'antiquelegacy:iron_left_hand_manika'
+[15Apr2025 23:06:16.997] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 23 recipes
+[15Apr2025 23:06:17.223] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2188 advancements
+[15Apr2025 23:06:17.226] [main/INFO] [rechiseled/]: Loaded 79 chiseling recipes
+[15Apr2025 23:06:17.229] [main/INFO] [atomicstryker.dynamiclights.server.ItemLightLevels/]: Clearing item tag to light level mapping cache
+[15Apr2025 23:06:17.256] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 16 curio slots
+[15Apr2025 23:06:17.264] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 9 curio entities
+[15Apr2025 23:06:17.812] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[15Apr2025 23:06:17.813] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[15Apr2025 23:06:17.813] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[15Apr2025 23:06:17.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[15Apr2025 23:06:17.943] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[15Apr2025 23:06:17.995] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[15Apr2025 23:06:18.142] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15Apr2025 23:06:18.142] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[15Apr2025 23:06:18.143] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15Apr2025 23:06:18.143] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[15Apr2025 23:06:18.294] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Initializing Open Parties and Claims for the server...
+[15Apr2025 23:06:18.309] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Loading server info!
+[15Apr2025 23:06:18.430] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Loading player configs...
+[15Apr2025 23:06:18.508] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Loaded player configs!
+[15Apr2025 23:06:18.510] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Loading parties...
+[15Apr2025 23:06:18.512] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Loaded parties!
+[15Apr2025 23:06:18.513] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Fixing party inconsistencies...
+[15Apr2025 23:06:18.562] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Registered party system for OPAC: default
+[15Apr2025 23:06:18.563] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Registered permission system for OPAC: permission_api
+[15Apr2025 23:06:18.569] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
+[15Apr2025 23:06:18.570] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 glowstone
+[15Apr2025 23:06:18.571] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 2
+[15Apr2025 23:06:18.572] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
+[15Apr2025 23:06:18.572] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 1
+[15Apr2025 23:06:18.573] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
+[15Apr2025 23:06:18.575] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 glowstone
+[15Apr2025 23:06:18.575] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 2
+[15Apr2025 23:06:18.575] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
+[15Apr2025 23:06:18.576] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 1
+[15Apr2025 23:06:18.590] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[15Apr2025 23:06:19.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[15Apr2025 23:06:21.596] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Apr2025 23:06:21.597] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Apr2025 23:06:21.598] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Apr2025 23:06:21.598] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Apr2025 23:06:21.599] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Apr2025 23:06:21.681] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Apr2025 23:06:22.181] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Apr2025 23:06:22.738] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 3557 ms
+[15Apr2025 23:06:22.739] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (4.579s)! For help, type "help"
+[15Apr2025 23:06:22.741] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting GS4 status listener
+[15Apr2025 23:06:22.760] [Server thread/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread Query Listener started
+[15Apr2025 23:06:22.762] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting remote control listener
+[15Apr2025 23:06:22.763] [Server thread/WARN] [net.minecraft.server.rcon.thread.RconThread/]: No rcon password set in server.properties, rcon disabled!
+[15Apr2025 23:06:22.763] [Query Listener #1/INFO] [net.minecraft.server.rcon.thread.QueryThreadGs4/]: Query running on 0.0.0.0:25565
+[15Apr2025 23:06:22.773] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JMX monitoring enabled
+[15Apr2025 23:06:22.849] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[15Apr2025 23:06:22.853] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Loading claims...
+[15Apr2025 23:06:22.860] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Loaded claims in 7ms
+[15Apr2025 23:06:22.861] [Server thread/WARN] [xaero.pac.OpenPartiesAndClaims/]: The configured permission system "prometheus" isn't registered!
+[15Apr2025 23:06:22.862] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Configured OPAC to use the following permission system: permission_api
+[15Apr2025 23:06:22.862] [Server thread/WARN] [xaero.pac.OpenPartiesAndClaims/]: The configured primary party system "argonauts_guilds" isn't registered!
+[15Apr2025 23:06:22.863] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Configured OPAC to use the following party system as primary: default
+[15Apr2025 23:06:22.874] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: connectivity.json
+[15Apr2025 23:06:22.875] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[15Apr2025 23:06:22.885] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'feed-see.gl.at.ply.gg:1081'
+[15Apr2025 23:06:22.887] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 1081
+[15Apr2025 23:06:22.889] [Server thread/WARN] [ModernFix/]: Dedicated server took 86.658 seconds to load
+[15Apr2025 23:07:03.473] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Apr2025 23:07:03.482] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
 {
-  "f_133785_": 59
+  "f_133785_": 15390
 }
-[12Apr2025 02:47:29.740] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
-[12Apr2025 02:47:29.742] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[15Apr2025 23:07:03.483] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[15Apr2025 23:07:03.486] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
 [
-  "&5Jul*[DWGvo-:320,@fKrk"
+  "({]w0`YMRA.320Nck#*|3B"
 ]
-[12Apr2025 02:49:14.162] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[12Apr2025 02:49:14.339] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PlagaXNZ[/127.113.44.68:47945] logged in with entity id 128 at (-1279.835742026532, 71.0, -3062.228274875901)
-[12Apr2025 02:49:14.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ joined the game
-[12Apr2025 02:49:14.706] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 116e9c76-7157-3f7d-8106-557b209a5b07
-[12Apr2025 02:49:20.269] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
-[12Apr2025 02:49:52.341] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 02:49:52.342] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133785_": 41
-}
-[12Apr2025 02:49:52.342] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
-[12Apr2025 02:49:52.344] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "_,\")?GX\\X\\o)320vZg:"
-]
-[12Apr2025 02:50:27.739] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 02:50:27.740] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133785_": 56
-}
-[12Apr2025 02:50:27.740] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 66 extra bytes: 
-[12Apr2025 02:50:27.740] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "<,_r~|320b<,S22RSJ{K;o{"
-]
-[12Apr2025 02:52:06.577] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:52:06.578] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:52:06.578] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:52:06.578] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:52:06.579] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:52:06.579] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:52:06.579] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:52:06.579] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[12Apr2025 02:52:06.580] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:52:06.580] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:52:06.580] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:52:06.580] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:52:06.581] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:52:06.581] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:52:06.581] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:52:06.581] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:52:06.582] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:52:06.582] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:52:06.582] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:52:06.582] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[12Apr2025 02:52:06.583] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:52:06.583] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:52:06.583] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[12Apr2025 02:52:06.583] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:52:06.583] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[12Apr2025 02:52:06.584] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
-[12Apr2025 02:52:06.584] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:52:06.584] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:52:06.584] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:52:06.584] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:52:06.584] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:52:06.585] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:52:06.585] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:52:06.585] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:52:06.585] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:52:06.586] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:52:06.586] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
-[12Apr2025 02:53:30.118] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 02:53:30.123] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[15Apr2025 23:11:30.559] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Apr2025 23:11:30.561] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
 {
   "f_133798_": 1,
-  "f_133799_": "BlockPos{x=2622464, y=896, z=1073200}"
+  "f_133799_": "BlockPos{x=2622464, y=851, z=1073200}"
 }
-[12Apr2025 02:53:30.123] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 137 extra bytes: 
-[12Apr2025 02:53:30.124] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "J'YuaK~6Ht< /d~yy^D.|_&+/,0/521.ip.gl.ply.gg"
-]
-[12Apr2025 02:53:30.124] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundPickItemPacket  id 26 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 02:53:30.124] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_134222_": 39
-}
-[12Apr2025 02:53:30.125] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 26 data of 134 extra bytes: 
-[12Apr2025 02:53:30.125] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "YuaK~6Ht< /d~yy^D.|_&+/,0/521.ip.gl.ply.gg"
-]
-[12Apr2025 02:53:30.126] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundLockDifficultyPacket  id 19 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 02:53:30.129] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_134105_": true
-}
-[12Apr2025 02:53:30.130] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 19 data of 194 extra bytes: 
-[12Apr2025 02:53:30.130] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "yy^D.|_&+/,0/521.ip.gl.ply.gg+3& l hN^]^E"
-]
-[12Apr2025 02:53:31.283] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 02:53:31.284] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133798_": 1,
-  "f_133799_": "BlockPos{x=2622464, y=862, z=1073200}"
-}
-[12Apr2025 02:53:31.284] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 75 extra bytes: 
-[12Apr2025 02:53:31.285] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "Ur^/!,~>%k^ Xe5s~SH3^~7_&+/,0"
-]
-[12Apr2025 02:53:31.429] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 02:53:31.430] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133798_": 1,
-  "f_133799_": "BlockPos{x=2622464, y=776, z=1073200}"
-}
-[12Apr2025 02:53:31.430] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 80 extra bytes: 
-[12Apr2025 02:53:31.430] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "Jd?XKhtbzOZ-/:6 x'(V]x0>iwy3%_`T&+/,0"
-]
-[12Apr2025 02:53:31.431] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundJigsawGeneratePacket  id 17 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 02:53:31.432] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_134073_": "BlockPos{x=12030012, y=-1738, z=-16788566}",
-  "f_134074_": 4115,
-  "f_134075_": true
-}
-[12Apr2025 02:53:31.433] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 17 data of 108 extra bytes: 
-[12Apr2025 02:53:31.433] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "x'(V]x0>iwy3%_`T&+/,0/521.ip.gl.ply.gg"
-]
-[12Apr2025 02:53:31.434] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundSetBeaconPacket  id 39 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 02:53:31.436] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_134472_": [
-    {
-      "f_19446_": {},
-      "f_19447_": "NEUTRAL",
-      "f_19448_": -1,
-      "f_216878_": {}
-    }
-  ],
-  "f_134473_": [
-    {
-      "f_19446_": {},
-      "f_19447_": "NEUTRAL",
-      "f_19448_": -134810,
-      "f_216878_": {}
-    }
-  ]
-}
-[12Apr2025 02:53:31.438] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 39 data of 128 extra bytes: 
-[12Apr2025 02:53:31.439] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "x0>iwy3%_`T&+/,0/521.ip.gl.ply.gg"
-]
-[12Apr2025 02:53:31.440] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundContainerClosePacket  id 12 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 02:53:31.440] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133967_": 62
-}
-[12Apr2025 02:53:31.440] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 12 data of 124 extra bytes: 
-[12Apr2025 02:53:31.441] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "iwy3%_`T&+/,0/521.ip.gl.ply.gg"
-]
-[12Apr2025 02:53:31.442] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 02:53:31.443] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133785_": 843970
-}
-[12Apr2025 02:53:31.443] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 143 extra bytes: 
-[12Apr2025 02:53:31.444] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "%_`T&+/,0/521.ip.gl.ply.gg+3&"
-]
-[12Apr2025 02:53:31.574] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 02:53:31.574] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133798_": 1,
-  "f_133799_": "BlockPos{x=2622464, y=968, z=1073200}"
-}
-[12Apr2025 02:53:31.575] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 122 extra bytes: 
-[12Apr2025 02:53:31.576] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "{Q=K*FLw.<l[`_pj uFE{GFQ!tX}9&+/,0/521.ip."
-]
-[12Apr2025 02:53:31.588] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 02:53:31.589] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133798_": 1,
-  "f_133799_": "BlockPos{x=2622464, y=991, z=1073200}"
-}
-[12Apr2025 02:53:31.589] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
-[12Apr2025 02:53:31.590] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[15Apr2025 23:11:30.562] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[15Apr2025 23:11:30.563] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
 [
   "<partial numeric data>",
-  "[88, 55, -101, 18, -120, 123, 9, -122, -123, -74, -75]"
+  "[58, -24, -20, -98, 56, 89, 23, 11, 32, -96, -78]"
 ]
-[12Apr2025 02:53:32.328] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 02:53:32.329] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[15Apr2025 23:11:31.773] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Apr2025 23:11:31.774] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
 {
   "f_133798_": 1,
-  "f_133799_": "BlockPos{x=2622464, y=876, z=1073200}"
+  "f_133799_": "BlockPos{x=2622464, y=987, z=1073200}"
 }
-[12Apr2025 02:53:32.330] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
-[12Apr2025 02:53:32.330] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[15Apr2025 23:11:31.775] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[15Apr2025 23:11:31.775] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
 [
   "<partial numeric data>",
-  "[73, 79, 119, 14, 30, -99, 63, 28, -62, -43, 15]"
+  "[-110, 32, -15, 96, -107, -33, -45, -5, -33, 98, 55]"
 ]
-[12Apr2025 02:53:32.591] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 02:53:32.592] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[15Apr2025 23:11:32.412] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Apr2025 23:11:32.413] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
 {
   "f_133798_": 1,
-  "f_133799_": "BlockPos{x=2622464, y=816, z=1073200}"
+  "f_133799_": "BlockPos{x=2622464, y=780, z=1073200}"
 }
-[12Apr2025 02:53:32.592] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
-[12Apr2025 02:53:32.593] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[15Apr2025 23:11:32.414] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 13 extra bytes: 
+[15Apr2025 23:11:32.415] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
 [
   "<partial numeric data>",
-  "[-10, -73, -91, 101, 78, -92, 75, -19, -24, -6, 65]"
+  "[-24, -88, -99, -51, -78, 75, -77, 117, 0, -15, -106, 40, 48]"
 ]
-[12Apr2025 02:53:33.034] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 02:53:33.035] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[15Apr2025 23:11:32.650] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Apr2025 23:11:32.651] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
 {
   "f_133798_": 1,
-  "f_133799_": "BlockPos{x=2622464, y=777, z=1073200}"
+  "f_133799_": "BlockPos{x=2622464, y=901, z=1073200}"
 }
-[12Apr2025 02:53:33.035] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 118 extra bytes: 
-[12Apr2025 02:53:33.035] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[15Apr2025 23:11:32.651] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 107 extra bytes: 
+[15Apr2025 23:11:32.652] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
 [
-  "}zNIn8]v$+u_ *8KiA{'jJC|| &+/,0/521"
+  "1Z>CGk2f@BD_ S,G=)qR(L?bZsi&+/,0/5"
 ]
-[12Apr2025 02:53:33.052] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 02:53:33.055] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[15Apr2025 23:11:32.655] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PosRot  id 21 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Apr2025 23:11:32.657] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
 {
-  "f_133798_": 1,
-  "f_133799_": "BlockPos{x=2622464, y=947, z=1073200}"
+  "f_134118_": 8.317894515079887E153,
+  "f_134119_": 2.620168345681717E-93,
+  "f_134120_": 1.5705621031087853E-107,
+  "f_134121_": -1.6583156E20,
+  "f_134122_": 3.8862216E7,
+  "f_134123_": true,
+  "f_134124_": true,
+  "f_134125_": true
 }
-[12Apr2025 02:53:33.055] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 57 extra bytes: 
-[12Apr2025 02:53:33.055] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[15Apr2025 23:11:32.659] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 21 data of 107 extra bytes: 
+[15Apr2025 23:11:32.662] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
 [
-  "mA`3.tQ%`lq 9&a,W*i"
+  "si&+/,0/521.ip.gl.ply.gg"
 ]
-[12Apr2025 02:53:33.490] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 02:53:33.491] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[15Apr2025 23:11:32.663] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Apr2025 23:11:32.665] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
 {
-  "f_133798_": 1,
-  "f_133799_": "BlockPos{x=2622464, y=896, z=1073200}"
+  "f_133785_": 38
 }
-[12Apr2025 02:53:33.492] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
-[12Apr2025 02:53:33.492] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[15Apr2025 23:11:32.668] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 107 extra bytes: 
+[15Apr2025 23:11:32.669] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
 [
-  "D~F;CI%V"
+  "+/,0/521.ip.gl.ply.gg"
 ]
-[12Apr2025 02:53:37.416] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Florence}[style={}] has been infected
-[12Apr2025 02:53:53.466] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 02:53:53.466] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[15Apr2025 23:11:33.112] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Apr2025 23:11:33.114] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
 {
   "f_133798_": 1,
-  "f_133799_": "BlockPos{x=5768192, y=925, z=1122352}"
+  "f_133799_": "BlockPos{x=2622464, y=966, z=1073200}"
 }
-[12Apr2025 02:53:53.467] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
-[12Apr2025 02:53:53.467] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[15Apr2025 23:11:33.114] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 71 extra bytes: 
+[15Apr2025 23:11:33.115] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "P2fF3 /9nk1 I&&GUT!~Eu'-nb&+/,"
+]
+[15Apr2025 23:11:33.457] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Apr2025 23:11:33.458] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=835, z=1073200}"
+}
+[15Apr2025 23:11:33.458] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[15Apr2025 23:11:33.458] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
 [
   "<partial numeric data>",
-  "[63, -66, -43, -84, -80, -89, 112, -10, 15, -123, -65]"
+  "[-93, 80, -1, -109, -14, -17, 73, 2, -68, 78, 38]"
 ]
-[12Apr2025 02:53:53.723] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 02:53:53.726] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[15Apr2025 23:11:33.620] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Apr2025 23:11:33.621] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=837, z=1073200}"
+}
+[15Apr2025 23:11:33.621] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[15Apr2025 23:11:33.622] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-123, 35, 21, 3, -65, -110, 65, -38, 42, -57, 120]"
+]
+[15Apr2025 23:11:33.859] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Apr2025 23:11:33.860] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=965, z=1073200}"
+}
+[15Apr2025 23:11:33.860] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 22 extra bytes: 
+[15Apr2025 23:11:33.861] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-104, 64, -99, -121, 120, 122, 25, 19, -50, 94, -111, -107, -120, 127, 56, 94, -38, -1, -94, 86, 46, 8]"
+]
+[15Apr2025 23:11:33.862] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundPaddleBoatPacket  id 25 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Apr2025 23:11:33.862] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134206_": true,
+  "f_134207_": true
+}
+[15Apr2025 23:11:33.862] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 25 data of 243 extra bytes: 
+[15Apr2025 23:11:33.863] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "^8^V.kU @uf?<9\"kv*n&+/,0/521.ip.gl.ply.g+3&$ oENW^Cwd5ljD"
+]
+[15Apr2025 23:11:34.318] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Apr2025 23:11:34.319] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=849, z=1073200}"
+}
+[15Apr2025 23:11:34.319] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[15Apr2025 23:11:34.320] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-117, 97, 52, -81, 51, -19, -126, -86, -21, -63, 14]"
+]
+[15Apr2025 23:11:35.999] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Apr2025 23:11:36.002] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=919, z=1073200}"
+}
+[15Apr2025 23:11:36.002] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 83 extra bytes: 
+[15Apr2025 23:11:36.002] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "G]m_)Ajpq6 \\{16i5C9_!OmzO&+/,0"
+]
+[15Apr2025 23:11:56.937] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Apr2025 23:11:56.937] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=5768192, y=888, z=1122352}"
+}
+[15Apr2025 23:11:56.938] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 96 extra bytes: 
+[15Apr2025 23:11:56.938] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  " [jr*vSkPkH{a znimX\\Lw~mR82+/,0/5"
+]
+[15Apr2025 23:11:56.939] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundPongPacket  id 32 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Apr2025 23:11:56.939] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_179721_": -1298527035
+}
+[15Apr2025 23:11:56.940] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 32 data of 101 extra bytes: 
+[15Apr2025 23:11:56.940] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "[jr*vSkPkH{a znimX\\Lw~mR82+/,0/5#'<"
+]
+[15Apr2025 23:11:56.943] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundPongPacket  id 32 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Apr2025 23:11:56.943] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_179721_": -2052294116
+}
+[15Apr2025 23:11:56.943] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 32 data of 107 extra bytes: 
+[15Apr2025 23:11:56.944] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "nimX\\Lw~mR82+/,0/5#'<21.ip.gl.ply.gg"
+]
+[15Apr2025 23:11:56.947] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundChatAckPacket  id 3 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Apr2025 23:11:56.949] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_244085_": 2
+}
+[15Apr2025 23:11:56.949] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 3 data of 1 extra bytes: 
+[15Apr2025 23:11:56.950] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[2]"
+]
+[15Apr2025 23:11:56.951] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundChangeDifficultyPacket  id 2 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Apr2025 23:11:56.952] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133814_": "HARD"
+}
+[15Apr2025 23:11:56.953] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 2 data of 2 extra bytes: 
+[15Apr2025 23:11:56.953] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[1, 0]"
+]
+[15Apr2025 23:11:56.953] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Apr2025 23:11:56.954] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 0
+}
+[15Apr2025 23:11:56.954] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 21 extra bytes: 
+[15Apr2025 23:11:56.954] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[0, 18, 0, 0, 0, 43, 0, 9, 8, 3, 4, 3, 3, 3, 2, 3, 1, 0, 51, 0, 38]"
+]
+[15Apr2025 23:11:56.955] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Apr2025 23:11:56.956] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 18
+}
+[15Apr2025 23:11:56.957] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 19 extra bytes: 
+[15Apr2025 23:11:56.957] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[0, 0, 0, 43, 0, 9, 8, 3, 4, 3, 3, 3, 2, 3, 1, 0, 51, 0, 38]"
+]
+[15Apr2025 23:11:56.958] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Apr2025 23:11:56.958] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 0
+}
+[15Apr2025 23:11:56.958] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 53 extra bytes: 
+[15Apr2025 23:11:56.958] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "+3& M=&aV\"CzI/{H0V#A"
+]
+[15Apr2025 23:11:56.960] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Apr2025 23:11:56.960] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 43
+}
+[15Apr2025 23:11:56.961] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 51 extra bytes: 
+[15Apr2025 23:11:56.961] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "3& M=&aV\"CzI/{H0V#A"
+]
+[15Apr2025 23:11:57.497] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Apr2025 23:11:57.498] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
 {
   "f_133798_": 0,
-  "f_133799_": "BlockPos{x=-8125440, y=856, z=905264}"
+  "f_133799_": "BlockPos{x=-8125440, y=815, z=905264}"
 }
-[12Apr2025 02:53:53.728] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 136 extra bytes: 
-[12Apr2025 02:53:53.730] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[15Apr2025 23:11:57.498] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 59 extra bytes: 
+[15Apr2025 23:11:57.499] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
 [
-  "_f=Mb}P\\ hf3g,'j<(5#/$/08k+9@="
+  "h KHnUehI5h/'#="
 ]
-[12Apr2025 02:53:53.731] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:Pos  id 20 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 02:53:53.739] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[15Apr2025 23:11:57.499] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Apr2025 23:11:57.499] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
 {
-  "f_134118_": 1.3186197653960225E-276,
-  "f_134119_": -4.2715932035448753E-100,
-  "f_134120_": 5.1555797369822744E-233,
+  "f_133785_": 104
+}
+[15Apr2025 23:11:57.500] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 57 extra bytes: 
+[15Apr2025 23:11:57.500] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  " KHnUehI5h/'#="
+]
+[15Apr2025 23:11:57.861] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Apr2025 23:11:57.862] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-11271168, y=841, z=856112}"
+}
+[15Apr2025 23:11:57.862] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 20 extra bytes: 
+[15Apr2025 23:11:57.863] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "}37~Zn|q"
+]
+[15Apr2025 23:11:57.864] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:Pos  id 20 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Apr2025 23:11:57.864] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134118_": -4.803637139422919E238,
+  "f_134119_": -3.7116357920875134E205,
+  "f_134120_": -1.9814164991527476E-180,
   "f_134121_": 0.0,
   "f_134122_": 0.0,
   "f_134123_": true,
   "f_134124_": true,
   "f_134125_": false
 }
-[12Apr2025 02:53:53.742] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 20 data of 160 extra bytes: 
-[12Apr2025 02:53:53.742] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[15Apr2025 23:11:57.864] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 20 data of 37 extra bytes: 
+[15Apr2025 23:11:57.865] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
 [
-  " hf3g,'j<(5#/$/08k+9@=L21.ip.gl.ply.gg"
+  "8,0+/$(k#'g"
 ]
-[12Apr2025 02:53:53.743] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 02:53:53.743] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[15Apr2025 23:11:57.865] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Apr2025 23:11:57.865] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
 {
   "f_133785_": 0
 }
-[12Apr2025 02:53:53.743] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 166 extra bytes: 
-[12Apr2025 02:53:53.744] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[15Apr2025 23:11:57.865] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 35 extra bytes: 
+[15Apr2025 23:11:57.866] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
 [
-  "hf3g,'j<(5#/$/08k+9@=L21.ip.gl.ply.gg"
+  "8,0+/$(k#'g"
 ]
-[12Apr2025 02:53:53.744] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 02:53:53.744] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[15Apr2025 23:11:57.867] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Apr2025 23:11:57.867] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
 {
-  "f_133785_": 22
+  "f_133785_": 598046
 }
-[12Apr2025 02:53:53.744] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 169 extra bytes: 
-[12Apr2025 02:53:53.745] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[15Apr2025 23:11:57.867] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 125 extra bytes: 
+[15Apr2025 23:11:57.868] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
 [
-  "f3g,'j<(5#/$/08k+9@=L21.ip.gl.ply.gg"
+  "(k#'g3=<5/p21.ip.gl.ply.gg#0."
 ]
-[12Apr2025 02:53:53.745] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 02:53:53.745] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[15Apr2025 23:11:57.868] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Apr2025 23:11:57.869] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
 {
-  "f_133785_": 3
+  "f_133785_": 107
 }
-[12Apr2025 02:53:53.758] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 163 extra bytes: 
-[12Apr2025 02:53:53.761] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[15Apr2025 23:11:57.870] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 125 extra bytes: 
+[15Apr2025 23:11:57.870] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
 [
-  "f3g,'j<(5#/$/08k+9@=L21.ip.gl.ply.gg"
+  "#'g3=<5/p21.ip.gl.ply.gg#0."
 ]
-[12Apr2025 02:53:53.765] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 02:53:53.768] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[15Apr2025 23:11:57.870] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[15Apr2025 23:11:57.871] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
 {
-  "f_133785_": 34
+  "f_133785_": 103
 }
-[12Apr2025 02:53:53.769] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 160 extra bytes: 
-[12Apr2025 02:53:53.772] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[15Apr2025 23:11:57.871] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 123 extra bytes: 
+[15Apr2025 23:11:57.871] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
 [
-  "f3g,'j<(5#/$/08k+9@=L21.ip.gl.ply.gg"
+  "3=<5/p21.ip.gl.ply.gg#0."
 ]
-[12Apr2025 02:53:54.315] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 02:53:54.315] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133798_": 0,
-  "f_133799_": "BlockPos{x=-11271168, y=938, z=856112}"
-}
-[12Apr2025 02:53:54.316] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
-[12Apr2025 02:53:54.316] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "<partial numeric data>",
-  "[-75, -110, -59, -33, 107, 16, 61, 66, -94, 66, 39]"
-]
-[12Apr2025 02:55:11.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PlagaXNZ: Set own game mode to Creative Mode]
-[12Apr2025 02:55:30.102] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 02:55:30.105] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133785_": 30
-}
-[12Apr2025 02:55:30.106] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 86 extra bytes: 
-[12Apr2025 02:55:30.106] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "a=<5@rLr320,@z|mtM.HHsIU!ES|#Y<J]_"
-]
-[12Apr2025 02:58:45.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ has completed the challenge [Staff of Life]
-[12Apr2025 02:59:32.378] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Sabrina'/1757, l='ServerLevel[world]', x=-2171.50, y=65.00, z=4019.08] died, message: 'Sabrina was shot by Jakov'
-[12Apr2025 02:59:32.380] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Sabrina'/1757, l='ServerLevel[world]', x=-2171.50, y=65.00, z=4019.08] died: Sabrina was shot by Jakov
-[12Apr2025 03:02:39.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PlagaXNZ: Set own game mode to Survival Mode]
-[12Apr2025 03:02:50.762] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PlagaXNZ lost connection: Disconnected
-[12Apr2025 03:02:50.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ left the game
-[12Apr2025 03:02:50.763] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 116e9c76-7157-3f7d-8106-557b209a5b07
-[12Apr2025 03:02:50.766] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PlagaXNZ
-[12Apr2025 03:05:37.705] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 03:05:37.705] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133785_": 3070
-}
-[12Apr2025 03:05:37.705] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
-[12Apr2025 03:05:37.706] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "n(vg3ZXEgD320;y"
-]
-[12Apr2025 03:07:03.047] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jukot[/127.113.44.68:59435] logged in with entity id 2483 at (-3989.699999988079, 70.0, 3733.6980792579575)
-[12Apr2025 03:07:03.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot joined the game
-[12Apr2025 03:07:03.079] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for daf3981c-623a-33c4-83a6-d56260e38f0b
-[12Apr2025 03:10:44.229] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 03:10:44.229] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133785_": 688237816
-}
-[12Apr2025 03:10:44.229] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 167 extra bytes: 
-[12Apr2025 03:10:44.230] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "qKN\\]r|320p}4vWo:T*S|#Y<J]_VFopu-9_OrI0g,lQL)kK{7r$V1onLPFWLrB"
-]
-[12Apr2025 03:11:04.236] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 03:11:04.237] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133785_": 105
-}
-[12Apr2025 03:11:04.237] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
-[12Apr2025 03:11:04.237] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "M$5qGq~%'4j320cZ"
-]
-[12Apr2025 03:11:27.305] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 03:11:27.306] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133785_": 15121
-}
-[12Apr2025 03:11:27.306] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
-[12Apr2025 03:11:27.306] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "bcgX_&bw4,rG320v"
-]
-[12Apr2025 03:18:53.175] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 03:18:53.175] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133785_": 82
-}
-[12Apr2025 03:18:53.175] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 84 extra bytes: 
-[12Apr2025 03:18:53.176] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "\\b+$Q]Q<320A?5U~_,~;'ES|#Y<J]"
-]
-[12Apr2025 03:21:19.141] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 03:21:19.142] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133785_": 1207859
-}
-[12Apr2025 03:21:19.142] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 96 extra bytes: 
-[12Apr2025 03:21:19.143] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "4Wqbg!j#3320/V;[=W>px?S|#Y<J]_VFopu-"
-]
-[12Apr2025 03:22:52.260] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Sabrina'/12622, l='ServerLevel[world]', x=-2165.30, y=64.50, z=4029.45] died, message: 'Sabrina was slain by Jonathan'
-[12Apr2025 03:22:52.261] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Sabrina'/12622, l='ServerLevel[world]', x=-2165.30, y=64.50, z=4029.45] died: Sabrina was slain by Jonathan
-[12Apr2025 03:28:55.357] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Sabrina'/14280, l='ServerLevel[world]', x=-2170.78, y=64.00, z=4034.50] died, message: 'Sabrina was slain by Baki'
-[12Apr2025 03:28:55.359] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Sabrina'/14280, l='ServerLevel[world]', x=-2170.78, y=64.00, z=4034.50] died: Sabrina was slain by Baki
-[12Apr2025 03:29:32.966] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Sabrina'/14514, l='ServerLevel[world]', x=-2167.60, y=64.12, z=4032.74] died, message: 'Sabrina was slain by Baki'
-[12Apr2025 03:29:32.966] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Sabrina'/14514, l='ServerLevel[world]', x=-2167.60, y=64.12, z=4032.74] died: Sabrina was slain by Baki
-[12Apr2025 03:32:02.342] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 03:32:02.343] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133785_": 102
-}
-[12Apr2025 03:32:02.343] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
-[12Apr2025 03:32:02.343] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "pOR3O7=*ehAK/320[p[aC"
-]
-[12Apr2025 03:33:57.906] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 03:33:57.907] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133785_": 71170
-}
-[12Apr2025 03:33:57.908] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 82 extra bytes: 
-[12Apr2025 03:33:57.908] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "Z_EoSw320,a9ayRDne=,*S|#Y<J]"
-]
-[12Apr2025 03:36:58.530] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 03:36:58.530] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133785_": 849
-}
-[12Apr2025 03:36:58.530] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 55 extra bytes: 
-[12Apr2025 03:36:58.531] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "]etp,L\"'tmZj320C|e6M"
-]
-[12Apr2025 03:38:10.165] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 03:38:10.166] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133798_": 1,
-  "f_133799_": "BlockPos{x=2622464, y=841, z=1073200}"
-}
-[12Apr2025 03:38:10.166] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 62 extra bytes: 
-[12Apr2025 03:38:10.166] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "2R+(e`RsKP %H]u|#/l)$8LPi"
-]
-[12Apr2025 03:38:11.955] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 03:38:11.957] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133798_": 1,
-  "f_133799_": "BlockPos{x=2622464, y=937, z=1073200}"
-}
-[12Apr2025 03:38:11.959] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 51 extra bytes: 
-[12Apr2025 03:38:11.959] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "YLS:.xD%%Ha dIM\"692"
-]
-[12Apr2025 03:38:12.029] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 03:38:12.030] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133798_": 1,
-  "f_133799_": "BlockPos{x=2622464, y=956, z=1073200}"
-}
-[12Apr2025 03:38:12.030] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 14 extra bytes: 
-[12Apr2025 03:38:12.030] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "<partial numeric data>",
-  "[48, 74, -71, -29, -14, -8, 101, 8, -47, -37, 27, 122, 78, 13]"
-]
-[12Apr2025 03:38:12.030] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundTeleportToEntityPacket  id 48 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 03:38:12.031] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_134677_": "4ab9e3f2-f865-08d1-db1b-7a4e0d84b214"
-}
-[12Apr2025 03:38:12.031] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 48 data of 20 extra bytes: 
-[12Apr2025 03:38:12.031] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "<partial numeric data>",
-  "[-100, 16, 57, -41, -30, -7, 47, 85, 126, 32, -17, -103, 42, -95, -49, 13, -46, -66, -81, -119]"
-]
-[12Apr2025 03:38:12.031] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundPongPacket  id 32 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 03:38:12.032] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_179721_": -275174751
-}
-[12Apr2025 03:38:12.032] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 32 data of 148 extra bytes: 
-[12Apr2025 03:38:12.032] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "9|XM@'C/&+/,0/521.ip.gl.ply.gg"
-]
-[12Apr2025 03:38:12.051] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 03:38:12.051] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133785_": 38
-}
-[12Apr2025 03:38:12.052] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 36 extra bytes: 
-[12Apr2025 03:38:12.053] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  " YUph%Um+&:9k"
-]
-[12Apr2025 03:38:12.080] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 03:38:12.080] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133798_": 1,
-  "f_133799_": "BlockPos{x=2622464, y=1023, z=1073200}"
-}
-[12Apr2025 03:38:12.081] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 82 extra bytes: 
-[12Apr2025 03:38:12.081] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "\"<kK1: Wnq`lzI)*2&+/,0"
-]
-[12Apr2025 03:38:12.148] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 03:38:12.148] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133798_": 1,
-  "f_133799_": "BlockPos{x=2622464, y=952, z=1073200}"
-}
-[12Apr2025 03:38:12.148] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
-[12Apr2025 03:38:12.149] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "<partial numeric data>",
-  "[-110, -41, 100, -73, 126, -110, -104, 78, 15, -120, -7]"
-]
-[12Apr2025 03:38:12.417] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 03:38:12.417] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133798_": 1,
-  "f_133799_": "BlockPos{x=2622464, y=978, z=1073200}"
-}
-[12Apr2025 03:38:12.417] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 76 extra bytes: 
-[12Apr2025 03:38:12.418] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "UE236$nN;\"0 5,pD-K=d}D+#&+/,0"
-]
-[12Apr2025 03:38:13.239] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 03:38:13.239] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133798_": 1,
-  "f_133799_": "BlockPos{x=2622464, y=817, z=1073200}"
-}
-[12Apr2025 03:38:13.240] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
-[12Apr2025 03:38:13.240] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "<partial numeric data>",
-  "[-56, 85, -70, -93, 21, 29, -18, -113, 41, -31, -6]"
-]
-[12Apr2025 03:38:13.303] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 03:38:13.306] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133798_": 1,
-  "f_133799_": "BlockPos{x=2622464, y=870, z=1073200}"
-}
-[12Apr2025 03:38:13.307] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 100 extra bytes: 
-[12Apr2025 03:38:13.307] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "HNp^Za}C:v I:ms~8nv1]&+/,0/5"
-]
-[12Apr2025 03:38:13.310] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundPongPacket  id 32 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 03:38:13.311] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_179721_": -1883063735
-}
-[12Apr2025 03:38:13.312] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 32 data of 133 extra bytes: 
-[12Apr2025 03:38:13.312] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  ":ms~8nv1]&+/,0/521.ip.gl.ply.gg"
-]
-[12Apr2025 03:38:13.313] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 03:38:13.314] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133785_": 38
-}
-[12Apr2025 03:38:13.314] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 170 extra bytes: 
-[12Apr2025 03:38:13.314] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "+/,0/521.ip.gl.ply.gg+3& YIgG:H,|f#~"
-]
-[12Apr2025 03:38:13.575] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 03:38:13.576] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133798_": 1,
-  "f_133799_": "BlockPos{x=2622464, y=772, z=1073200}"
-}
-[12Apr2025 03:38:13.576] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 39 extra bytes: 
-[12Apr2025 03:38:13.576] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  ":-&B'AafOr7F T`o4"
-]
-[12Apr2025 03:38:33.469] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 03:38:33.470] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133798_": 1,
-  "f_133799_": "BlockPos{x=5768192, y=897, z=1122352}"
-}
-[12Apr2025 03:38:33.470] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
-[12Apr2025 03:38:33.472] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "<partial numeric data>",
-  "[121, 1, 81, 37, 99, 68, -36, 19, 48, -63, 29]"
-]
-[12Apr2025 03:38:33.721] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 03:38:33.722] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133798_": 0,
-  "f_133799_": "BlockPos{x=-8125440, y=790, z=905264}"
-}
-[12Apr2025 03:38:33.722] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 58 extra bytes: 
-[12Apr2025 03:38:33.722] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "I\"a<lD~c6tnh+<2"
-]
-[12Apr2025 03:38:34.009] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 03:38:34.009] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133798_": 0,
-  "f_133799_": "BlockPos{x=-11271168, y=981, z=856112}"
-}
-[12Apr2025 03:38:34.010] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 102 extra bytes: 
-[12Apr2025 03:38:34.010] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "F8iT_BsARf8,0+/$(k#'g93=<5/p21."
-]
-[12Apr2025 03:38:41.092] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 03:38:41.093] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133785_": 105
-}
-[12Apr2025 03:38:41.093] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 96 extra bytes: 
-[12Apr2025 03:38:41.093] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "+TVx/P{.vcwx\\320M#`=j&xLX2,.XS|#Y<J]_VFopu-"
-]
-[12Apr2025 03:40:43.234] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 03:40:43.234] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133785_": 3746
-}
-[12Apr2025 03:40:43.235] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 133 extra bytes: 
-[12Apr2025 03:40:43.235] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "v#jqy>(?BFn5kcp[320RF%-Bq|VS|#Y<J]_VFopu-9_OrI0g,lQL)kK{"
-]
-[12Apr2025 03:42:58.731] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['François'/17595, l='ServerLevel[world]', x=-2205.51, y=62.94, z=4028.42] died, message: 'François was slain by Jukot'
-[12Apr2025 03:43:00.068] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Myriane'/17607, l='ServerLevel[world]', x=-2208.47, y=63.54, z=4029.51] died, message: 'Myriane was slain by Jukot'
-[12Apr2025 03:43:55.423] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ilarion'/18050, l='ServerLevel[world]', x=-1280.58, y=71.00, z=-3057.36] died, message: 'Ilarion was slain by Jukot'
-[12Apr2025 03:43:58.526] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Feodor'/18056, l='ServerLevel[world]', x=-1280.64, y=71.00, z=-3055.64] died, message: 'Feodor was slain by Jukot'
-[12Apr2025 03:44:21.559] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Octavian'/17927, l='ServerLevel[world]', x=-1247.30, y=68.00, z=-3096.48] died, message: 'Octavian was slain by Zinaida'
-[12Apr2025 03:44:21.560] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Octavian'/17927, l='ServerLevel[world]', x=-1247.30, y=68.00, z=-3096.48] died: Octavian was slain by Zinaida
-[12Apr2025 03:45:16.867] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Joé'/18499, l='ServerLevel[world]', x=-2188.06, y=64.94, z=4041.74] died, message: 'Joé was slain by Jukot'
-[12Apr2025 03:46:58.021] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Lionel'/18950, l='ServerLevel[world]', x=-2233.49, y=65.02, z=3993.21] died, message: 'Lionel was slain by Jukot'
-[12Apr2025 03:46:59.372] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Harmonie'/18958, l='ServerLevel[world]', x=-2233.88, y=64.00, z=3997.88] died, message: 'Harmonie was slain by Jukot'
-[12Apr2025 03:47:56.354] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 03:47:56.354] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133785_": 61
-}
-[12Apr2025 03:47:56.354] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
-[12Apr2025 03:47:56.355] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "v1$$y&#JgGVm)320E\\[z"
-]
-[12Apr2025 03:48:00.318] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Myriane'/19245, l='ServerLevel[world]', x=-2171.83, y=64.00, z=4029.49] died, message: 'Myriane was slain by Jukot'
-[12Apr2025 03:48:00.318] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Myriane'/19245, l='ServerLevel[world]', x=-2171.83, y=64.00, z=4029.49] died: Myriane was slain by Jukot
-[12Apr2025 03:48:04.728] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['François'/19256, l='ServerLevel[world]', x=-2168.21, y=64.00, z=4029.73] died, message: 'François was slain by Jukot'
-[12Apr2025 03:48:04.729] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['François'/19256, l='ServerLevel[world]', x=-2168.21, y=64.00, z=4029.73] died: François was slain by Jukot
-[12Apr2025 03:48:09.384] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Lionel'/19240, l='ServerLevel[world]', x=-2165.54, y=65.00, z=4024.55] died, message: 'Lionel was slain by Jukot'
-[12Apr2025 03:48:09.385] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Lionel'/19240, l='ServerLevel[world]', x=-2165.54, y=65.00, z=4024.55] died: Lionel was slain by Jukot
-[12Apr2025 03:48:14.116] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Joé'/19251, l='ServerLevel[world]', x=-2165.64, y=64.00, z=4030.50] died, message: 'Joé was slain by Jukot'
-[12Apr2025 03:48:14.117] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Joé'/19251, l='ServerLevel[world]', x=-2165.64, y=64.00, z=4030.50] died: Joé was slain by Jukot
-[12Apr2025 03:49:44.755] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Savitri'/19750, l='ServerLevel[world]', x=-216.47, y=67.00, z=596.89] died, message: 'Savitri was slain by Jukot'
-[12Apr2025 03:49:46.556] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Surjeet'/19746, l='ServerLevel[world]', x=-213.51, y=68.00, z=602.02] died, message: 'Surjeet was slain by Jukot'
-[12Apr2025 03:50:18.466] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 03:50:18.466] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133785_": 315248
-}
-[12Apr2025 03:50:18.466] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 46 extra bytes: 
-[12Apr2025 03:50:18.467] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "LaLy]5)q<~320&>YN{cv"
-]
-[12Apr2025 03:53:22.294] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 03:53:22.294] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133785_": 487415
-}
-[12Apr2025 03:53:22.294] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 62 extra bytes: 
-[12Apr2025 03:53:22.294] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "$a{X(I(+gw320xtm>!Ej8C@"
-]
-[12Apr2025 03:58:14.591] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 03:58:14.592] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133785_": 117
-}
-[12Apr2025 03:58:14.592] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
-[12Apr2025 03:58:14.592] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "OA{QG1}^}o%3204!g`"
-]
-[12Apr2025 04:01:45.726] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 04:01:45.726] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133785_": 5428
-}
-[12Apr2025 04:01:45.726] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
-[12Apr2025 04:01:45.726] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "vaS?A1K\"&1320- ;%^g"
-]
-[12Apr2025 04:02:58.464] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 04:02:58.464] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133785_": 945010299
-}
-[12Apr2025 04:02:58.464] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 44 extra bytes: 
-[12Apr2025 04:02:58.464] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "#5.jusF#Cn'320Jj:Rd0"
-]
-[12Apr2025 04:04:41.707] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Frédérick'/21807, l='ServerLevel[world]', x=-2175.33, y=64.00, z=4025.50] died, message: 'Frédérick was slain by Squanchy'
-[12Apr2025 04:05:28.275] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 04:05:28.276] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133785_": 257053536
-}
-[12Apr2025 04:05:28.276] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 45 extra bytes: 
-[12Apr2025 04:05:28.276] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "hfcN3201h.F,Tg"
-]
-[12Apr2025 04:05:57.569] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Constantin'/23562, l='ServerLevel[world]', x=-1276.33, y=71.00, z=-3069.35] died, message: 'Constantin was slain by Jukot'
-[12Apr2025 04:05:57.570] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Constantin'/23562, l='ServerLevel[world]', x=-1276.33, y=71.00, z=-3069.35] died: Constantin was slain by Jukot
-[12Apr2025 04:06:09.300] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 04:06:09.301] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133785_": 15384
-}
-[12Apr2025 04:06:09.301] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 113 extra bytes: 
-[12Apr2025 04:06:09.301] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "8r%D.rg}bt320HSfKXntGPS|#Y<J]_VFopu-9_OrI0"
-]
-[12Apr2025 04:06:17.306] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Cristea'/23571, l='ServerLevel[world]', x=-1272.49, y=71.00, z=-3083.53] died, message: 'Cristea was burnt to a crisp whilst fighting Jukot'
-[12Apr2025 04:06:17.306] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Cristea'/23571, l='ServerLevel[world]', x=-1272.49, y=71.00, z=-3083.53] died: Cristea was burnt to a crisp whilst fighting Jukot
-[12Apr2025 04:06:19.060] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Zinaida'/23609, l='ServerLevel[world]', x=-1272.98, y=71.00, z=-3077.45] died, message: 'Zinaida was slain by Jukot'
-[12Apr2025 04:06:19.061] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Zinaida'/23609, l='ServerLevel[world]', x=-1272.98, y=71.00, z=-3077.45] died: Zinaida was slain by Jukot
-[12Apr2025 04:06:21.760] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Vasilisa'/23599, l='ServerLevel[world]', x=-1287.28, y=71.00, z=-3067.48] died, message: 'Vasilisa burned to death'
-[12Apr2025 04:06:21.761] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Vasilisa'/23599, l='ServerLevel[world]', x=-1287.28, y=71.00, z=-3067.48] died: Vasilisa burned to death
-[12Apr2025 04:06:25.164] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Petru'/23601, l='ServerLevel[world]', x=-1274.52, y=68.00, z=-3088.96] died, message: 'Petru was slain by Jukot'
-[12Apr2025 04:06:25.165] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Petru'/23601, l='ServerLevel[world]', x=-1274.52, y=68.00, z=-3088.96] died: Petru was slain by Jukot
-[12Apr2025 04:06:26.918] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Vladislav'/23558, l='ServerLevel[world]', x=-1275.89, y=68.00, z=-3086.99] died, message: 'Vladislav was slain by Jukot'
-[12Apr2025 04:06:26.918] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Vladislav'/23558, l='ServerLevel[world]', x=-1275.89, y=68.00, z=-3086.99] died: Vladislav was slain by Jukot
-[12Apr2025 04:06:34.380] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Adrian'/23581, l='ServerLevel[world]', x=-1281.75, y=68.00, z=-3099.83] died, message: 'Adrian was slain by Jukot'
-[12Apr2025 04:06:34.381] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Adrian'/23581, l='ServerLevel[world]', x=-1281.75, y=68.00, z=-3099.83] died: Adrian was slain by Jukot
-[12Apr2025 04:06:40.164] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Domnica'/23605, l='ServerLevel[world]', x=-1287.14, y=68.00, z=-3097.86] died, message: 'Domnica was slain by Jukot'
-[12Apr2025 04:06:40.165] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Domnica'/23605, l='ServerLevel[world]', x=-1287.14, y=68.00, z=-3097.86] died: Domnica was slain by Jukot
-[12Apr2025 04:06:51.206] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Caterina'/23578, l='ServerLevel[world]', x=-1279.49, y=68.00, z=-3102.53] died, message: 'Caterina was slain by Jukot'
-[12Apr2025 04:06:51.208] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Caterina'/23578, l='ServerLevel[world]', x=-1279.49, y=68.00, z=-3102.53] died: Caterina was slain by Jukot
-[12Apr2025 04:07:40.495] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Valya'/23566, l='ServerLevel[world]', x=-1305.33, y=70.00, z=-3060.88] died, message: 'Valya was slain by Jukot'
-[12Apr2025 04:07:40.496] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Valya'/23566, l='ServerLevel[world]', x=-1305.33, y=70.00, z=-3060.88] died: Valya was slain by Jukot
-[12Apr2025 04:07:44.315] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Iurii'/23568, l='ServerLevel[world]', x=-1307.53, y=68.00, z=-3063.05] died, message: 'Iurii was slain by Jukot'
-[12Apr2025 04:07:44.316] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Iurii'/23568, l='ServerLevel[world]', x=-1307.53, y=68.00, z=-3063.05] died: Iurii was slain by Jukot
-[12Apr2025 04:07:45.314] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Tatyana'/23567, l='ServerLevel[world]', x=-1308.50, y=68.00, z=-3063.34] died, message: 'Tatyana was slain by Jukot'
-[12Apr2025 04:07:45.315] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Tatyana'/23567, l='ServerLevel[world]', x=-1308.50, y=68.00, z=-3063.34] died: Tatyana was slain by Jukot
-[12Apr2025 04:07:57.920] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Stela'/23564, l='ServerLevel[world]', x=-1308.46, y=68.44, z=-3057.72] died, message: 'Stela was slain by Jukot'
-[12Apr2025 04:07:57.921] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Stela'/23564, l='ServerLevel[world]', x=-1308.46, y=68.44, z=-3057.72] died: Stela was slain by Jukot
-[12Apr2025 04:08:06.376] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Taisia'/23565, l='ServerLevel[world]', x=-1308.48, y=68.05, z=-3059.15] died, message: 'Taisia was slain by Jukot'
-[12Apr2025 04:08:06.377] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Taisia'/23565, l='ServerLevel[world]', x=-1308.48, y=68.05, z=-3059.15] died: Taisia was slain by Jukot
-[12Apr2025 04:08:17.261] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Roza'/23569, l='ServerLevel[world]', x=-1309.30, y=68.00, z=-3064.21] died, message: 'Roza was slain by Jukot'
-[12Apr2025 04:08:17.261] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Roza'/23569, l='ServerLevel[world]', x=-1309.30, y=68.00, z=-3064.21] died: Roza was slain by Jukot
-[12Apr2025 04:11:04.682] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 04:11:04.683] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133785_": 33
-}
-[12Apr2025 04:11:04.683] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 65 extra bytes: 
-[12Apr2025 04:11:04.683] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "dA.l0{nM?yvt^(l%320Yi^b??&_p*ep"
-]
-[12Apr2025 04:11:13.760] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ilarion'/24227, l='ServerLevel[world]', x=-1308.86, y=68.44, z=-3057.14] died, message: 'Ilarion was slain by Cristea'
-[12Apr2025 04:11:13.761] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Ilarion'/24227, l='ServerLevel[world]', x=-1308.86, y=68.44, z=-3057.14] died: Ilarion was slain by Cristea
-[12Apr2025 04:12:37.992] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 04:12:37.993] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133785_": 1179037
-}
-[12Apr2025 04:12:37.993] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 166 extra bytes: 
-[12Apr2025 04:12:37.993] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "`B(2Oq!PU 83320<oK0p/2<S|#Y<J]_VFopu-9_OrI0g,lQL)kK{7r$V1onLPFWL"
-]
-[12Apr2025 04:14:16.357] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 04:14:16.357] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133785_": 2900
-}
-[12Apr2025 04:14:16.357] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
-[12Apr2025 04:14:16.357] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "Ejo9f<320Qt"
-]
-[12Apr2025 04:16:23.574] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Mihai'/24812, l='ServerLevel[world]', x=-1343.87, y=73.00, z=-3035.22] died, message: 'Mihai was shot by Jukot'
-[12Apr2025 04:16:31.118] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Cezara'/25066, l='ServerLevel[world]', x=-1342.55, y=73.00, z=-3034.18] died, message: 'Cezara was slain by Jukot'
-[12Apr2025 04:16:33.674] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Victoria'/25096, l='ServerLevel[world]', x=-1342.91, y=73.00, z=-3033.05] died, message: 'Victoria was slain by Jukot'
-[12Apr2025 04:16:38.063] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Nina'/25033, l='ServerLevel[world]', x=-1344.53, y=73.00, z=-3032.12] died, message: 'Nina was slain by Jukot'
-[12Apr2025 04:16:39.967] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Emilia'/25101, l='ServerLevel[world]', x=-1343.64, y=73.00, z=-3033.36] died, message: 'Emilia was slain by Jukot'
-[12Apr2025 04:16:41.310] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Dinu'/24825, l='ServerLevel[world]', x=-1344.88, y=73.00, z=-3032.27] died, message: 'Dinu was slain by Jukot'
-[12Apr2025 04:16:44.667] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Marin'/25026, l='ServerLevel[world]', x=-1345.86, y=73.00, z=-3033.89] died, message: 'Marin was slain by Jukot'
-[12Apr2025 04:16:44.668] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Marin'/25026, l='ServerLevel[world]', x=-1345.86, y=73.00, z=-3033.89] died: Marin was slain by Jukot
-[12Apr2025 04:16:46.113] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Georgeta'/25049, l='ServerLevel[world]', x=-1345.87, y=73.00, z=-3033.13] died, message: 'Georgeta was slain by Jukot'
-[12Apr2025 04:16:47.613] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Gheorghe'/24824, l='ServerLevel[world]', x=-1348.11, y=73.00, z=-3036.17] died, message: 'Gheorghe was slain by Jukot'
-[12Apr2025 04:17:15.530] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Costin'/24826, l='ServerLevel[world]', x=-1349.14, y=72.00, z=-3035.14] died, message: 'Costin was slain by Jukot'
-[12Apr2025 04:19:47.322] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jukot lost connection: Disconnected
-[12Apr2025 04:19:47.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot left the game
-[12Apr2025 04:19:47.323] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for daf3981c-623a-33c4-83a6-d56260e38f0b
-[12Apr2025 04:19:47.323] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jukot
-[12Apr2025 04:21:15.417] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 04:21:15.417] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133785_": 35
-}
-[12Apr2025 04:21:15.417] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 140 extra bytes: 
-[12Apr2025 04:21:15.418] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "<D|QrZt)+7320&b`>CA5*Rgad4~S|#Y<J]_VFopu-9_OrI0g,lQL)kK{7r$"
-]
-[12Apr2025 04:23:57.621] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 04:23:57.622] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133785_": 5667
-}
-[12Apr2025 04:23:57.622] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 78 extra bytes: 
-[12Apr2025 04:23:57.622] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "4wY|H&uP(zRbWxS320**zZP8V9U{wS|#Y<"
-]
-[12Apr2025 04:24:49.249] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 04:24:49.249] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133785_": 4316
-}
-[12Apr2025 04:24:49.249] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 69 extra bytes: 
-[12Apr2025 04:24:49.250] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "A2ii-320xq1bz)hy0aS|"
-]
-[12Apr2025 04:25:59.697] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 04:25:59.697] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133785_": 4
-}
-[12Apr2025 04:25:59.698] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 122 extra bytes: 
-[12Apr2025 04:25:59.698] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "lWg xq)8!l{u.320P1;jb{d&Yx9 bS|#Y<J]_VFopu-9_OrI0g,lQ"
-]
-[12Apr2025 04:30:45.231] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 04:30:45.231] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133785_": 59
-}
-[12Apr2025 04:30:45.231] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
-[12Apr2025 04:30:45.232] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  ";Z*gf)tm[!/320[&Mj"
-]
-[12Apr2025 04:33:24.177] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
-[12Apr2025 04:33:24.177] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
-{
-  "f_133785_": 204153715
-}
-[12Apr2025 04:33:24.177] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 45 extra bytes: 
-[12Apr2025 04:33:24.177] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
-[
-  "5z?`TY|b320w1H+b"
-]
+[15Apr2025 23:12:08.677] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[15Apr2025 23:12:08.862] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PlagaXNZ[/127.113.44.68:53355] logged in with entity id 130 at (-1279.4755061452074, 71.0, -3061.876433158078)
+[15Apr2025 23:12:09.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ joined the game
+[15Apr2025 23:12:09.197] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 116e9c76-7157-3f7d-8106-557b209a5b07
+[15Apr2025 23:12:14.017] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[15Apr2025 23:12:44.612] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Octavian'/164, l='ServerLevel[world]', x=-1264.37, y=69.00, z=-3109.71] died, message: 'Octavian was slain by Iosif'
+[15Apr2025 23:12:44.616] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Octavian'/164, l='ServerLevel[world]', x=-1264.37, y=69.00, z=-3109.71] died: Octavian was slain by Iosif
+[15Apr2025 23:13:52.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PlagaXNZ: Set own game mode to Creative Mode]
+[15Apr2025 23:15:18.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ has made the advancement [Break On Through...]
+[15Apr2025 23:15:22.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ has made the advancement [Blast from the... Future?]
+[15Apr2025 23:18:28.414] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:18:28.414] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:18:28.415] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:18:28.415] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:18:28.416] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:18:28.416] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:18:28.416] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:18:28.416] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[15Apr2025 23:18:28.416] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:18:28.417] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:18:28.417] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:18:28.417] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:18:28.418] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:18:28.419] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:18:28.419] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:18:28.420] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:18:28.420] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:18:28.422] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:18:28.423] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:18:28.423] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[15Apr2025 23:18:28.423] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:18:28.423] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:18:28.424] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[15Apr2025 23:18:28.425] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:18:28.425] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[15Apr2025 23:18:28.425] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[15Apr2025 23:18:28.425] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:18:28.425] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:18:28.426] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:18:28.426] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:18:28.426] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:18:28.426] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:18:28.429] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:18:28.430] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:18:28.430] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:18:28.430] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:18:28.431] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[15Apr2025 23:21:10.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PlagaXNZ: Set own game mode to Survival Mode]
+[15Apr2025 23:21:25.559] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PlagaXNZ lost connection: Disconnected
+[15Apr2025 23:21:25.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ left the game
+[15Apr2025 23:21:25.564] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 116e9c76-7157-3f7d-8106-557b209a5b07
+[15Apr2025 23:21:25.574] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PlagaXNZ
+[15Apr2025 23:24:18.990] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jukot[/127.113.44.68:33585] logged in with entity id 2007 at (-2209.5, 63.0, 4023.5)
+[15Apr2025 23:24:19.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot joined the game
+[15Apr2025 23:24:19.032] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for daf3981c-623a-33c4-83a6-d56260e38f0b
