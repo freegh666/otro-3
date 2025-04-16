@@ -1870,3 +1870,6 @@
 [16Apr2025 01:26:32.569] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: item.minecraft.elytra
 [16Apr2025 01:26:32.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jukot moved too quickly! -9.715050407594845,0.07520089011894981,-2.773294112163967
 [16Apr2025 01:26:32.583] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 41142ms or 822 ticks behind
+[16Apr2025 01:29:02.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot has made the advancement [Exotic Hardware]
+[16Apr2025 01:33:27.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot has reached the goal [Like a Bossaru!]
+[16Apr2025 01:33:56.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot has reached the goal [The Power of the Gods]
