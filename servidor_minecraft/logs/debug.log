@@ -7666,3 +7666,35 @@ net.minecraft.ResourceLocationException: Non [a-z0-9/._-] character in path of l
 [16Apr2025 00:56:18.642] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
 [16Apr2025 00:56:24.917] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [16Apr2025 00:56:24.939] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Apr2025 00:59:38.842] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[16Apr2025 00:59:53.966] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Domnica'/47190, l='ServerLevel[world]', x=-1294.36, y=68.00, z=-3049.24] died, message: 'Domnica was slain by Vindicator'
+[16Apr2025 00:59:53.966] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Domnica'/47190, l='ServerLevel[world]', x=-1294.36, y=68.00, z=-3049.24] died: Domnica was slain by Vindicator
+[16Apr2025 01:00:13.206] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Valya'/47187, l='ServerLevel[world]', x=-1289.93, y=68.54, z=-3055.72] died, message: 'Valya was slain by Ravager'
+[16Apr2025 01:00:13.207] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Valya'/47187, l='ServerLevel[world]', x=-1289.93, y=68.54, z=-3055.72] died: Valya was slain by Ravager
+[16Apr2025 01:00:15.059] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Vera'/47175, l='ServerLevel[world]', x=-1273.52, y=70.00, z=-3047.17] died, message: 'Vera was killed by Evoker using magic'
+[16Apr2025 01:00:15.060] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Vera'/47175, l='ServerLevel[world]', x=-1273.52, y=70.00, z=-3047.17] died: Vera was killed by Evoker using magic
+[16Apr2025 01:01:12.506] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Maritana'/47197, l='ServerLevel[world]', x=-1268.21, y=68.00, z=-3042.33] died, message: 'Maritana was slain by Vex'
+[16Apr2025 01:01:12.507] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Maritana'/47197, l='ServerLevel[world]', x=-1268.21, y=68.00, z=-3042.33] died: Maritana was slain by Vex
+[16Apr2025 01:01:24.919] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Apr2025 01:01:24.937] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Apr2025 01:01:26.313] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ştefan'/47181, l='ServerLevel[world]', x=-1283.27, y=71.00, z=-3064.07] died, message: 'Ştefan was slain by Vex'
+[16Apr2025 01:01:26.314] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Ştefan'/47181, l='ServerLevel[world]', x=-1283.27, y=71.00, z=-3064.07] died: Ştefan was slain by Vex
+[16Apr2025 01:01:44.409] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Alexandru'/47161, l='ServerLevel[world]', x=-1251.57, y=69.00, z=-3052.70] died, message: 'Alexandru was slain by Vindicator'
+[16Apr2025 01:01:44.410] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Alexandru'/47161, l='ServerLevel[world]', x=-1251.57, y=69.00, z=-3052.70] died: Alexandru was slain by Vindicator
+[16Apr2025 01:02:04.167] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Mihail'/47160, l='ServerLevel[world]', x=-1247.44, y=68.00, z=-3052.44] died, message: 'Mihail was slain by Vex'
+[16Apr2025 01:02:04.168] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Mihail'/47160, l='ServerLevel[world]', x=-1247.44, y=68.00, z=-3052.44] died: Mihail was slain by Vex
+[16Apr2025 01:02:58.892] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[16Apr2025 01:06:14.425] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[16Apr2025 01:06:14.427] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 90
+}
+[16Apr2025 01:06:14.427] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[16Apr2025 01:06:14.427] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "{,S<(n%o)o320oklFy]"
+]
+[16Apr2025 01:06:18.690] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[16Apr2025 01:06:18.690] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[16Apr2025 01:06:24.919] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Apr2025 01:06:24.934] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
