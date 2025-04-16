@@ -201,3 +201,23 @@
 [16Apr2025 00:46:26.472] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PlagaXNZ[/127.113.44.68:53341] logged in with entity id 45426 at (-1279.586487767576, 71.0, -3062.387943460208)
 [16Apr2025 00:46:26.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ joined the game
 [16Apr2025 00:46:26.519] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 116e9c76-7157-3f7d-8106-557b209a5b07
+[16Apr2025 00:47:25.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PlagaXNZ: Set own game mode to Creative Mode]
+[16Apr2025 00:50:06.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PlagaXNZ: Applied effect Bad Omen to PlagaXNZ]
+[16Apr2025 00:50:18.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PlagaXNZ: Set own game mode to Survival Mode]
+[16Apr2025 00:50:26.262] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PlagaXNZ lost connection: Disconnected
+[16Apr2025 00:50:26.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ left the game
+[16Apr2025 00:50:26.262] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 116e9c76-7157-3f7d-8106-557b209a5b07
+[16Apr2025 00:50:26.263] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PlagaXNZ
+[16Apr2025 00:52:48.552] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[16Apr2025 00:52:48.553] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 54
+}
+[16Apr2025 00:52:48.553] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[16Apr2025 00:52:48.553] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "[1&H|@AE!#320p*G&*&"
+]
+[16Apr2025 00:52:58.268] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jukot[/127.113.44.68:40303] logged in with entity id 46463 at (-2201.77796772799, 65.0, 4022.2720096307785)
+[16Apr2025 00:52:58.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot joined the game
+[16Apr2025 00:52:58.303] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for daf3981c-623a-33c4-83a6-d56260e38f0b
