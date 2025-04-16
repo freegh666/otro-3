@@ -16335,3 +16335,42 @@ java.lang.IndexOutOfBoundsException: Index 5568 out of bounds for length 51
 [16Apr2025 02:37:12.481] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [16Apr2025 02:37:12.509] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [16Apr2025 02:39:39.292] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[16Apr2025 02:41:34.145] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[16Apr2025 02:41:34.152] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 59
+}
+[16Apr2025 02:41:34.153] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[16Apr2025 02:41:34.154] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  " TE)a320saij)"
+]
+[16Apr2025 02:42:12.464] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Apr2025 02:42:12.478] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Apr2025 02:43:07.873] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Marie-Pierre'/67248, l='ServerLevel[world]', x=-2169.30, y=65.00, z=4017.51] died, message: 'Marie-Pierre was shot by Jakov'
+[16Apr2025 02:43:07.873] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Marie-Pierre'/67248, l='ServerLevel[world]', x=-2169.30, y=65.00, z=4017.51] died: Marie-Pierre was shot by Jakov
+[16Apr2025 02:43:32.890] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[16Apr2025 02:44:24.560] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Neven}[style={}] has been infected
+[16Apr2025 02:45:07.701] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Neven}[style={}] has been infected
+[16Apr2025 02:45:07.701] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Neven'/67232, l='ServerLevel[world]', x=-2224.47, y=57.54, z=4062.48] died, message: 'Neven was slain by Zombie'
+[16Apr2025 02:45:07.702] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Neven'/67232, l='ServerLevel[world]', x=-2224.47, y=57.54, z=4062.48] died: Neven was slain by Zombie
+[16Apr2025 02:46:32.792] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[16Apr2025 02:46:32.792] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[16Apr2025 02:47:12.466] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Apr2025 02:47:12.480] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Apr2025 02:49:35.758] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Anouk'/67269, l='ServerLevel[world]', x=-2198.46, y=68.00, z=4022.34] died, message: 'Anouk was slain by Jukot'
+[16Apr2025 02:49:35.758] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Anouk'/67269, l='ServerLevel[world]', x=-2198.46, y=68.00, z=4022.34] died: Anouk was slain by Jukot
+[16Apr2025 02:49:39.342] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[16Apr2025 02:52:12.461] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Apr2025 02:52:12.477] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Apr2025 02:53:12.864] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jukot lost connection: Disconnected
+[16Apr2025 02:53:12.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot left the game
+[16Apr2025 02:53:12.865] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for daf3981c-623a-33c4-83a6-d56260e38f0b
+[16Apr2025 02:53:12.865] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Jukot
+[16Apr2025 02:53:12.865] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jukot
+[16Apr2025 02:53:32.891] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[16Apr2025 02:56:32.841] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[16Apr2025 02:56:32.841] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[16Apr2025 02:57:12.426] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Apr2025 02:57:12.449] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Apr2025 02:59:39.392] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
