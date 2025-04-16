@@ -7384,3 +7384,14 @@
 [16Apr2025 01:46:51.565] [Server thread/WARN] [feathers/]: Attempted to calculate weight of non armor item: item.minecraft.elytra
 [16Apr2025 01:47:32.545] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jukot moved too quickly! 9.754112853725474,-1.9388359791121417,-1.9472168006482207
 [16Apr2025 01:47:32.552] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 40961ms or 819 ticks behind
+[16Apr2025 01:54:30.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot has made the advancement [Do You Believe in Magic?]
+[16Apr2025 01:56:28.687] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[16Apr2025 01:56:28.687] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 124
+}
+[16Apr2025 01:56:28.687] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 138 extra bytes: 
+[16Apr2025 01:56:28.688] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "kAkH6n|p\\ K320(`p'-@FO5DA^S|#Y<J]_VFopu-9_OrI0g,lQL)kK{7"
+]

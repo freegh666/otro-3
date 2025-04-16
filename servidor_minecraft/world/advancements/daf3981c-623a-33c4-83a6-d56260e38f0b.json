@@ -4638,15 +4638,57 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/holystone_bricks": {
+    "criteria": {
+      "has_holystone": "2025-04-16 01:52:10 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/wood_zanite_vanilla_shield": {
     "criteria": {
       "has_zanite_gemstone": "2025-04-16 01:29:02 +0000"
     },
     "done": true
   },
+  "aether:recipes/tools/holystone_pickaxe": {
+    "criteria": {
+      "has_holystone": "2025-04-16 01:52:10 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/holystone_pressure_plate": {
+    "criteria": {
+      "has_holystone": "2025-04-16 01:52:10 +0000"
+    },
+    "done": true
+  },
+  "aether:craft_altar": {
+    "criteria": {
+      "craft_altar": "2025-04-16 01:54:30 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/food/healing_stone_enchanting": {
+    "criteria": {
+      "has_holystone": "2025-04-16 01:52:10 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/zanite_gloves": {
     "criteria": {
       "has_zanite": "2025-04-16 01:29:02 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/holystone_wall_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2025-04-16 01:52:10 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/holystone_stonecutter": {
+    "criteria": {
+      "has_holystone": "2025-04-16 01:52:10 +0000"
     },
     "done": true
   },
@@ -4662,9 +4704,21 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/altar": {
+    "criteria": {
+      "has_holystone": "2025-04-16 01:52:10 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/misc/remedy_bucket_enchanting": {
     "criteria": {
       "has_skyroot_poison_bucket": "2025-04-16 01:29:36 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/incubator": {
+    "criteria": {
+      "has_holystone": "2025-04-16 01:52:10 +0000"
     },
     "done": true
   },
@@ -4680,15 +4734,39 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/holystone_brick_slab_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2025-04-16 01:52:10 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/zanite_leggings": {
     "criteria": {
       "has_zanite": "2025-04-16 01:29:02 +0000"
     },
     "done": true
   },
+  "aether:recipes/decorations/holystone_brick_wall_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2025-04-16 01:52:10 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/holystone_slab": {
+    "criteria": {
+      "has_holystone": "2025-04-16 01:52:10 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/zanite_chestplate": {
     "criteria": {
       "has_zanite": "2025-04-16 01:29:02 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/holystone_hoe": {
+    "criteria": {
+      "has_holystone": "2025-04-16 01:52:10 +0000"
     },
     "done": true
   },
@@ -4701,6 +4779,12 @@
   "aether:recipes/tools/cold_parachute": {
     "criteria": {
       "has_cold_aercloud": "2025-04-16 01:19:19 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/holystone_slab_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2025-04-16 01:52:10 +0000"
     },
     "done": true
   },
@@ -4758,6 +4842,24 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/holystone_bricks_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2025-04-16 01:52:10 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/holystone_sword": {
+    "criteria": {
+      "has_holystone": "2025-04-16 01:52:10 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/holystone_wall": {
+    "criteria": {
+      "has_holystone": "2025-04-16 01:52:10 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/zanite_axe": {
     "criteria": {
       "has_zanite": "2025-04-16 01:29:02 +0000"
@@ -4770,9 +4872,27 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/holystone_stairs": {
+    "criteria": {
+      "has_holystone": "2025-04-16 01:52:10 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/holystone_stairs_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2025-04-16 01:52:10 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/zanite_shovel": {
     "criteria": {
       "has_zanite": "2025-04-16 01:29:02 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/holystone_brick_stairs_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2025-04-16 01:52:10 +0000"
     },
     "done": true
   },
@@ -4788,6 +4908,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/holystone_shovel": {
+    "criteria": {
+      "has_holystone": "2025-04-16 01:52:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
       "has_glowstone": "2025-04-16 01:18:26 +0000"
@@ -4800,15 +4926,45 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/mossy_holystone_with_vine": {
+    "criteria": {
+      "has_holystone": "2025-04-16 01:52:10 +0000"
+    },
+    "done": true
+  },
   "aether:hammer_loot": {
     "criteria": {
       "hammer_loot": "2025-04-16 01:33:56 +0000"
     },
     "done": true
   },
+  "aether:recipes/decorations/freezer": {
+    "criteria": {
+      "has_holystone": "2025-04-16 01:52:10 +0000"
+    },
+    "done": true
+  },
   "aether:zanite": {
     "criteria": {
       "zanite": "2025-04-16 01:29:02 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/mossy_holystone_with_moss": {
+    "criteria": {
+      "has_holystone": "2025-04-16 01:52:10 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/holystone_axe": {
+    "criteria": {
+      "has_holystone": "2025-04-16 01:52:10 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/holystone_button": {
+    "criteria": {
+      "has_holystone": "2025-04-16 01:52:10 +0000"
     },
     "done": true
   },
