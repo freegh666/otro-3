@@ -7780,3 +7780,93 @@ java.lang.IndexOutOfBoundsException: Index 5568 out of bounds for length 51
   "<partial numeric data>",
   "[-80, 21, 61, -89, -27, -13, -56, 64, -44, -38, 30]"
 ]
+[16Apr2025 02:19:06.265] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[16Apr2025 02:19:06.275] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=5768192, y=890, z=1122352}"
+}
+[16Apr2025 02:19:06.276] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 110 extra bytes: 
+[16Apr2025 02:19:06.276] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "Du^zyVHR %'Pba10$wkG0:2+/,0/5#'<"
+]
+[16Apr2025 02:19:06.278] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundPlayerAbilitiesPacket  id 28 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[16Apr2025 02:19:06.278] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134254_": true
+}
+[16Apr2025 02:19:06.278] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 28 data of 117 extra bytes: 
+[16Apr2025 02:19:06.278] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "HR %'Pba10$wkG0:2+/,0/5#'<21.ip.gl.ply.gg"
+]
+[16Apr2025 02:19:06.281] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundTeleportToEntityPacket  id 48 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[16Apr2025 02:19:06.281] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134677_": "3ac49ac6-0032-c02b-c02f-c02cc030cca9"
+}
+[16Apr2025 02:19:06.282] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 48 data of 171 extra bytes: 
+[16Apr2025 02:19:06.282] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "/5#'<21.ip.gl.ply.gg+3& ~WBYd`}\\=PW3|T"
+]
+[16Apr2025 02:19:06.524] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[16Apr2025 02:19:06.525] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-8125440, y=828, z=905264}"
+}
+[16Apr2025 02:19:06.525] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[16Apr2025 02:19:06.526] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[47, 32, 120, 123, -90, -11, -100, -21, 107, 88, 17]"
+]
+[16Apr2025 02:19:06.810] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Virginie'/63861, l='ServerLevel[world]', x=-2170.81, y=68.02, z=3993.28] died, message: 'Virginie was slain by Maximiliano'
+[16Apr2025 02:19:06.833] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[16Apr2025 02:19:06.834] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-11271168, y=927, z=856112}"
+}
+[16Apr2025 02:19:06.834] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 54 extra bytes: 
+[16Apr2025 02:19:06.835] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  ";&J)g8AS*$s~8,0+/$"
+]
+[16Apr2025 02:19:06.836] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundSelectTradePacket  id 38 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[16Apr2025 02:19:06.836] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134459_": 74
+}
+[16Apr2025 02:19:06.837] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 38 data of 107 extra bytes: 
+[16Apr2025 02:19:06.837] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  ")g8AS*$s~8,0+/$k#'g93=<5/p21.ip.gl.ply.gg"
+]
+[16Apr2025 02:19:06.838] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundChangeDifficultyPacket  id 2 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[16Apr2025 02:19:06.838] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133814_": "PEACEFUL"
+}
+[16Apr2025 02:19:06.840] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 2 data of 124 extra bytes: 
+[16Apr2025 02:19:06.840] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "g8AS*$s~8,0+/$k#'g93=<5/p21.ip.gl.ply.gg"
+]
+[16Apr2025 02:19:06.840] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[16Apr2025 02:19:06.841] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 0
+}
+[16Apr2025 02:19:06.842] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 149 extra bytes: 
+[16Apr2025 02:19:06.843] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "8,0+/$k#'g93=<5/p21.ip.gl.ply.gg0."
+]
+[16Apr2025 02:20:58.356] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Julien'/62528, l='ServerLevel[world]', x=-2186.16, y=69.56, z=4031.57] died, message: 'Julien was shot by Miroslav'
+[16Apr2025 02:27:37.800] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Eudochia'/64546, l='ServerLevel[world]', x=-1269.56, y=68.92, z=-3017.50] died, message: 'Eudochia was slain by Zombie'
+[16Apr2025 02:27:37.801] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Eudochia'/64546, l='ServerLevel[world]', x=-1269.56, y=68.92, z=-3017.50] died: Eudochia was slain by Zombie
+[16Apr2025 02:28:57.799] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Simion'/65634, l='ServerLevel[world]', x=-1278.67, y=71.83, z=-3052.42] died: Simion was slain by Mihail
+[16Apr2025 02:29:14.449] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Maria'/65665, l='ServerLevel[world]', x=-1273.60, y=71.00, z=-3063.87] died: Maria was slain by Alexandru
